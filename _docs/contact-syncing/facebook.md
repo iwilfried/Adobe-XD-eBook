@@ -1,6 +1,6 @@
 ---
-title: Facebook
-category: Contact Syncing
+title: Startscreen
+category: Getting Started
 order: 1
 ---
 
