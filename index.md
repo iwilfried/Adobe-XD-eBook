@@ -1,6 +1,7 @@
 ---
 title: Welcome
 ---
+Adobe XD is a complete tool set developed with UI/UX designers in mind. With the power of Adobe XD, designers have the ability to create, prototype, and share website and mobile app designs.
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
 **Edition** is perfect for documenting your product, application or service.
