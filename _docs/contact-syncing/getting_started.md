@@ -1,10 +1,11 @@
 ---
-title: Startscreen
+title: Menus Overview
 category: Getting Started
 order: 1
 ---
 
-Sync your Facebook contacts with ChatApp. Any of your Facebook friends with ChatApp accounts are automatically added to your contact list!
+Previously we gave you a general overview of the Adobe XD interface. Now, let’s dig in a bit more and look at each menu and it’s options
+
 
 > Signing up with Facebook automatically starts syncing contacts.
 
