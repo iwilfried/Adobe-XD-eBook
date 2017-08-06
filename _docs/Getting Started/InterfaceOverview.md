@@ -16,10 +16,11 @@ On the left side you’ll see a column of tools. The selection tool, rectangle t
 
 Below the text tool is the artboard tool. Use this tool to add artboards to your project. Each screen in your project will be a separate artboard. The last tool in the section is the zoom tool. Use the zoom tool to zoom in and out of the screen.
 
-At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;The symbol tool allows you to create “symbols” from icons or elements you will use multiple times throughout the project. If you have a menu bar that will be consistent throughout your design add that as a symbol. If you make edits to the symbol it is updated in every location that symbol appears.!!!
+At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;The symbol tool allows you to create “symbols” from icons or elements you will use multiple times throughout the project. If you have a menu bar that will be consistent throughout your design add that as a symbol. If you make edits to the symbol it is updated in every location that symbol appears.
 
 
 <img align="left" src="//placehold.it/400x600"><div style="margin-left="10px" Your Text comes here...</div>
 
-| ![Flowers](//placehold.it/400x600) | I am text to the right |
-|                                    | text again
+
+
+|![Flowers](//placehold.it/400x600) | I am text to the right At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;The symbol tool allows you to create “symbols” from icons or elements you will use multiple times throughout the project. |
