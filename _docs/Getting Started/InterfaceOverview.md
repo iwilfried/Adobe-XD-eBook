@@ -10,5 +10,5 @@ It’s time to get started. Let’s get familiar with the Adobe XD interface. Fr
 
 Once you’ve selected a preset, a window opens immediately. Here is your blank slate, or your interface. It’s clean and surprisingly straightforward. 
 
-![](//placehold.it/400x400)
+![](//placehold.it/400x600)
 
