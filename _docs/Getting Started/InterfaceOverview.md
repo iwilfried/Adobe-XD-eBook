@@ -18,6 +18,4 @@ Below the text tool is the artboard tool. Use this tool to add artboards to your
 
 At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;The symbol tool allows you to create “symbols” from icons or elements you will use multiple times throughout the project. If you have a menu bar that will be consistent throughout your design add that as a symbol. If you make edits to the symbol it is updated in every location that symbol appears.
 
-<div style="float: right">
-    ![Replace this with your image](http://placehold.it/85x85 "Title")
-</div>
+![Some Title](http://placehold.it/image.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
