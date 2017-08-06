@@ -3,6 +3,14 @@ title: Exploring the Interface
 category: Getting Started
 order: 2
 ---
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
 
 It’s time to get started. Let’s get familiar with the Adobe XD interface. From the Start Screen, choose a file preset. My examples will be based on the iPhone 6/7. 
 
@@ -12,3 +20,6 @@ Once you’ve selected a preset, a window opens immediately. Here is your blank 
 
 ![](//placehold.it/400x600)
 
+|   	|   	|
+|---	|---	|
+|
