@@ -1,6 +1,6 @@
 ---
-title: Phone
-category: Contact Syncing
+title: Interface Overview
+category: Getting Started
 order: 2
 ---
 
