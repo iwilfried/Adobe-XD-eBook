@@ -20,4 +20,4 @@ At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;T
 
 On the left side you’ll see a column of tools. The selection tool, rectangle tool, an ellipse tool, line tool, pen tool and text tool. Each tool has a shortcut. If you forget what the keyboard shortcut is hover your mouse over the tool symbol and it will be displayed.
 
-<img align="right" src="//placehold.it/400x600">
+<img align="left" src="//placehold.it/400x600"> Your Text comes here...
