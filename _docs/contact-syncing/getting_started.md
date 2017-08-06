@@ -1,10 +1,15 @@
 ---
-title: Menus Overview
+title: Start Screen
 category: Getting Started
 order: 1
 ---
 
-Previously we gave you a general overview of the Adobe XD interface. Now, let’s dig in a bit more and look at each menu and it’s options
+Start Screen: Consider the start screen as Adobe XD’s “homebase.” It’s the first screen you see after launching the program and the last screen you see after closing a file.
+
+From the start screen you can access design presets for both Apple and Android phones and tablets, as well as web and custom sizes. 
+
+Keep in mind, there have been multiple updates to Adobe XD so the layout of your Start Screen may vary slightly from the image below.
+
 
 
 > Signing up with Facebook automatically starts syncing contacts.
