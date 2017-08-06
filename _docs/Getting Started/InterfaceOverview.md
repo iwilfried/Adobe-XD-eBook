@@ -1,5 +1,5 @@
 ---
-title: Adobe XD - Exploring the Interface
+title: Exploring the Interface
 category: Getting Started
 order: 2
 ---
