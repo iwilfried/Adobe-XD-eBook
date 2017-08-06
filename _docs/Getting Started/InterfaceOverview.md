@@ -21,6 +21,5 @@ At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;T
 
 <img align="left" src="//placehold.it/400x600"><div style="margin-left="10px" Your Text comes here...</div>
 
-
-
-|![Flowers](//placehold.it/400x600) | I am text to the right At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;The symbol tool allows you to create “symbols” from icons or elements you will use multiple times throughout the project. |
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+![Flowers](//placehold.it/400x600)  I am text to the right At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;The symbol tool allows you to create “symbols” from icons or elements you will use multiple times throughout the project. </div>
