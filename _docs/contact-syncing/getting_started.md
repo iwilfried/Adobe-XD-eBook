@@ -21,21 +21,3 @@ Keep in mind, there have been multiple updates to Adobe XD so the layout of your
 “Learn and support” links you to Adobe’s user guide, tutorials, FAQ’s and troubleshooting tips and tricks. If you’ve been with Adobe XD from the start then you know it has gone through numerous transitions to become the UI/UX design tool it is today. That’s where “Provide Feedback” comes into play. A good portion of XD’s updates were a direct result of user feedback. If you have feature requests or bug issues report it—Adobe wants to hear from you. You’ll also find community and forum links on this page. 
 
 **Recent Files:** The column on the right lists shortcuts to your recent files.
-
-
-
-
-
-
-
-
-
-
-
-> Signing up with Facebook automatically starts syncing contacts.
-
-To sync your contacts:
-
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
