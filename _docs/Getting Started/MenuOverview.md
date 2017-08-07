@@ -12,5 +12,5 @@ Menus Windows 10
 
 Menus Mac
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-01.png" alt="no image" width="480px"/>On the
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-01.png" alt="no image" width="600px"/>On the
 
