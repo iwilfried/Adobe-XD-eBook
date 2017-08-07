@@ -25,6 +25,11 @@ Select the options you want and paste them directly into your design.
 Back to the file menu, below UI Kits are more standard selections. Close, Save and Save As all work as you would expect. If you select “Export” you will be prompted to select design, web, iOS or Android, resolution for Retina display and directory, where you want to save the files.
 
 Choose whichever applies to your project.
+Choose whichever applies to your project.
+Choose whichever applies to your project.
+Choose whichever applies to your project.
+Choose whichever applies to your project.
+Choose whichever applies to your project.
 
 
 
