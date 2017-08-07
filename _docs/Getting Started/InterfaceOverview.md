@@ -23,4 +23,7 @@ At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;T
 
 
 
-<img src="http://dummyimage.com/100x100/000/fff" align="left">At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;The symbol tool allows you to create “symbols” from icons or elements you will use multiple times throughout the project. If you have a menu bar that will be consisten</span>
+<img src="https://iwilfried.github.io/Adobe-XD-eBook/images/StartScreen-01.png" align="left">
+![Start Screen](https://iwilfried.github.io/Adobe-XD-eBook/images/StartScreen-01.png)
+
+At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;The symbol tool allows you to create “symbols” from icons or elements you will use multiple times throughout the project. If you have a menu bar that will be consisten</span>
