@@ -21,6 +21,8 @@ If you select “Open UI Kit” you have the option of further selecting Apple, 
  
 Select the options you want and paste them directly into your design. 
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-03.png" alt="no image" width="520px"/>Back to the file menu, below UI Kits are more standard selections. Close, Save and Save As all work as you would expect. If you select “Export” you will be prompted to select design, web, iOS or Android.
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-03.png" alt="no image" width="520px"/>
+
+Back to the file menu, below UI Kits are more standard selections. Close, Save and Save As all work as you would expect. If you select “Export” you will be prompted to select design, web, iOS or Android.
 
 Choose whichever applies to your project.
