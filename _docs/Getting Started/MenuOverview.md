@@ -13,5 +13,9 @@ Menus Windows 10
 Menus Mac
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-01.png" alt="no image" width="520px"/>**The File menu** This is the File menu on a Mac. The first three options are standard (New, Open & Open Recent). The fourth option “Open UI Kit” is exactly the same option we saw on XD’s start screen. 
 
-UI Kit iOS
+Open UI Kit Apple iOS
 ![Menus Windows 10](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-02.png)
+
+If you select “Open UI Kit” you have the option of further selecting Apple, Google or Microsoft. From there you are given a choice of multiple UI elements that you can add to your design. Below are examples of what you find in the Apple IOS kit. 
+ 
+Select the options you want and paste them directly into your design. 
