@@ -26,4 +26,6 @@ Back to the file menu, below UI Kits are more standard selections. Close, Save a
 
 Choose whichever applies to your project.
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-03.png" alt="no image" height="420px"/>
+
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-03.png" alt="no image" height="420px"/>
