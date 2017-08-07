@@ -16,5 +16,17 @@ Below the text tool is the artboard tool. Use this tool to add artboards to your
 
 At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;The symbol tool allows you to create “symbols” from icons or elements you will use multiple times throughout the project. If you have a menu bar that will be consistent throughout your design add that as a symbol. If you make edits to the symbol it is updated in every location that symbol appears.
 
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Interface-03.png" alt="no image" />The layers tool functions very close to that of Photoshop or Illustrator. As you add design elements to your project they will appear as layers in the left column. Each artboard will have its own list of layers.
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/StartScreen-01.png" alt="no image" width="320" />At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;The symbol tool allows you to create “symbols” from icons or elements you will use multiple times throughout the project. If you have a menu bar that will be consisten
+Still working with the left side of the screen, at the top you’ll see **Design** mode and a **Prototype** mode.
+
+As you might expect, *design mode* is where you design each page of your project. XD has powerful functions to assist you with your design. 
+
+Basic shapes, colors, and drawing tools are available, as well as exciting tools like the repeat grid, symbols and boolean operators (more on these later).
+
+*Prototype mode* is where you add interactions and transitions between artboards or screens. In prototype mode you can preview a simulation of your app and visualize how it flows. 
+
+
+
+
+With multiple sharing options you can have other team members or stakeholders view your project preview and make comments directly to the prototype. Using their feedback you can make design updates and changes.
