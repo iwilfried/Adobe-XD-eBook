@@ -10,8 +10,8 @@ From the start screen you can access design presets for both Apple and Android p
 
 Keep in mind, there have been multiple updates to Adobe XD so the layout of your Start Screen may vary slightly from the image below.
 
-![Start Screen](images/StartScreen-01.png)
-<img src="images/StartScreen-01.png" alt="hi" class="inline"/>
+![Start Screen](http://www.iinet.youcan-trust.org/XD-images/StartScreen-01.png)
+<img src="http://www.iinet.youcan-trust.org/XD-images/StartScreen-01.png">
 
 **Explore the basics:** On the bottom left of the start screen is a button that links you to a beginning tutorial that walks you through how to use the application. 
 
