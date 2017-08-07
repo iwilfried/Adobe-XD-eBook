@@ -22,3 +22,4 @@ At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;T
 <img border-width="10px" border-color="white" align="left" src="//placehold.it/400x600"><span style="padding-left:10px">
 At the very bottom of the left tool bar are the symbol and layers tools. &nbsp;The symbol tool allows you to create “symbols” from icons or elements you will use multiple times throughout the project. If you have a menu bar that will be consisten</span>
 
+<img src="http://dummyimage.com/100x100/000/fff" align="left">
