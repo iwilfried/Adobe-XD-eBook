@@ -53,9 +53,9 @@ This is a common option in XD and one that is available on the main interface.
 
 &nbsp;  
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-04.png" alt="no image" height="420px"/>If you select “Share Online” from the drop down menu it will open the share window from the interface.
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-04.png" alt="no image" height="420px"/>If you select “**Share Online**” from the drop down menu it will open the share window from the interface.
  
-The last option on the file menu is “Manage Shared Links.” If you select this option you are linked to your “assets” file within your Creative Cloud account. 
+The last option on the file menu is “**Manage Shared Links.**” If you select this option you are linked to your “assets” file within your Creative Cloud account. 
 
 &nbsp;  
 
@@ -79,7 +79,27 @@ You can also manipulate Paths, add Text, Arrange objects and Align to a pixel gr
 
 Again, these functions are also available in the main XD interface.
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-06.png" alt="no image" height="420px"/>
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-06.png" alt="no image" height="420px"/>Use the View menu to Zoom in and out. “Zoom to Selection” is going to zero in on the artboard that is selected. If you choose “Zoom to Fit All” XD will include all of your artboards and at once. 
+
+You have further options to view Full Screen, Switch your Workspace, access the Symbol Library, and view Layers. 
+ 
+
+
+The last two menus are the Window menu and the Help menu.
+
+
+The Window menu is pretty simple. Another “Preview” link is available in addition to the function at the top right menu on the main interface.
+
+
+
+
+
+
+
+
+The Help menu is standard and also mirrors what you find on XD’s Start Screen.
+
+
 
 
 
