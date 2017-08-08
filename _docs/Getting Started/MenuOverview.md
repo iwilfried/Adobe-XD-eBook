@@ -93,8 +93,13 @@ The last two menus are the Window menu and the Help menu.
 The Window menu is pretty simple. Another “Preview” link is available in addition to the function at the top right menu on the main interface.
 
 
-The Help menu is standard and also mirrors what you find on XD’s Start Screen.
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-09.png" alt="no image" height="420px"/>
+&nbsp;  
+
+&nbsp;   
+
+&nbsp;   
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-09.png" alt="no image" height="420px"/>The Help menu is standard and also mirrors what you find on XD’s Start Screen.
 
 &nbsp;   
 
