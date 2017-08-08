@@ -18,13 +18,6 @@ Menus Mac
 
 &nbsp;  
 
-&nbsp;  
-
-&nbsp;  
-
-
-
-
 
 Open UI Kit Apple iOS
 ![Menus Windows 10](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-02.png)
