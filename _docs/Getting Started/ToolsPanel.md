@@ -63,8 +63,9 @@ The outer white handles can resize the shape as well. This
 is a functionality also found in Photoshop and Illustrator. A
 new feature is the inner handle shown to the left highlighted
 in blue. If you select that handle and pull it toward the
-center of the shape you will evenly round all edges.
-By holding down the option or alt key I can select just one
+center of the shape you will evenly round all edges.  
+
+By holding down the option or **Alt** key I can select just one
 corner to reshape.
 
 <img style="padding: 0px 15px; " src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-07.png" alt="no image" />
@@ -72,7 +73,9 @@ corner to reshape.
 Another nice, time saving tool in Adobe XD.
 You can make quick work of reshaping this rectangle by
 double clicking on each circle or anchor point. It will
-change the rounded rectangle into sharp points.
+change the rounded rectangle into sharp points.  
+
+
 There are endless options here and the design aspects of
 Adobe XD are impressive. By double clicking on the
 rectangle (or any shape for that matter) the lines become
