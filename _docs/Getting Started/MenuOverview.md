@@ -70,7 +70,7 @@ The last option on the file menu is “**Manage Shared Links.**” If you select
 
 
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-07.png" alt="no image" height="420px"/>The Object menu has the option of grouping or ungrouping objects, creating a symbol from an object, locking an object so you don’t accidentally make edits, and hiding and masking objects. The last item in the first list is “Repeat Grid.” This quickly became one of my favorite tools.
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-07.png" alt="no image" height="420px"/>The **Object menu** has the option of grouping or ungrouping objects, creating a symbol from an object, locking an object so you don’t accidentally make edits, and hiding and masking objects. The last item in the first list is “Repeat Grid.” This quickly became one of my favorite tools.
 
 You can access the Repeat Grid function from the right panel on main screen as well. We will discuss this tool in depth later.
 
@@ -83,7 +83,11 @@ Again, these functions are also available in the main XD interface.
 
 You have further options to view Full Screen, Switch your Workspace, access the Symbol Library, and view Layers. 
  
+&nbsp;   
 
+&nbsp;   
+
+&nbsp;   
 
 The last two menus are the Window menu and the Help menu.
 
