@@ -4,10 +4,18 @@ category: Getting Started
 order: 3
 ---
 
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-01.png" alt="no image" />
+
 Adobe XD - Tool Panel
 Don’t be fooled by Adobe XD’s simplified
 interface. This software is powerful despite its
 streamlined set of tools.
+
+
+
+
+
+
 As mentioned previously, the Tool panel is
 found on the left column.
 The tools are the Selection tool (V), the
