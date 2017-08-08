@@ -93,12 +93,13 @@ holding down the Shift key. This will give you a perfect
 circle. The Shift key can be used in this manner for
 rectangles and other shapes as well.  
 
-Line tool: Use the Line tool to draw straight lines. While
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-10.png" alt="no image" />**Line tool:** Use the Line tool to draw straight lines. While
 drawing your line, hold the shift key and Adobe XD will
 automatically adjust the line in 15° increments. Adjust the
 thickness of the line using the stroke. Adjust the
-appearance with the color, fill, shadow, and opacity, etc.
-Pen tool: The Pen tool functions just like it does in
+appearance with the color, fill, shadow, and opacity, etc.  
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-11.png" alt="no image" />**Pen tool:** The Pen tool functions just like it does in
 Illustrator and Photoshop. With each click you place
 anchor points along the shape. If you want to leave the
 path open simply click the Escape key. If you want to close
@@ -106,7 +107,7 @@ the path you click back on the first anchor point. You can
 continue to manipulate the paths and edit the shape using
 the Selection tool.  
 
-Text tool. If you select the Text tool you can click
+**Text tool:** If you select the Text tool you can click
 anywhere on the artboard to begin typing. By
 default the text will appear horizontally but it will not
 wrap to a new line.  
