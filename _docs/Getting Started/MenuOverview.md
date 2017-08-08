@@ -91,17 +91,17 @@ You have further options to view Full Screen, Switch your Workspace, access the 
 
 The last two menus are the Window menu and the Help menu.
 
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-08.png" alt="no image" height="420px"/>
 
 The Window menu is pretty simple. Another “Preview” link is available in addition to the function at the top right menu on the main interface.
 
 
-
-
-
-
-
-
 The Help menu is standard and also mirrors what you find on XD’s Start Screen.
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-09.png" alt="no image" height="420px"/>
+
+&nbsp;   
+
+&nbsp;   
 
 
 
