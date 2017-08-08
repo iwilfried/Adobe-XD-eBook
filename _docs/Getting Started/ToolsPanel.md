@@ -95,16 +95,15 @@ rectangles and other shapes as well.
 
 &nbsp; 
 
-&nbsp; 
-
-
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-10.png" alt="no image" />**Line tool:** Use the Line tool to draw straight lines. While
 drawing your line, hold the shift key and Adobe XD will
 automatically adjust the line in 15° increments. Adjust the
 thickness of the line using the stroke. Adjust the
 appearance with the color, fill, shadow, and opacity, etc.  
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-11.png" alt="no image" />**Pen tool:** The Pen tool functions just like it does in
+&nbsp;  
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-11.png" alt="no image" />**Pen tool:** The Pen tool functions just like it does in
 Illustrator and Photoshop. With each click you place
 anchor points along the shape. If you want to leave the
 path open simply click the Escape key. If you want to close
