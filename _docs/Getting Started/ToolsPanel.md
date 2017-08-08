@@ -51,31 +51,14 @@ give your artboard a name.
 
 &nbsp; 
 
-&nbsp; 
 
-&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-
-
-Rectangle tool: Use the Rectangle tool to draw squares and rectangles. In the right
+**Rectangle tool:** Use the Rectangle tool to draw squares and rectangles. In the right
 column you can set the properties for the rectangle. Set the width and the height,
 and the X and Y position. I set it to 300 X 200 in the example below. You can also
 click the small lock symbol to lock the rectangle. This will keep the shape in
 proportion during scale changes.
+
+
 I rotated this rectangle 90°, you can see this value on the right side.
 The outer white handles can resize the shape as well. This
 is a functionality also found in Photoshop and Illustrator. A
