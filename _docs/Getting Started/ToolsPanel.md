@@ -28,7 +28,13 @@ shortcut is displayed.
 &nbsp; 
 &nbsp; 
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-02.png" alt="no image" />Let’s begin by creating an artboard. Click on the artboard tool or
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-02.png" alt="no image" />
+
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
+Let’s begin by creating an artboard. Click on the artboard tool or
 push the letter A. The menu will appear giving you numerous
 choices for screen sizes including, Apple, Google, Microsoft and
 Web options.  
@@ -40,7 +46,17 @@ Web options.
 
 
 Select the size you need and
-give your artboard a name.
+give your artboard a name.  
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+&nbsp; 
+
 Rectangle tool: Use the Rectangle tool to draw squares and rectangles. In the right
 column you can set the properties for the rectangle. Set the width and the height,
 and the X and Y position. I set it to 300 X 200 in the example below. You can also
