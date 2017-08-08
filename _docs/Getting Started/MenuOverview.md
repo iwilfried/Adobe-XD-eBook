@@ -26,6 +26,4 @@ Back to the file menu, below UI Kits are more standard selections. Close, Save a
 
 Choose whichever applies to your project.Choose whichever applies to your project.Choose whichever applies to your project.Choose whichever applies to your project.Choose whichever applies to your project.Choose whichever applies to your project.
 
-
-![Menus Windows 10](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-03.png)
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-04.png" alt="no image" />
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-03.png" alt="no image" height="420px"/>
