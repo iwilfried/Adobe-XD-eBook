@@ -93,6 +93,11 @@ holding down the Shift key. This will give you a perfect
 circle. The Shift key can be used in this manner for
 rectangles and other shapes as well.  
 
+&nbsp; 
+
+&nbsp; 
+
+
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-10.png" alt="no image" />**Line tool:** Use the Line tool to draw straight lines. While
 drawing your line, hold the shift key and Adobe XD will
 automatically adjust the line in 15° increments. Adjust the
