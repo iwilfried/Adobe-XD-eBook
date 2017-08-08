@@ -4,28 +4,26 @@ category: Getting Started
 order: 3
 ---
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-01.png" alt="no image" />
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Interface-03.png" alt="no image" />
 
 Adobe XD - Tool Panel
 Don’t be fooled by Adobe XD’s simplified
 interface. This software is powerful despite its
-streamlined set of tools.
+streamlined set of tools.  
 
+As mentioned previously, the **Tool panel** is
+found on the left column.  
 
-
-
-
-
-As mentioned previously, the Tool panel is
-found on the left column.
 The tools are the Selection tool (V), the
 Rectangle tool (R), Ellipse tool (E), Line tool (L),
 Pen tool (P), Text tool (T), Artboard tool (A) and
-Zoom tool (Z).
+Zoom tool (Z).  
+
 I have listed the keyboard shortcut for each tool
 above. They are pretty self explanatory but if you
 forget you can hover over the icon and the
-shortcut is displayed.
+shortcut is displayed.  
+
 Let’s begin by creating an artboard. Click on the artboard tool or
 push the letter A. The menu will appear giving you numerous
 choices for screen sizes including, Apple, Google, Microsoft and
