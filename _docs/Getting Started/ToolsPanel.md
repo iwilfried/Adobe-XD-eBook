@@ -24,8 +24,6 @@ above. They are pretty self explanatory but if you
 forget you can hover over the icon and the
 shortcut is displayed.  
 
-&nbsp; 
-
 
 Let’s begin by creating an artboard. Click on the artboard tool or
 push the letter A. The menu will appear giving you numerous
