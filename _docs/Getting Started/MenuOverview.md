@@ -32,6 +32,7 @@ Below Export is Import and we will go over that later.
 &nbsp;
 &nbsp;
 &nbsp;
+
 The next option is “**Share Online.**” 
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-03.png" alt="no image" height="420px"/>
@@ -39,10 +40,26 @@ The next option is “**Share Online.**”
 &nbsp;
 &nbsp;
 &nbsp;
+
 This is a common option in XD and one that is available on the main interface. 
  
- <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-04.png" alt="no image" height="420px"/>
- 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-04.png" alt="no image" height="420px"/>
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
  
 If you select “Share Online” from the drop down menu it will open the share window from the interface.
  
