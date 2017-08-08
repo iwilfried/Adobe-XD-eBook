@@ -67,7 +67,7 @@ center of the shape you will evenly round all edges.
 By holding down the option or alt key I can select just one
 corner to reshape.
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-07.png" alt="no image" />
+<img style="padding: 0px 15px; " src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-07.png" alt="no image" />
 
 Another nice, time saving tool in Adobe XD.
 You can make quick work of reshaping this rectangle by
