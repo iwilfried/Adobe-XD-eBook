@@ -83,12 +83,16 @@ editable paths. Use these quick steps to create custom
 designs in no time.  
 
 Use these shapes for design elements like icons, buttons,
-masks etc.
-Ellipse tool: The Ellipse tool draws circles and ovals. You
+masks etc.  
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-09.png" alt="no image" />
+
+**Ellipse tool:** The Ellipse tool draws circles and ovals. You
 can draw freehand or you can constrain the image by
 holding down the Shift key. This will give you a perfect
 circle. The Shift key can be used in this manner for
-rectangles and other shapes as well.
+rectangles and other shapes as well.  
+
 Line tool: Use the Line tool to draw straight lines. While
 drawing your line, hold the shift key and Adobe XD will
 automatically adjust the line in 15° increments. Adjust the
@@ -100,24 +104,29 @@ anchor points along the shape. If you want to leave the
 path open simply click the Escape key. If you want to close
 the path you click back on the first anchor point. You can
 continue to manipulate the paths and edit the shape using
-the Selection tool.
+the Selection tool.  
+
 Text tool. If you select the Text tool you can click
 anywhere on the artboard to begin typing. By
 default the text will appear horizontally but it will not
-wrap to a new line.
+wrap to a new line.  
+
 You can move the words on top of existing shapes
 and it will appear as long as it is a layer above the
 shape. If you want the text to fit within an existing
 shape, select the Text tool, and drag the cursor to
 create a text box that fills exactly the space where
-you want the text to appear.
+you want the text to appear.  
+
 There are three text box examples in the image to
-the left.
+the left.  
+
 Font characteristics, size, and appearance can be
 changed in the Properties panel on the right.
 The Artboard tool was already covered at the beginning of this section. The next tool
 is the Zoom tool. The functionality is obvious but there are some tips and tricks you
-may not be aware of.
+may not be aware of.  
+
 The Zoom tool: Working on small objects can be a difficult
 task. Thankfully, we have the Zoom to to assist us when
 working with small shapes or elements.
@@ -125,7 +134,8 @@ I created artboard three and added a tiny blue square. I have
 three options for zooming in to view this shape.
 1) I can click on the zoom tool. The cursor turns into a
 magnifying glass and I can right click to increase the
-magnification.
+magnification.  
+
 2) I can use the Zoom drop-down menu in the upper right
 corner of the screen. I am given preset values of 25% -
 400% or I can type in a custom value.
