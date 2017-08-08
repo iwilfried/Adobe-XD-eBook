@@ -28,7 +28,7 @@ shortcut is displayed.
 &nbsp; 
 &nbsp; 
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-02.png" alt="no image" />
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-03.png" alt="no image" />
 
 &nbsp; 
 &nbsp; 
