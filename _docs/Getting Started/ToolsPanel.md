@@ -85,6 +85,8 @@ designs in no time.
 Use these shapes for design elements like icons, buttons,
 masks etc.  
 
+&nbsp; 
+
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-09.png" alt="no image" />
 
 **Ellipse tool:** The Ellipse tool draws circles and ovals. You
