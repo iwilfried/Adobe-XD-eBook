@@ -31,7 +31,6 @@ Choose whichever applies to your project.
 Below Export is Import and we will go over that later. 
 
 &nbsp;
-&nbsp;
 
 
 The next option is “**Share Online.**” 
