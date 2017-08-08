@@ -53,11 +53,23 @@ give your artboard a name.
 column you can set the properties for the rectangle. Set the width and the height,
 and the X and Y position. I set it to 300 X 200 in the example below. You can also
 click the small lock symbol to lock the rectangle. This will keep the shape in
-proportion during scale changes.
+proportion during scale changes.  
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-05.png" alt="no image" />
+![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-05.png)  
 
-I rotated this rectangle 90°, you can see this value on the right side.
+I rotated this rectangle 90°, you can see this value on the right side.  
+
+
+&nbsp; 
+
+&nbsp; 
+
+&nbsp;   
+
+
+
+
+
 The outer white handles can resize the shape as well. This
 is a functionality also found in Photoshop and Illustrator. A
 new feature is the inner handle shown to the left highlighted
