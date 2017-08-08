@@ -34,7 +34,8 @@ shortcut is displayed.
 &nbsp; 
 &nbsp; 
 
-Let’s begin by creating an artboard. Click on the artboard tool or
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-04.png" alt="no image" />Let’s begin by creating an artboard. Click on the artboard tool or
 push the letter A. The menu will appear giving you numerous
 choices for screen sizes including, Apple, Google, Microsoft and
 Web options.  
