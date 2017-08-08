@@ -70,9 +70,9 @@ corner to reshape.
 
 <img style="padding: 0px 15px; " src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-07.png" alt="no image" />
 
-Another nice, time saving tool in Adobe XD.
-You can make quick work of reshaping this rectangle by
-double clicking on each circle or anchor point. It will
+Another nice, time saving tool in Adobe XD.  
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-04.png" alt="no image" />You can make quick work of reshaping this rectangle by double clicking on each circle or anchor point. It will
 change the rounded rectangle into sharp points.  
 
 
@@ -80,7 +80,8 @@ There are endless options here and the design aspects of
 Adobe XD are impressive. By double clicking on the
 rectangle (or any shape for that matter) the lines become
 editable paths. Use these quick steps to create custom
-designs in no time.
+designs in no time.  
+
 Use these shapes for design elements like icons, buttons,
 masks etc.
 Ellipse tool: The Ellipse tool draws circles and ovals. You
