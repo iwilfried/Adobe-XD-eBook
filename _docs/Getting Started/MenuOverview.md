@@ -61,6 +61,10 @@ The last option on the file menu is “Manage Shared Links.” If you select thi
 
 &nbsp;   
 
+&nbsp;   
+
+&nbsp;   
+
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-05.png" alt="no image" height="420px"/>The **Edit menu** has the standard functions: Undo, Redo, Cut, Copy, Paste, Duplicate, Delete, Select All, and Deselect All. If you compare the size of the Edit Menu in Photoshop to XD it’s considerably larger. XD is simplified yet still very powerful. Many of the functions you find in Photoshop’s Edit Menu are found on the main interface within the right properties column.
 
@@ -68,7 +72,7 @@ The last option on the file menu is “Manage Shared Links.” If you select thi
 
 
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-06.png" alt="no image" height="420px"/>The Object menu has the option of grouping or ungrouping objects, creating a symbol from an object, locking an object so you don’t accidentally make edits, and hiding and masking objects. The last item in the first list is “Repeat Grid.” This quickly became one of my favorite tools.
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-07.png" alt="no image" height="420px"/>The Object menu has the option of grouping or ungrouping objects, creating a symbol from an object, locking an object so you don’t accidentally make edits, and hiding and masking objects. The last item in the first list is “Repeat Grid.” This quickly became one of my favorite tools.
 
 You can access the Repeat Grid function from the right panel on main screen as well. We will discuss this tool in depth later.
 
@@ -77,7 +81,7 @@ You can also manipulate Paths, add Text, Arrange objects and Align to a pixel gr
 
 Again, these functions are also available in the main XD interface.
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-07.png" alt="no image" height="420px"/>
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-06.png" alt="no image" height="420px"/>
 
 
 
