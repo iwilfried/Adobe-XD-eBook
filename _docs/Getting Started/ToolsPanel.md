@@ -45,12 +45,6 @@ give your artboard a name.
 
 &nbsp; 
 
-&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
 
 **Rectangle tool:** Use the Rectangle tool to draw squares and rectangles. In the right
 column you can set the properties for the rectangle. Set the width and the height,
