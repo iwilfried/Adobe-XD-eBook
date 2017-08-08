@@ -13,6 +13,11 @@ Menus Windows 10
 Menus Mac
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-01.png" alt="no image" width="520px"/>**The File menu** This is the File menu on a Mac. The first three options are standard (New, Open & Open Recent). The fourth option “Open UI Kit” is exactly the same option we saw on XD’s start screen. 
+&nbsp;  
+
+&nbsp;  
+
+
 
 Open UI Kit Apple iOS
 ![Menus Windows 10](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-02.png)
@@ -52,20 +57,6 @@ This is a common option in XD and one that is available on the main interface.
 &nbsp;  
 
 &nbsp;  
-
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-
-
 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-04.png" alt="no image" height="420px"/>
 
