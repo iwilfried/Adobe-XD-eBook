@@ -31,8 +31,7 @@ shortcut is displayed.
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-03.png" alt="no image" />
 
 &nbsp; 
-&nbsp; 
-&nbsp; 
+
 
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-04.png" alt="no image" />Let’s begin by creating an artboard. Click on the artboard tool or
