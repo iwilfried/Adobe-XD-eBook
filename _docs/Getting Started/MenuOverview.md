@@ -14,6 +14,8 @@ Menus Windows 10
 Menus Mac iOS  
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-01.png" alt="no image" width="520px"/>**The File menu** This is the File menu on a Mac. The first three options are standard (New, Open & Open Recent). The fourth option “Open UI Kit” is exactly the same option we saw on XD’s start screen. 
 
+&nbsp; 
+
 &nbsp;  
 
 Open UI Kit Apple iOS
@@ -53,11 +55,7 @@ This is a common option in XD and one that is available on the main interface.
 
 &nbsp;  
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-04.png" alt="no image" height="420px"/>
-
-&nbsp;
-
-If you select “Share Online” from the drop down menu it will open the share window from the interface.
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-04.png" alt="no image" height="420px"/>If you select “Share Online” from the drop down menu it will open the share window from the interface.
  
 The last option on the file menu is “Manage Shared Links.” If you select this option you are linked to your “assets” file within your Creative Cloud account. 
 
