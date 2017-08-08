@@ -38,17 +38,29 @@ Web options.
 
 Select the size you need and
 give your artboard a name.  
+
 &nbsp; 
+
 &nbsp; 
+
 &nbsp; 
+
 &nbsp; 
+
 &nbsp; 
+
 &nbsp; 
+
 &nbsp; 
+
 &nbsp; 
+
 &nbsp; 
+
 &nbsp; 
+
 &nbsp; 
+
 &nbsp; 
 &nbsp; 
 &nbsp; 
