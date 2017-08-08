@@ -67,5 +67,15 @@ The last option on the file menu is “Manage Shared Links.” If you select thi
 
 &nbsp;  
 
+The Edit menu has the standard functions: Undo, Redo, Cut, Copy, Paste, Duplicate, Delete, Select All, and Deselect All. If you compare the size of the Edit Menu in Photoshop to XD it’s considerably larger. XD is simplified yet still very powerful. Many of the functions you find in Photoshop’s Edit Menu are found on the main interface within the right properties column.
+
+
+
+ 
+The Object menu has the option of grouping or ungrouping objects, creating a symbol from an object, locking an object so you don’t accidentally make edits, and hiding and masking objects. The last item in the first list is “Repeat Grid.” This quickly became one of my favorite tools.
+You can access the Repeat Grid function from the right panel on main screen as well. We will discuss this tool in depth later.
+You can also manipulate Paths, add Text, Arrange objects and Align to a pixel grid if you've got the grid turned on, and the Align and Distribute.
+
+Again, these functions are also available in the main XD interface.
 
 
