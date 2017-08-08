@@ -55,28 +55,20 @@ and the X and Y position. I set it to 300 X 200 in the example below. You can al
 click the small lock symbol to lock the rectangle. This will keep the shape in
 proportion during scale changes.  
 
+I rotated this rectangle 90°, you can see this value on the right side. 
+
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-05.png)  
 
-I rotated this rectangle 90°, you can see this value on the right side.  
-
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;   
-
-
-
-
-
-The outer white handles can resize the shape as well. This
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-04.png" alt="no image" />The outer white handles can resize the shape as well. This
 is a functionality also found in Photoshop and Illustrator. A
 new feature is the inner handle shown to the left highlighted
 in blue. If you select that handle and pull it toward the
 center of the shape you will evenly round all edges.
 By holding down the option or alt key I can select just one
 corner to reshape.
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-07.png" alt="no image" />
+
 Another nice, time saving tool in Adobe XD.
 You can make quick work of reshaping this rectangle by
 double clicking on each circle or anchor point. It will
