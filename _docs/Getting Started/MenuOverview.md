@@ -26,7 +26,13 @@ Back to the file menu, below UI Kits are more standard selections. Close, Save a
 
 Choose whichever applies to your project.
 
-Below Export is Import and we will go over that later. The next option is “Share Online.” 
+Below Export is Import and we will go over that later. 
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+The next option is “**Share Online.**” 
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-03.png" alt="no image" height="420px"/>
 &nbsp;
