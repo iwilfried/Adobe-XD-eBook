@@ -26,4 +26,17 @@ Back to the file menu, below UI Kits are more standard selections. Close, Save a
 
 Choose whichever applies to your project.Choose whichever applies to your project.Choose whichever applies to your project.Choose whichever applies to your project.Choose whichever applies to your project.Choose whichever applies to your project.
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-03.png" alt="no image" height="420px"/>
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-03.png" alt="no image" height="420px"/>Below Export is Import and we will go over that later. The next option is “Share Online.” 
+
+This is a common option in XD and one that is available on the main interface. 
+ 
+ <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-Mac-04.png" alt="no image" height="420px"/>
+ 
+ 
+If you select “Share Online” from the drop down menu it will open the share window from the interface.
+ 
+ 
+ 
+ 
+The last option on the file menu is “Manage Shared Links.” If you select this option you are linked to your “assets” file within your Creative Cloud account. 
+
