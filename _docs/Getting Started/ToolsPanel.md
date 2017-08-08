@@ -59,7 +59,7 @@ I rotated this rectangle 90°, you can see this value on the right side.
 
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-05.png)  
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-06.png" alt="no image" />The outer white handles can resize the shape as well. This
+The outer white handles can resize the shape as well. This
 is a functionality also found in Photoshop and Illustrator. A
 new feature is the inner handle shown to the left highlighted
 in blue. If you select that handle and pull it toward the
