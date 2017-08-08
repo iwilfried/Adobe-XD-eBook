@@ -72,7 +72,7 @@ corner to reshape.
 
 Another nice, time saving tool in Adobe XD.  
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-04.png" alt="no image" />You can make quick work of reshaping this rectangle by double clicking on each circle or anchor point. It will
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-08.png" alt="no image" />You can make quick work of reshaping this rectangle by double clicking on each circle or anchor point. It will
 change the rounded rectangle into sharp points.  
 
 
