@@ -43,11 +43,16 @@ The next option is “**Share Online.**”
 
 This is a common option in XD and one that is available on the main interface. 
  
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
+&nbsp;  
+
+&nbsp;   
+
+&nbsp;  
+
+&nbsp;  
+
+&nbsp;  
+
 &nbsp; 
 &nbsp; 
 &nbsp; 
