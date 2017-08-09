@@ -154,15 +154,16 @@ corner of the screen. I am given preset values of 25% -
 
 &nbsp;  
 
+&nbsp;  
+
+&nbsp;  
+
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-15.png" alt="no image" />3) Use the View menu. By using the View menu I
 have additional helpful options at my disposal.
 You can still see my small blue square on artboard
 three to the left. Let’s explore some powerful options
 found in the View menu.  
 
-&nbsp;  
-
-&nbsp;  
 
 **Zoom To Fit All** will adjust to
 show all my artboards within this
