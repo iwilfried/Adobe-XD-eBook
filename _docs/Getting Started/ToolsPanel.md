@@ -160,6 +160,10 @@ You can still see my small blue square on artboard
 three to the left. Let’s explore some powerful options
 found in the View menu.  
 
+&nbsp;  
+
+&nbsp;  
+
 **Zoom To Fit All** will adjust to
 show all my artboards within this
 project.  
