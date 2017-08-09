@@ -113,8 +113,9 @@ the path you click back on the first anchor point. You can
 continue to manipulate the paths and edit the shape using
 the Selection tool.  
 
+![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-12.png)
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-12.png" alt="no image" />**Text tool:** If you select the Text tool you can click
+**Text tool:** If you select the Text tool you can click
 anywhere on the artboard to begin typing. By
 default the text will appear horizontally but it will not
 wrap to a new line.  
@@ -127,7 +128,7 @@ create a text box that fills exactly the space where
 you want the text to appear.  
 
 There are three text box examples in the image to
-the left.  
+the right.  
 
 Font characteristics, size, and appearance can be
 changed in the Properties panel on the right.
