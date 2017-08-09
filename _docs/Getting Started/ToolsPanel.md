@@ -1,5 +1,5 @@
 ---
-title: Tools Panel
+title: Tools Panel (Design Tools)
 category: Getting Started
 order: 3
 ---
