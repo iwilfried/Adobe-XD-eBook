@@ -113,6 +113,8 @@ the path you click back on the first anchor point. You can
 continue to manipulate the paths and edit the shape using
 the Selection tool.  
 
+&nbsp; 
+
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-12.png)
 
 **Text tool:** If you select the Text tool you can click
