@@ -137,20 +137,21 @@ The Artboard tool was already covered at the beginning of this section. The next
 is the Zoom tool. The functionality is obvious but there are some tips and tricks you
 may not be aware of.  
 
-&nbsp;  
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-13.png" alt="no image" />The Zoom tool: Working on small objects can be a difficult
 task. Thankfully, we have the Zoom to to assist us when
 working with small shapes or elements.
 I created artboard three and added a tiny blue square. I have
-three options for zooming in to view this shape.
+three options for zooming in to view this shape.  
+
 1) I can click on the zoom tool. The cursor turns into a
 magnifying glass and I can right click to increase the
 magnification.  
 
-2) I can use the Zoom drop-down menu in the upper right
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-14.png" alt="no image" />2) I can use the Zoom drop-down menu in the upper right
 corner of the screen. I am given preset values of 25% -
-400% or I can type in a custom value.
+400% or I can type in a custom value.  
+
 3) Use the View menu. By using the View menu I
 have additional helpful options at my disposal.
 You can still see my small blue square on artboard
@@ -158,7 +159,8 @@ three to the left. Let’s explore some powerful options
 found in the View menu.
 Zoom To Fit All will adjust to
 show all my artboards within this
-project.
+project.  
+
 If you have a project with 100
 artboards you can imagine what
 this screen might look like.
@@ -167,7 +169,8 @@ zoom in on only the
 selected shape.
 Notice the zoom value on
 the right shows 2643.5%
-Now that is a zoom!
+Now that is a zoom!  
+
 You can see how
 beneficial this is when
 working with smaller
