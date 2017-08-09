@@ -129,9 +129,8 @@ you want the text to appear.
 
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-12.png)
 
-There are three text box examples in the image to
-the right.  
-
+There are three text box examples in the image above.  
+  
 Font characteristics, size, and appearance can be
 changed in the Properties panel on the right.
 The Artboard tool was already covered at the beginning of this section. The next tool
@@ -140,7 +139,7 @@ may not be aware of.
 
 &nbsp;  
 
-The Zoom tool: Working on small objects can be a difficult
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-13.png" alt="no image" />The Zoom tool: Working on small objects can be a difficult
 task. Thankfully, we have the Zoom to to assist us when
 working with small shapes or elements.
 I created artboard three and added a tiny blue square. I have
