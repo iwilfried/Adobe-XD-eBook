@@ -113,9 +113,7 @@ the path you click back on the first anchor point. You can
 continue to manipulate the paths and edit the shape using
 the Selection tool.  
 
-&nbsp; 
-
-![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-12.png)
+&nbsp;  
 
 **Text tool:** If you select the Text tool you can click
 anywhere on the artboard to begin typing. By
@@ -129,6 +127,8 @@ shape, select the Text tool, and drag the cursor to
 create a text box that fills exactly the space where
 you want the text to appear.  
 
+![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-12.png)
+
 There are three text box examples in the image to
 the right.  
 
@@ -137,6 +137,8 @@ changed in the Properties panel on the right.
 The Artboard tool was already covered at the beginning of this section. The next tool
 is the Zoom tool. The functionality is obvious but there are some tips and tricks you
 may not be aware of.  
+
+&nbsp;  
 
 The Zoom tool: Working on small objects can be a difficult
 task. Thankfully, we have the Zoom to to assist us when
