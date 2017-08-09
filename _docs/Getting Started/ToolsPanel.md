@@ -113,6 +113,7 @@ the path you click back on the first anchor point. You can
 continue to manipulate the paths and edit the shape using
 the Selection tool.  
 
+
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-12.png" alt="no image" />**Text tool:** If you select the Text tool you can click
 anywhere on the artboard to begin typing. By
 default the text will appear horizontally but it will not
