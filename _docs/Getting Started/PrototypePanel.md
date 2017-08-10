@@ -30,7 +30,8 @@ All other tabs will be grayed out until they are selected.
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Prototype-05.png" alt="no image"/>When you are ready to make a connection between artboards click the blue handle with the arrow and drag it to the target screen. This creates a wire.
  
  
- 
-You will then be prompted to choose the type of interaction and the duration between the two artboards.
+ &nbsp;  
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Prototype-06.png" alt="no image"/>You will then be prompted to choose the type of interaction and the duration between the two artboards.
 
 You can control the visual experience with these transition options. Will the screen slide up or push over? Will the transition be immediate or will it be slower?  Spend some time customizing the look and feel of your app’s user experience
