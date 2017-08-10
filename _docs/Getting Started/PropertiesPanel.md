@@ -102,13 +102,11 @@ You can adjust Blur amount, Brightness and Effect Opacity
 
 &nbsp;  
 
- 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-11.png" alt="no image" />**Text Properties:** When I select the text box  “Fine Fast Food”  you can see the area is highlighted in blue. 
 
 Now the properties panel displays options for Font type, size and style as well as alignment, character spacing and line spacing.
 The appearance options remain the same, opacity, fill, border, shadow and background blur.
  
-  
 &nbsp;  
 
 &nbsp;  
@@ -116,9 +114,3 @@ The appearance options remain the same, opacity, fill, border, shadow and backgr
 &nbsp;  
 
 &nbsp;  
-
- 
-
-
-
-
