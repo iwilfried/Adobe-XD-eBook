@@ -23,6 +23,14 @@ When you select an object within your design a blue square appears and your prop
 **Intersect** (Ctrl/Cmd + Alt + I)
 **Exclude Overlap** (Ctrl/Cmd + Alt + X)  
 
+&nbsp;  
 
-Width and height can also be adjusted in this panel. If you want to lock the aspect ratio be sure to click on the small lock symbol. The X and Y positions can also be adjusted here.
+Width and height can also be adjusted in this panel. If you want to lock the aspect ratio be sure to click on the small lock symbol. The X and Y positions can also be adjusted here.  
+Once you select an image on your artboard you are given options to adjust how it looks. Let’s focus on the area under “appearance.” The first slider is for the image’s opacity. 
+
+
+Opacity: By adjusting the slider to the left the percentage of opacity changes.
+If I want a softer, more subtle image I can change the opacity to 48%. 
+You can see the image has become more transparent.
+
 
