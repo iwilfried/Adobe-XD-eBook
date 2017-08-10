@@ -18,8 +18,6 @@ Your device must be connected by a USB cable for this function to work.
 
 &nbsp;  
 
-&nbsp;  
-
 Once connected, Adobe XD will identify what type of device is connected and ready for the preview.  
 
 Here it shows I have one iOS device connected by USB. Click on that link
