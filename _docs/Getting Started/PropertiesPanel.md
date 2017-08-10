@@ -63,20 +63,17 @@ First you select the image you want to add the border to, then you click on the 
 
 Next, you add the value for the weight of the border.
 
+I chose to match the border to the color of the logo. Then I changed the weight to a value of ten.
 
-I chose to match the border to the color of the fork in the logo. Then I changed the weight to a value of ten.
+&nbsp;  
 
-
-
-Shadow: Adding a shadow can make a big difference to the appearance of your object.
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-08.png" alt="no image" />**Shadow:** Adding a shadow can make a big difference to the appearance of your object.
 
 You can add values for the shadow in the X position, and Y position and then the “B” stands for the blur of the shadow.
 
+&nbsp;  
 
-
-
-
-Blur: If you click the box next to Background Blur, three sliders appear.
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-09.png" alt="no image" />Blur: If you click the box next to Background Blur, three sliders appear.
 
 You can adjust Blur amount, Brightness and Effect Opacity
 
