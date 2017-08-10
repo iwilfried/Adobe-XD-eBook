@@ -35,13 +35,15 @@ You can see the image has become more transparent.
 
 &nbsp;  
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-02.png" alt="no image" />**Corner Radius:** Below opacity is two options to adjust the corner radius. 
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-03.png" alt="no image" />**Corner Radius:** Below opacity is two options to adjust the corner radius. 
 
 The first button shows the entire square highlighted to indicate all corners will have the same radius.
 
-In my example I changed the radius on all corners to 75. You can see the rounded edges.
+In my example I changed the radius on all corners to 75. You can see the rounded edges.  
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-02.png" alt="no image" />
+&nbsp;  
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-04.png" alt="no image" />
 
 &nbsp;  
 
