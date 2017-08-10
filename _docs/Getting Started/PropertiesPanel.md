@@ -21,9 +21,8 @@ When you select an object within your design a blue square appears and your prop
 **Add** (Ctrl/Cmd + Alt + U)
 **Subtract** (Ctrl/Cmd + Alt + S)
 **Intersect** (Ctrl/Cmd + Alt + I)
-**Exclude Overlap** (Ctrl/Cmd + Alt + X)
+**Exclude Overlap** (Ctrl/Cmd + Alt + X)  
 
-&nbsp;  
 
 Width and height can also be adjusted in this panel. If you want to lock the aspect ratio be sure to click on the small lock symbol. The X and Y positions can also be adjusted here.
 
