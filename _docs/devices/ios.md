@@ -1,15 +1,19 @@
 ---
-title: iOS
-category: Devices
-order: 1
+title: Device Preview
+category: Getting Started
+order: 11
 ---
 
-Use ChatApp on most of your Apple devices. Only the latest versions are supported.
+Previewing your design on a desktop is helpful but not nearly as invaluable as mobile device previews. Designers need to see how the prototype looks and performs on an actual mobile device.   
 
-To install ChatApp on your device:
+&nbsp;  
 
-1. Open the App Store
-2. Search for ChatApp
-3. Select **Install**
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Device-Preview-01.png" alt="no image" />
 
-![](//placehold.it/800x600)
+
+Before you can utilize Adobe XD’s built in “Device Preview” you will need to download the XD app on either the App Store or Google Play for your iOS or Android device.
+With the use of the XD app you can preview and test your XD designs, interactions and transitions live on actual devices. 
+
+Your device must be connected by a USB cable for this function to work.
+
+
