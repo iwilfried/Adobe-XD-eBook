@@ -55,11 +55,9 @@ In my example I set to opposite corners to 75. The small image highlights the co
 
 After checking the box next to fill and selecting the dropper image you are given a large circle where you can select the exact pixel color you are looking for.
 
+&nbsp;  
 
-
-
-
-Border: Changing the border color is similar to fill. 
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-05.png" alt="no image" />**Border:** Changing the border color is similar to fill. 
 
 First you select the image you want to add the border to, then you click on the dropper to choose the color.
 
