@@ -21,7 +21,7 @@ Option 4: For Mac users, select the object then use the Object menu > Make Symbo
 
 Symbol Library: Once you have added a symbol it will be displayed in the Symbol library in the upper left hand corner of the interface.  
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-02.png" alt="no image" />All the symbols you’ve added to the current project will show in the library.  
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-03.png" alt="no image" />All the symbols you’ve added to the current project will show in the library.  
 
 You can open the Symbols library in three ways:
 
