@@ -20,3 +20,13 @@ All other tabs will be grayed out until they are selected.
 &nbsp;  
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Prototype-04.png" alt="no image" />If you select an artboard with no connections it will look something like this. The house icon is grayed out and there is one blue handle on the side of the artboard.
+
+&nbsp;  
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Prototype-05.png" alt="no image"/>When you are ready to make a connection between artboards click the blue handle with the arrow and drag it to the target screen. This creates a wire.
+ 
+ 
+ 
+You will then be prompted to choose the type of interaction and the duration between the two artboards.
+
+You can control the visual experience with these transition options. Will the screen slide up or push over? Will the transition be immediate or will it be slower?  Spend some time customizing the look and feel of your app’s user experience
