@@ -20,6 +20,9 @@ All the layers for that particular artboard are listed in the left column.
 &nbsp;   
 
 If there are nested elements below the parent icon the icon will be filled in or solid. If there are no further elements, than the icon will be a simple line object. 
+&nbsp;   
+
+&nbsp;   
 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Layers-03.png" alt="no image" />**Group Layers:** Group layers by multi-selecting the elements you want to group and typing Command + G (Mac) or CTRL + G (Windows) or right click and select “Group.”  
 
