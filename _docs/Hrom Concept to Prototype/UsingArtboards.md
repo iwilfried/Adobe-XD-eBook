@@ -35,7 +35,7 @@ This is helpful to show mobile, tablet, and web designs of the same app.
 &nbsp;   
 
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-04.png" alt="no image"/>Scrollable Artboards: One of the most requested features was a scrollable area within the app. Adobe listened to feedback and updated Adobe XD with the capability to scroll on your artboard.  
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-04.png" alt="no image"/>**Scrollable Artboards:** One of the most requested features was a scrollable area within the app. Adobe listened to feedback and updated Adobe XD with the capability to scroll on your artboard.  
 
 If you want your app to scroll, use one of the handles to stretch your artboard until you see the dotted line, or “Fold.”  
 
