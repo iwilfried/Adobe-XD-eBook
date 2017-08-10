@@ -32,7 +32,7 @@ Follow the same steps to ungroup elements. The keyboard shortcuts are Shift + Co
  
 **Edit Layers:** You can reorder, rename, regroup, duplicate and exporting layers within the Layers panel. Double-click the layer name and rename it. If you want to rename additional layers use the Tab key to continue to the next layer.
 
-Duplicating or copying a layer is simple. Right click and select duplicate from the drop down menu or use Command + D (Mac) or CTRL + D (Windows).
+Duplicating or copying a layer is simple. Right click and select duplicate from the drop down menu or use Command + D (Mac) or CTRL + D (Windows).  
 
 You can export each layer as an individual file.  
 
