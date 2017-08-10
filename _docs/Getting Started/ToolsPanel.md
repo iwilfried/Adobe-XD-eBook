@@ -1,7 +1,7 @@
 ---
 title: Tools Panel (Design Tools)
 category: Getting Started
-order: 3
+order: 4
 ---
 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Tools-Panel-01.png" alt="no image" />

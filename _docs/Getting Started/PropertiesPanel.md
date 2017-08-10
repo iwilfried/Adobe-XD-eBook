@@ -8,7 +8,7 @@ The properties panel is found on the right side of the Adobe XD interface.
 
 When you select an object within your design a blue square appears and your property options are displayed in the properties panel.
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-01.png" alt="no image" width="520px"/>All options above the “Appearance” section are labeled in the figure to the left.
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-01.png" alt="no image" />All options above the “Appearance” section are labeled in the figure to the left.
 
 
 Alignment: The first three alignment options are Align Top, Middle and Bottom. Next to that is Align Left, Center and Right.
