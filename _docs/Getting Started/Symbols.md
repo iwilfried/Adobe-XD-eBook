@@ -5,13 +5,17 @@ order: 7
 ---
 
 In the course of a design project you will use some images and/or elements over and over. A timesaving tip is to add that image or element as a symbol. This way you can insert it into your design without having to re-create it.
-Create a Symbol: There are multiple ways to create a symbol in Adobe XD:
-Option 1: Select the object and click + in the Symbols library. 
-(shown with red arrow below)
+Create a Symbol: There are multiple ways to create a symbol in Adobe XD:  
+
+Option 1: Select the object and click + in the Symbols library.  
+
 Option 2: Select the object and press Command + K (on Mac), 
-or Ctrl + K (on Windows).
-Option 3: Right-click the object and select “Make Symbol.”
+or Ctrl + K (on Windows).  
+
+Option 3: Right-click the object and select “Make Symbol.”  
+
 Option 4: For Mac users, select the object then use the Object menu > Make Symbol.  
+  
 
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-01.png)  
 
