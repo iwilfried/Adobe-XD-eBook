@@ -8,4 +8,5 @@ Artboards are the foundation of your prototype design. Generally, every artboard
 
 &nbsp; 
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-01.png" alt="no image" width="520px"/>
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-01.png
+" alt="no image" width="520px"/>
