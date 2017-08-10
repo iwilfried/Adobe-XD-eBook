@@ -9,4 +9,8 @@ Artboards are the foundation of your prototype design. Generally, every artboard
 &nbsp; 
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-01.png
-" alt="no image" width="520px"/>
+" alt="no image" width="520px"/>You create your first artboard from the Start Screen.  
+
+Select a preset size or define a custom size for your artboard.
+ 
+Once you make your selection, XD opens and you have a blank screen on the XD interface.
