@@ -8,5 +8,6 @@ Adobe XD provides UI Kits for iOS, Google and Microsoft. UI Kits, or User Interf
 
 Access the UI KIts from the Start Screen or from the File menu:  
 
-![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-UI-Kits-01.png)  
+![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-UI-Kits-01.png
+)  
 
