@@ -23,6 +23,10 @@ All other tabs will be grayed out until they are selected.
 
 &nbsp;  
 
+&nbsp;  
+
+&nbsp;  
+
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Prototype-05.png" alt="no image"/>When you are ready to make a connection between artboards click the blue handle with the arrow and drag it to the target screen. This creates a wire.
  
  
