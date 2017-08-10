@@ -30,10 +30,9 @@ Symbol Library: Once you have added a symbol it will be displayed in the Symbol 
 &nbsp;  
 
 You can open the Symbols library in three ways:  
-
 Press Command + Shift + Y (on Mac), or Ctrl + Shift + Y (on Windows)
 
-<img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-03.png" alt="no image" />Click  in the left toolbar 
+<img style="padding: 0px 35px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-03.png" alt="no image" />Click  in the left toolbar 
 
 
 
