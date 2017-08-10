@@ -35,33 +35,18 @@ Press Command + Shift + Y (on Mac), or Ctrl + Shift + Y (on Windows)
 <img style="padding: 0px 35px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-03.png" alt="no image" />&nbsp;&nbsp;&nbsp;or click in the left toolbar 
 
 
+For Mac users, use the View menu > Symbol library.  
 
 
-For Mac users, use the View menu > Symbol library.
+**Editing Symbols:** If you need to edit a symbol keep in mind that the changes will affect every symbol throughout your project.
 
+&nbsp;  
 
+&nbsp;  
 
+Double click the symbol to select it and begin editing. Once selected, the symbol will have a thick border around it. Now you can edit the appearance of the symbol just like any other object. As shown below, all instances reflect the changes.
 
-
-Editing Symbols: If you need to edit a symbol keep in mind that the changes will affect every symbol throughout your project.
-
-Double click the symbol to select it and begin editing. Once selected, the symbol will have a thick border around it. Now you can edit the appearance of the symbol just like any other object. As shown below, all three instances reflect the changes.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-04.png)  
 
 
 If you need to edit an individual symbol and you do not want the changes to affect the rest of the instances you can right click on the symbol and ungroup it from the series.
