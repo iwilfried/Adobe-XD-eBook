@@ -21,4 +21,20 @@ All the layers for that particular artboard are listed in the left column.
 
 If there are nested elements below the parent icon the icon will be filled in or solid. If there are no further elements, than the icon will be a simple line object. 
 
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Layers-03.png" alt="no image" />**Group Layers:** Group layers by multi-selecting the elements you want to group and typing Command + G (Mac) or CTRL + G (Windows) or right click and select “Group.”  
 
+Elements are labeled as a group in the Layers panel and the grouped elements are displayed with a white background in the Layers Panel.
+
+Follow the same steps to ungroup elements. The keyboard shortcuts are Shift + Command G (Mac) or Shift + CTRL + G (Windows).
+ 
+Edit Layers: You can reorder, rename, regroup, duplicate and exporting layers within the Layers panel. Double-click the layer name and rename it. If you want to rename additional layers use the Tab key to continue to the next layer.
+
+Duplicating or copying a layer is simple. Right click and select duplicate from the drop down menu or use Command + D (Mac) or CTRL + D (Windows).
+
+
+You can export each layer as an individual file. 
+
+Right click the layer and select Export (Or Command + E/CTRL + E). 
+
+
+A menu will appear and you can choose the format for the export and whether it is for design, web, iOS, or Android.
