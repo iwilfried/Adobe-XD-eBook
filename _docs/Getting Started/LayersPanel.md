@@ -6,9 +6,7 @@ order: 8
 
 The shortcut for the Layers Panel is Command + Y, or you can click the  icon in the left toolbar.
 
-&nbsp;  
-
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Layers-01.png" alt="no image" />Layers Panel: If nothing is selected, you can view all the artboards in your project in the Layers Panel. 
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Layers-01.png" alt="no image" />**Layers Panel:** If nothing is selected, you can view all the artboards in your project in the Layers Panel. 
 
 Choose the single artboard you want to work with and double click the artboard icon. 
 
