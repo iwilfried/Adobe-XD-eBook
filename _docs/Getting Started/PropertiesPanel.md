@@ -29,7 +29,7 @@ Width and height can also be adjusted in this panel. If you want to lock the asp
 Once you select an image on your artboard you are given options to adjust how it looks. Let’s focus on the area under “appearance.” The first slider is for the image’s opacity. 
 
 
-Opacity: By adjusting the slider to the left the percentage of opacity changes.
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-02.png" alt="no image" />Opacity: By adjusting the slider to the left the percentage of opacity changes.
 If I want a softer, more subtle image I can change the opacity to 48%. 
 You can see the image has become more transparent.
 
