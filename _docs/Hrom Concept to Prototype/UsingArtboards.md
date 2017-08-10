@@ -18,5 +18,4 @@ Once you make your selection, XD opens and you have a blank screen on the XD int
 <img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-02.png
 " alt="no image" width="520px"/>  
 &nbsp;  
-
 **Naming Artboards:** The first step is to rename your artboard. Double click the current title (iPad - 1) and replace it with your chosen title. You can repeat this process for any additional artboards.
