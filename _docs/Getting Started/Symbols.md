@@ -40,10 +40,6 @@ For Mac users, use the View menu > Symbol library.
 
 **Editing Symbols:** If you need to edit a symbol keep in mind that the changes will affect every symbol throughout your project.
 
-&nbsp;  
-
-&nbsp;  
-
 Double click the symbol to select it and begin editing. Once selected, the symbol will have a thick border around it. Now you can edit the appearance of the symbol just like any other object. As shown below, all instances reflect the changes.
 
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-04.png)  
