@@ -12,7 +12,18 @@ Access the UI KIts from the Start Screen or from the File menu:
 
 Here is the current UI Kit for iOS:  
 
-![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-UI-Kits-03.png
-)  
+![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-UI-Kits-03.png)  
+
+I will select the Search screen and add it to my design. This is a simple copy (Command + C) and paste (Command + V) step.  
+
+![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-UI-Kits-04.png)  
+  
+In order to work on the individual pieces it will help to zoom in on the screen. Highlight the search screen and in the View menu select “Zoom to Selection.”
+Now you can click on individual elements and adjust their appearance. 
+In this example I changed the search bar fill from gray to brown and I increased the size of the “Search” text.
+ 
+
+
+
 
 
