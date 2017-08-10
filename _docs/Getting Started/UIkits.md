@@ -12,6 +12,7 @@ Access the UI KIts from the Start Screen or from the File menu:
 
 Here is the current UI Kit for iOS:  
 
-![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-UI-Kits-03.png)  
+![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-UI-Kits-03.png
+)  
 
 
