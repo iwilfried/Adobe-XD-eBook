@@ -31,7 +31,11 @@ You can access files through the USB connection or through the Creative Cloud.
 
 &nbsp;  
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Device-Preview-03.png" alt="no image" />Scroll through the prototype’s hot spots to experience the app’s interactions and transitions and test its overall functionality.
+&nbsp;  
+
+&nbsp;  
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Device-Preview-04.png" alt="no image" />Scroll through the prototype’s hot spots to experience the app’s interactions and transitions and test its overall functionality.
 
 You can also view the artboards individually. 
 
