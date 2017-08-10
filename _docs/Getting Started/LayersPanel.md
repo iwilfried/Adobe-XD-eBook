@@ -34,8 +34,6 @@ Follow the same steps to ungroup elements. The keyboard shortcuts are Shift + Co
 
 Duplicating or copying a layer is simple. Right click and select duplicate from the drop down menu or use Command + D (Mac) or CTRL + D (Windows).
 
-&nbsp;   
-
 You can export each layer as an individual file.  
 
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Layers-04.png)
