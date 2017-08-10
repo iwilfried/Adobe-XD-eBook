@@ -12,6 +12,11 @@ It also gives you the ability to preview that interaction and share it online, i
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Prototype-02.png)
 
 
+Home Screen: In Prototype mode you can set the Home Screen by clicking the little house icon found on every artboard. If the screen has been selected as the Home screen the tab with the house icon will be blue. 
+All other tabs will be grayed out until they are selected.
+ 
+&nbsp;  
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Prototype-02.png" alt="no image" />
 
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Prototypel-Panel-02.png" alt="no image" />
