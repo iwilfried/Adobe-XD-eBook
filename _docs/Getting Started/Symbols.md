@@ -55,20 +55,7 @@ This will allow you to make changes only to the selected symbol.
 
 In my example below, I ungrouped the selected symbol and created a thick brown border. You can see it did not affect the symbol in the Symbol library or in the adjacent artboard.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Using Symbols: Using the symbols in your design is as easy as dragging it into place. From the Symbol library, simply select the symbol you want and drag it to the artboard. You can also copy and paste the symbol from one artboard to another. 
+**Using Symbols:** Using the symbols in your design is as easy as dragging it into place. From the Symbol library, simply select the symbol you want and drag it to the artboard. You can also copy and paste the symbol from one artboard to another. 
 
 Symbols can be identified by the green outline that appears when you hover over the object.
 
