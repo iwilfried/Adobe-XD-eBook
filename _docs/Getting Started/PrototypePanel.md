@@ -10,4 +10,4 @@ order: 9
 It also gives you the ability to preview that interaction and share it online, in real time, with other team members or stakeholders. Being able to preview what users will experience when using your app or website is invaluable. 
 
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-02.png" alt="no image" />
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Prototype-Panel-02.png" alt="no image" />
