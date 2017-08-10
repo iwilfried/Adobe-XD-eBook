@@ -30,14 +30,17 @@ Elements are labeled as a group in the Layers panel and the grouped elements are
 
 Follow the same steps to ungroup elements. The keyboard shortcuts are Shift + Command G (Mac) or Shift + CTRL + G (Windows).
  
-Edit Layers: You can reorder, rename, regroup, duplicate and exporting layers within the Layers panel. Double-click the layer name and rename it. If you want to rename additional layers use the Tab key to continue to the next layer.
+**Edit Layers:** You can reorder, rename, regroup, duplicate and exporting layers within the Layers panel. Double-click the layer name and rename it. If you want to rename additional layers use the Tab key to continue to the next layer.
 
 Duplicating or copying a layer is simple. Right click and select duplicate from the drop down menu or use Command + D (Mac) or CTRL + D (Windows).
 
+&nbsp;   
+
+&nbsp;   
+![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-04.png)
 
 You can export each layer as an individual file. 
 
 Right click the layer and select Export (Or Command + E/CTRL + E). 
-
 
 A menu will appear and you can choose the format for the export and whether it is for design, web, iOS, or Android.
