@@ -28,5 +28,10 @@ Once you make your selection, XD opens and you have a blank screen on the XD int
 
 You can add as many artboards as necessary. You can also have artboards of various sizes all in one file.  
 
-This is helpful to show mobile, tablet, and web designs of the same app.
+This is helpful to show mobile, tablet, and web designs of the same app.  
 
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-04.png" alt="no image"/>Scrollable Artboards: One of the most requested features was a scrollable area within the app. Adobe listened to feedback and updated Adobe XD with the capability to scroll on your artboard.  
+
+If you want your app to scroll, use one of the handles to stretch your artboard until you see the dotted line, or “Fold.”  
+
+The Fold is a visual marker indicating where the images and text will begin to scroll.
