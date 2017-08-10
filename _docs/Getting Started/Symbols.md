@@ -28,6 +28,7 @@ Symbol Library: Once you have added a symbol it will be displayed in the Symbol 
 &nbsp;  
 
 &nbsp;  
+ 
 
 You can open the Symbols library in three ways:  
 Press Command + Shift + Y (on Mac), or Ctrl + Shift + Y (on Windows)
