@@ -87,6 +87,10 @@ You can adjust Blur amount, Brightness and Effect Opacity
 
 &nbsp;  
 
+&nbsp;  
+
+
+
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-09.png" alt="no image" />The dropdown arrow next to Background Blur gives you the option to adjust Object Blur.
 
  
