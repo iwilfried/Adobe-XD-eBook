@@ -19,9 +19,9 @@ Option 4: For Mac users, select the object then use the Object menu > Make Symbo
 
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-01.png)  
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-02.png" alt="no image" />Symbol Library: Once you have added a symbol it will be displayed in the Symbol library in the upper left hand corner of the interface.
+Symbol Library: Once you have added a symbol it will be displayed in the Symbol library in the upper left hand corner of the interface.  
 
-All the symbols you’ve added to the current project will show in the library. You can open the Symbols library in three ways:
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-02.png" alt="no image" />All the symbols you’ve added to the current project will show in the library. You can open the Symbols library in three ways:
 
 Press Command + Shift + Y (on Mac), or Ctrl + Shift + Y (on Windows)
 
