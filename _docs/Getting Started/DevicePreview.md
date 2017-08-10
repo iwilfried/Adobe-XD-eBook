@@ -20,4 +20,12 @@ Your device must be connected by a USB cable for this function to work.
 
 Once connected, Adobe XD will identify what type of device is connected and ready for the preview.  
 
-Here it shows I have one iOS device connected by USB. Click on that link
+Here it shows I have one iOS device connected by USB. Click on that link  
+
+&nbsp;  
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Device-Preview-03.png" alt="no image" />Open the Adobe XD app 
+on your device.  
+
+You can access files through the USB connection or through the Creative Cloud.
+
