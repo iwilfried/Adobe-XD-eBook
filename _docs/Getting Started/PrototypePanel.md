@@ -17,4 +17,4 @@ It also gives you the ability to preview that interaction and share it online, i
 
 All other tabs will be grayed out until they are selected.
 
-
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Prototype-04.png" alt="no image" />If you select an artboard with no connections it will look something like this. The house icon is grayed out and there is one blue handle on the side of the artboard.
