@@ -23,12 +23,20 @@ Symbol Library: Once you have added a symbol it will be displayed in the Symbol 
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-02.png" alt="no image" />All the symbols you’ve added to the current project will show in the library.  
 
-You can open the Symbols library in three ways:  
+&nbsp;  
 
 &nbsp;  
 
-Press Command + Shift + Y (on Mac),  
- or Ctrl + Shift + Y (on Windows)
+&nbsp;  
+
+&nbsp;  
+
+&nbsp;  
+
+You can open the Symbols library in three ways:  
+
+
+Press Command + Shift + Y (on Mac), or Ctrl + Shift + Y (on Windows)
 
 <img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-03.png" alt="no image" />Click  in the left toolbar 
 
