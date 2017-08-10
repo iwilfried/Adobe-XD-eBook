@@ -79,21 +79,21 @@ You can add values for the shadow in the X position, and Y position and then the
 
 &nbsp;  
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-10.png" alt="no image" />Blur: If you click the box next to Background Blur, three sliders appear.
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-10.png" alt="no image" />**Blur:** If you click the box next to Background Blur, three sliders appear.
 
 You can adjust Blur amount, Brightness and Effect Opacity
 
+&nbsp;  
 
+&nbsp;  
 
+&nbsp;  
 
-
-
-
-
+&nbsp;  
 
 The dropdown arrow next to Background Blur gives you the option to adjust Object Blur.
 
-
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-09.png" alt="no image" />
 
  
  
