@@ -49,6 +49,8 @@ If I didn’t want a uniform look I would use the second option that shows all f
 
 In my example I set to opposite corners to 75. The small image highlights the corner you are working with in blue.
 
+&nbsp;  
+
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-05.png" alt="no image" />**Fill:** Changing the fill color is extremely easy with Adobe XD. 
 
 After checking the box next to fill and selecting the dropper image you are given a large circle where you can select the exact pixel color you are looking for.
