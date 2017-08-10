@@ -1,5 +1,5 @@
 ---
-title: Properties Panel
+title: Symbols
 category: Getting Started
 order: 7
 ---
@@ -13,7 +13,7 @@ or Ctrl + K (on Windows).
 Option 3: Right-click the object and select “Make Symbol.”
 Option 4: For Mac users, select the object then use the Object menu > Make Symbol.  
 
-![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbols-01.png)  
+![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Symbol-01.png)  
 
 
 
