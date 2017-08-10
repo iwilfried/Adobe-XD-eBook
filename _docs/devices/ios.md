@@ -1,7 +1,7 @@
 ---
-title: Device Preview
-category: Getting Started
-order: 11
+title: ios
+category: Devices
+order: 2
 ---
 
 Previewing your design on a desktop is helpful but not nearly as invaluable as mobile device previews. Designers need to see how the prototype looks and performs on an actual mobile device.   
