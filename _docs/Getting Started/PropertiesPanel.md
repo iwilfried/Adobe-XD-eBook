@@ -45,8 +45,6 @@ In my example I changed the radius on all corners to 75. You can see the rounded
 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Property-Panel-04.png" alt="no image" />
 
-&nbsp;  
-
 If I didn’t want a uniform look I would use the second option that shows all four corners separately. 
 
 In my example I set to opposite corners to 75. The small image highlights the corner you are working with in blue.
