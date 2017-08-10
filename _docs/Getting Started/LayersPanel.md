@@ -37,7 +37,7 @@ Duplicating or copying a layer is simple. Right click and select duplicate from 
 &nbsp;   
 
 &nbsp;   
-![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Menu-04.png)
+![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Layers-04.png)
 
 You can export each layer as an individual file. 
 
