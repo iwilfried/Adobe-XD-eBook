@@ -29,6 +29,14 @@ If I add another element that will be universal to all screens I will update the
 
 Let's begin designing and adding elements to the artboard. The wireframe is, like the name says, the framework that shows where elements will go further along in the development process.  
 
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CCWire-03.png
+" alt="no image"/>**Adding Elements:** In this example, I used the rectangle tool to draw the shaded boxes. They will be placeholders for the “Sign Up” information. We need a space for name, email, username and password.
+
+After drawing the first rectangle you can hold down the Option key, to duplicate the rectangle four times. (Command + D also works) Use the text tool to label each box. 
+
+There’s no need to spend a lot of time on the graphic details. That can come later. The wireframe is simple and direct. The format is what we are interested in. The exact details will change with further development.  
+
+
 
 
 
