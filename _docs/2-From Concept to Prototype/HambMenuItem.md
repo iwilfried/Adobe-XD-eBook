@@ -25,9 +25,12 @@ Using the line tool, draw a short line directly on the pasteboard.
 
 Drag the selection tool over the lines to select them. Group them together by using Command + G or the “Unite” tool in the right side menu.
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-08.png" alt="no image"/>To give the hamburger menu the right rounded appearance and weight change the border color to white and the pixel value to 3.
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-08.png" alt="no image"/>To give the hamburger menu the right rounded appearance and weight change the border color to white and the pixel value to 3.  
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-09.png" alt="no image"/>As mentioned in previous sections, creating symbols can save a great deal of time. Convert your hamburger menu icon into a symbol in one of four ways:
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-09.png" alt="no image"/>  
+
+As mentioned in previous sections, creating symbols can save a great deal of time. Convert your hamburger menu icon into a symbol in one of four ways:
 
 Right-click the object and select Make Symbol.
 Select the object and press Command + K (on Mac), or Ctrl + K (on Windows).
