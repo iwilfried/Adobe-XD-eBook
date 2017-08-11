@@ -1,5 +1,5 @@
 ---
-title: Use artboards
+title: Using Grids
 category: 2-From Concept to Prototype
 order: 3
 ---
