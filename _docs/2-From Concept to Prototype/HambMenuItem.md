@@ -50,6 +50,9 @@ The symbol library can be opened by clicking in the icon  in the toolbar or by t
 
 Another time saving tool would be to add the hamburger menu to the “Master” screen we created in the Creating Wireframe section. Placing the hamburger menu is easier if you use grid lines or follow the smart guide lines that appear as you move the object.  
 
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-11.png" alt="no image"/>Another helpful tip is to change the name of the icon layers. Look in your Layers panel and find the object. It will either say “Group” or “Union” depending on how you chose to combine them.
+ 
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-12.png" alt="no image"/>Double click the name and change it to “Hamburger Menu.”  
 
 &nbsp;   
 
