@@ -27,6 +27,9 @@ Drag the selection tool over the lines to select them. Group them together by us
 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-08.png" alt="no image"/>To give the hamburger menu the right rounded appearance and weight change the border color to white and the pixel value to 3.  
 
+&nbsp;   
+
+&nbsp;   
 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-09.png" alt="no image"/>  
 
