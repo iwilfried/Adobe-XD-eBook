@@ -13,6 +13,15 @@ Adobe XD provides UI kits that can give designers a huge jumpstart with wirefram
 Generally speaking, an app will need a welcome screen, a sign in or sign up screen, a search screen, a profile screen etc. Our example will start with a Sign Up screen and a Profile Screen.  
 
 <img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CCWire-01.png" alt="no image"/>    
+First, you need to open and name an artboard and make sure to add gridlines.
+Next, create a header for your prototype. You need to open and name an artboard and make sure to add gridlines.
+
+In this example, the header has the app title, a hamburger menu and a search icon. The menu and search icon were made with the line tool and ellipse tool. Don’t worry, we go into detail on how to create these icons in another section.
+
+After designing the hamburger menu and search icon we grouped the elements (command + G). You could always make them into symbols as well.  
+
+
+
 
 
 
