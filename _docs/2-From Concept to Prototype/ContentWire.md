@@ -23,7 +23,8 @@ After designing the hamburger menu and search icon we grouped the elements (comm
 &nbsp; 
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CCWire-02.png
-" alt="no image"/>&nbsp;  
+" alt="no image"c/>&nbsp;  
+
 Create a Master: Instead of having to reproduce this base design for each screen I am going to duplicate it and name the second screen “Master.” 
 
 Now I can copy this master screen for each additional artboard.
