@@ -1,6 +1,6 @@
 ---
 title: Properties Panel
-category: Getting Started
+category: 1-Getting Started
 order: 5
 ---
 

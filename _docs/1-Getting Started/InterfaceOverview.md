@@ -1,6 +1,6 @@
 ---
 title: Exploring the Interface
-category: Getting Started
+category: 1-Getting Started
 order: 2
 ---
 

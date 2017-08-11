@@ -1,6 +1,6 @@
 ---
 title: Start Screen
-category: Getting Started
+category: 1-Getting Started
 order: 1
 ---
 
