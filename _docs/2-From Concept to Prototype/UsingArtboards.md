@@ -45,6 +45,7 @@ The Fold is a visual marker indicating where the images and text will begin to s
 
 &nbsp;   
 
+&nbsp;   
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-05.png" alt="no image" />In the Property Inspector you can select the viewport height (Scrollable area).
 
