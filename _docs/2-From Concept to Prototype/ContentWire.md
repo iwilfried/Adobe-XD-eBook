@@ -40,6 +40,11 @@ There’s no need to spend a lot of time on the graphic details. That can come l
 " alt="no image"/>**Add Text:** At this stage we added text to the wireframe so we know the purpose of each box. This way the client has no question about the text fields and their function.
 
 This is our mock sign up page. Very simple but it illustrates what a basic screen framework might look like.  
+
+&nbsp;   
+
+&nbsp;   
+
 &nbsp;   
 
 &nbsp;   
