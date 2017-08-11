@@ -41,6 +41,5 @@ All changes made on the desktop will be automatically reflected on the connected
 
 Use this powerful tool to work through your design and improve the prototype’s performance.   
 
-&nbsp;  
 
 
