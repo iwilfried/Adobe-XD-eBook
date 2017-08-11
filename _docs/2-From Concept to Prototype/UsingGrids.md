@@ -13,5 +13,4 @@ Adobe XD has the option to show grids on any of your artboards. The process is s
 The default color is gray and the pixel size is 8. You can change both of these options easily.  
 
 &nbsp;   
-
 <img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Grid-02.png" alt="no image"/>  
