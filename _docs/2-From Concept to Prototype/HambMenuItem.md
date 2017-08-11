@@ -10,8 +10,10 @@ Let's look at how we can use Adobe XD to create a hamburger icon for your protot
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-01.png
 " alt="no image"/>  
-&nbsp;   
 
 Using the line tool, draw a short line directly on the pasteboard.  
 
 
+&nbsp;   
+
+&nbsp;   
