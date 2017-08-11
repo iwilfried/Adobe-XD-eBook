@@ -36,6 +36,10 @@ After drawing the first rectangle you can hold down the Option key, to duplicate
 
 There’s no need to spend a lot of time on the graphic details. That can come later. The wireframe is simple and direct. The format is what we are interested in. The exact details will change with further development.  
 
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CCWire-03.png
+" alt="no image"/>**Add Text:** At this stage we added text to the wireframe so we know the purpose of each box. This way the client has no question about the text fields and their function.
+
+This is our mock sign up page. Very simple but it illustrates what a basic screen framework might look like.
 
 
 
