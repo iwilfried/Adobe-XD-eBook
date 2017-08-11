@@ -41,6 +41,11 @@ If you want your app to scroll, use one of the handles to stretch your artboard 
 
 The Fold is a visual marker indicating where the images and text will begin to scroll.  
 
+&nbsp;   
+
+&nbsp;   
+
+
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-05.png" alt="no image" />In the Property Inspector you can select the viewport height (Scrollable area).
 
 If you select none, the app content below the Fold will no longer scroll.
