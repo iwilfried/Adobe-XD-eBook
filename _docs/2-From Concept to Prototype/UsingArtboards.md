@@ -53,3 +53,9 @@ If you select none, the app content below the Fold will no longer scroll.
 
 Horizontal scrolling is not supported at this time.
 
+Selecting Artboards: Selecting an artboard is simple. Either click the name of the artboard or double-click the background of the artboard. If you want to select more than one artboard you can marquee select by dragging the cursor over all the artboards you want.
+
+Copy Artboards: You can perform a standard copy and paste by right clicking on an artboard and selecting copy. Once you move the cursor to a blank place on the pasteboard you can select paste. 
+
+You can also simply hold down the Option key and drag an artboard to the side to duplicate it. These same functions exist for copying individual elements within an artboard.
+
