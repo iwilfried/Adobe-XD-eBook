@@ -25,6 +25,9 @@ In my example below I used the value of 50. If you like this size and think you 
 
 Once you have the grid size and color set you can begin design work. The nice thing about grids is they will “snap” objects into place. After drawing this rectangle, when I move it within the artboard the grid pulls it into alignment.  
 
+<img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Grid-04.png" alt="no image"/>  
+
+If you need to move your object or text outside the grid lines you and hold down the Option key can you can move the object freely along the artboard.  
 
 
-
+ 
