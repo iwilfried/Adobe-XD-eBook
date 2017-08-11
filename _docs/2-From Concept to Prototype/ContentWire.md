@@ -20,12 +20,8 @@ In this example, the header has the app title, a hamburger menu and a search ico
 
 After designing the hamburger menu and search icon we grouped the elements (command + G). You could always make them into symbols as well.  
 
-&nbsp; 
-
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CCWire-02.png
-" alt="no image"/>&nbsp;  
-
-Create a Master: Instead of having to reproduce this base design for each screen I am going to duplicate it and name the second screen “Master.” 
+" alt="no image"/>Create a Master: Instead of having to reproduce this base design for each screen I am going to duplicate it and name the second screen “Master.” 
 
 Now I can copy this master screen for each additional artboard.
 
