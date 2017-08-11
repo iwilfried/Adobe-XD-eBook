@@ -43,7 +43,11 @@ As mentioned in previous sections, creating symbols can save a great deal of tim
 
 4. Select the object and click + in the Symbols library.  
 
-The symbol library can be opened by clicking in the icon  in the toolbar or by typing Command + Shift + Y (on Mac), or Ctrl + Shift + Y (on Windows).
+The symbol library can be opened by clicking in the icon  in the toolbar or by typing Command + Shift + Y (on Mac), or Ctrl + Shift + Y (on Windows).  
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-10.png" alt="no image"/>
+
+Another time saving tool would be to add the hamburger menu to the “Master” screen we created in the Creating Wireframe section. Placing the hamburger menu is easier if you use grid lines or follow the smart guide lines that appear as you move the object.  
 
 
 &nbsp;   
