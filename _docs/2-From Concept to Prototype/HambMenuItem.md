@@ -19,6 +19,8 @@ Using the line tool, draw a short line directly on the pasteboard.
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-02.png
 " alt="no image"/>Hold down the option key and drag two duplicate lines below—for a total of three lines.  
 
+&nbsp;   
+
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-H-Icon-05.png)  
 
 Drag the selection tool over the lines to select them. Group them together by using Command + G or the “Unite” tool in the right side menu.
