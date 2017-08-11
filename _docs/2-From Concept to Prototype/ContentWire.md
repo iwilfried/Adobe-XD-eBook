@@ -12,4 +12,8 @@ Adobe XD provides UI kits that can give designers a huge jumpstart with wirefram
 
 Generally speaking, an app will need a welcome screen, a sign in or sign up screen, a search screen, a profile screen etc. Our example will start with a Sign Up screen and a Profile Screen.  
 
+<img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CCWire-01.png" alt="no image"/>    
+
+
+
 
