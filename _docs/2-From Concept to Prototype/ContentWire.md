@@ -1,7 +1,7 @@
 ---
 title: Creating Content Wireframes
 category: 2-From Concept to Prototype
-order: 3
+order: 4
 ---
 
 **Wireframes:** Wireframes are the basic blueprint for your design. Utilizing a wireframe will help with structure and layout as well as functionality for on-screen design. Wireframes can be low-fidelity, super simple, black and white, with filler content while others are hi-fidelity, with actual content, style, typeface and some graphic designs included. 
