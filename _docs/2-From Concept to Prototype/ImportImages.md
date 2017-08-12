@@ -45,7 +45,7 @@ You can also copy and paste images from web browsers into Adobe XD.
 
 First import the file to your artboard. Then draw or place the desired shape over the image.
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-03.png
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-04.png
 " alt="no image"/>The this example, using the Ellipse tool, I drew a circle over the model’s face. 
 
 You can adjust the proportion of the shape until you have the exact shape you are looking for
