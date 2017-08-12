@@ -48,6 +48,26 @@ First import the file to your artboard. Then draw or place the desired shape ove
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-04.png
 " alt="no image"/>The this example, using the Ellipse tool, I drew a circle over the model’s face. 
 
-You can adjust the proportion of the shape until you have the exact shape you are looking for
+You can adjust the proportion of the shape until you have the exact shape you are looking for.  
 
+
+  &nbsp;   
+
+
+  &nbsp;   
+
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-05.png
+" alt="no image"/>Once you have placed the shape you want to access the Object menu from the top menu bar.  
+
+
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-06.png
+" alt="no image"/>Object > Mask with Shape 
+This will crop the image to fit within the circle shape.  
+
+&nbsp;   
+
+
+&nbsp;   
 
