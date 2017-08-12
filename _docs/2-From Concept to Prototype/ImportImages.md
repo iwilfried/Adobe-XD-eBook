@@ -80,7 +80,6 @@ This will crop the image to fit within the circle shape.
 
 &nbsp;   
 
-
 **Importing Multiple Files:** In Adobe XD you can import more than one image at a time. This is a wonderful, timesaving option.
 
 In this example we have an artboard with 4 equal squares. We created these squares using the Repeat Grid function. (Details in another section)
