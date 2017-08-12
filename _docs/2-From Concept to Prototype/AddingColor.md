@@ -58,14 +58,14 @@ All changes are reflected immediately.
 
 &nbsp;   
 
-&nbsp;   
-
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddColor-06.png
 " alt="no image"/>
-
-&nbsp;   
 
 **Color Chips:** You can create color chips for the frequently used colors in your design.
 
 Select the color using the color picker or enter the hex value on the line.
 
+
+&nbsp;   
+
+&nbsp;   
