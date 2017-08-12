@@ -35,13 +35,17 @@ In the example below I needed to change the font, so I simply selected one text 
 " alt="no image"/>**Adjusting the Padding:**
 The pink space between the rows of avatars is referred to as “padding.” As you hover over this space in a Repeat Grid you will see a double arrow that will allow you to adjust the size of the padding. 
  
-The small pink number will change as you adjust. In the example I changed the padding from a value of 20 to 7
-
-
-
-
+The small pink number will change as you adjust. In the example I changed the padding from a value of 20 to 7  
 
 &nbsp;   
+
+**Changing Images in a Grid:** The next step in this project is to add images to the grid. To do this you select the files you want to add, in the order you want them to appear, and then drop them onto one of the images.  
+
+<img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-RepeatGrid-05.png
+" alt="no image"/>
+
+Instantly, the images appear in each shape, clipped and centered automatically.  
+
 
 
 &nbsp;   
