@@ -19,8 +19,6 @@ Drag and Drop: First, draw the shape or select the area where the image will be 
 &nbsp;   
 
 
-&nbsp;   
-
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-02.png
 " alt="no image"/>  
 
@@ -50,4 +48,4 @@ First import the file to your artboard. Then draw or place the desired shape ove
 
   &nbsp;   
 
-  
+
