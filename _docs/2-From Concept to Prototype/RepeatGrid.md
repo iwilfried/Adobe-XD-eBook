@@ -29,10 +29,16 @@ In the example below I needed to change the font, so I simply selected one text 
 <img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-RepeatGrid-03.png
 " alt="no image"/>  
 
-
-
-
 &nbsp;   
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-RepeatGrid-04.png
+" alt="no image"/>**Adjusting the Padding:**
+The pink space between the rows of avatars is referred to as “padding.” As you hover over this space in a Repeat Grid you will see a double arrow that will allow you to adjust the size of the padding. 
+ 
+The small pink number will change as you adjust. In the example I changed the padding from a value of 20 to 7
+
+
+
 
 
 &nbsp;   
