@@ -40,7 +40,9 @@ If you want to delete a color stop you can drag it off the Gradient Editor.
 
 &nbsp;   
 
-This is how our placeholder will look with the gradient selections in our example.
+This is how our placeholder will look with the gradient selections in our example.  
+
+&nbsp;   
 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddColor-05.png
 " alt="no image"/>  
