@@ -25,7 +25,9 @@ I can use the text tool to draw the area where I want the text to go. Once I sel
 
 &nbsp;   
 
-<img style="padding: 0px 35px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-03.png
+&nbsp;   
+
+<img style="padding: 0px 35px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-04.png
 " alt="no image"/>  
 
 If I import text without first selecting where I want that text to go it will simply appear on the pasteboard. From here you can use the Selection tool to move the text to the location you prefer and format the text if desired.
