@@ -51,11 +51,25 @@ Instantly, the images appear in each shape, clipped and centered automatically.
 
 **Adding a Text File to a Grid:** Next, we will add the individual names to each profile picture. To accomplish this you need a text file with each name on a different line. Next, select the shape or object where you’ll be inserting the text; drag and drop the file and watch as the names populate into each space. Remember that the grid will place things in order so make sure the names will line up the way you want them to.  
 
+<img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-RepeatGrid-07.png
+" alt="no image"/>
+
+<img style="padding: 0px 15px;float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-RepeatGrid-08.png
+" alt="no image"/>**Adjusting Design Elements in a Grid:** 
+We touched on this earlier when we discussed changing the font. 
+
+Now I will show you how quickly you can change design elements in the grid.
+Let’s say you decide the profile pictures need to be in a circle not a square shape.
+
+Select one of the square images and you will notice the blue radius control in the upper right corner. If you drag that control in the image will round into a circle.
+
+This design change will be reflected in all the images in the grid.  
 
 
+&nbsp;  
 
 &nbsp;   
 
-
+&nbsp;  
 
 
