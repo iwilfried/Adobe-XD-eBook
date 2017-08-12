@@ -22,6 +22,12 @@ There is a drop down menu at the top where you can choose from solid colors or g
 
 Let’s begin with gradient colors.  
 
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddColor-03.png
+" alt="no image"/>
+
+Gradient Editor: If Gradient is selected in the drop down, then the Gradient Editor appears.  
+
+You can click along the Gradient Editor to place color stops. Select your colors using the color picker.   
 
 
 
