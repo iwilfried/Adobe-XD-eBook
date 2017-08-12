@@ -63,11 +63,11 @@ You can adjust the proportion of the shape until you have the exact shape you ar
 
 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-06.png
-" alt="no image"/>Object >  
+" alt="no image"/>  
 
 &nbsp;   
 
-Mask with Shape 
+Object >Mask with Shape 
 This will crop the image to fit within the circle shape.  
 
 &nbsp;   
@@ -75,3 +75,11 @@ This will crop the image to fit within the circle shape.
 
 &nbsp;   
 
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-06.png
+" alt="no image"/>  
+
+**Importing Multiple Files:** In Adobe XD you can import more than one image at a time. This is a wonderful, timesaving option.
+
+In this example we have an artboard with 4 equal squares. We created these squares using the Repeat Grid function. (Details in another section)
+
+Select the shapes you are using and open your files. When you select the files keep in mind that the order in which you select them is the order they will be placed.
