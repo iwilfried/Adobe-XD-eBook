@@ -31,6 +31,25 @@ Let’s begin with gradient colors.
 
 You can click along the Gradient Editor to place color stops. Select your colors using the color picker.   
 
+You can place additional color stops by clicking along the Gradient Editor. You can also change the color of the color stops by clicking directly on the color stop and selecting a different color.   
 
+You can also change the color of the stops by moving them along the Gradient Editor. To move them, simply click and drag. You can move from one color stop to another by using the Tab key.  
 
+If you want to delete a color stop you can drag it off the Gradient Editor.   
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddColor-04.png
+" alt="no image"/>  
+
+&nbsp;   
+
+This is how our placeholder will look with the gradient selections in our example.
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddColor-05.png
+" alt="no image"/>  
+
+&nbsp;   
+
+You can adjust the gradient by moving the color stops along the Gradient Editor.  
+
+All changes are reflected immediately. 
 
