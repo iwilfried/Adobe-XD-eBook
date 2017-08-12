@@ -34,8 +34,6 @@ The image is immediately clipped and scaled into place.
 &nbsp;   
 
 
-&nbsp;   
-
 You can also drag images directly from a web browser onto your artboard or into an object. Like the example above, the image size is automatically adjusted to fit inside the object.  
 
 You can also copy and paste images from web browsers into Adobe XD.
