@@ -11,5 +11,11 @@ Drawing with Adobe XD is all about shapes. When you want to create an image you 
 
 Draw a small circle. By default the circle will have a fill. In this particular example, we don’t want the fill so I’m going to uncheck that box.
  
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CreateSearch-01.png
+" alt="no image"/>Next, we want to change the border to white. The Hex code you want is FFFFFF.  
+
+Then we need to thicken the border so it looks like a magnifying glass. Finally, change the Stroke value to 3.  
+
+
 
 &nbsp;   
