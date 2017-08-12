@@ -61,12 +61,16 @@ All changes are reflected immediately.
 
 **Color Chips:** You can create color chips for the frequently used colors in your design.
 
-Select the color using the color picker or enter the hex value on the line.
+Select the color using the color picker or enter the hex value on the line.  
+
+&nbsp;   
+
+&nbsp;   
 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddColor-07.png
 " alt="no image"/>
 
-Solid Color: If you choose to work with solid colors instead of gradient you simply choose the color and then adjust the two sliders.
+**Solid Color:** If you choose to work with solid colors instead of gradient you simply choose the color and then adjust the two sliders.
 
 One is for hue and the other is for opacity.
 
