@@ -16,8 +16,7 @@ Draw a small circle. By default the circle will have a fill. In this particular 
 
 Then we need to thicken the border so it looks like a magnifying glass. Finally, change the Stroke value to 6.  
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CreateSearch-03.png
-" alt="no image"/>Now it’s time to draw the handle. It is a simple straight line. Select the line tool, hold down Shift to keep it at the 45 degree angle, and draw a short line.
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CreateSearch-03.png" alt="no image"/>Now it’s time to draw the handle. It is a simple straight line. Select the line tool, hold down Shift to keep it at the 45 degree angle, and draw a short line.
 
 Make the same adjustments to the border: Make it white with a Stroke of 3. Now you have a Search icon.
 
