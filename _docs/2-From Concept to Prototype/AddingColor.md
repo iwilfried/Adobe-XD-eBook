@@ -51,6 +51,7 @@ You can adjust the gradient by moving the color stops along the Gradient Editor.
 
 All changes are reflected immediately. 
 
+&nbsp;   
 
 &nbsp;   
 
