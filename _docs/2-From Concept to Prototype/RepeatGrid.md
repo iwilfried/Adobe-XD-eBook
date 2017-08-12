@@ -46,6 +46,12 @@ The small pink number will change as you adjust. In the example I changed the pa
 
 Instantly, the images appear in each shape, clipped and centered automatically.  
 
+<img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-RepeatGrid-06.png
+" alt="no image"/>  
+
+**Adding a Text File to a Grid:** Next, we will add the individual names to each profile picture. To accomplish this you need a text file with each name on a different line. Next, select the shape or object where you’ll be inserting the text; drag and drop the file and watch as the names populate into each space. Remember that the grid will place things in order so make sure the names will line up the way you want them to.  
+
+
 
 
 &nbsp;   
