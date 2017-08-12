@@ -43,10 +43,9 @@ Open the text file and select all the text you want to copy. Use Command + C or 
 &nbsp;   
 
 <img style="padding: 0px 35px, float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-06.png
+" alt="no image"/>
+
+<img style="padding: 0px 35px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-07.png
 " alt="no image"/>Using the Text tool draw a text box and paste the copied text by using Command + V or by right clicking and selecting “Paste.”
 
 Format Text: Now you can format the text as usual using the properties menu on the right.
-
-
-<img style="padding: 0px 35px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-07.png
-" alt="no image"/>
