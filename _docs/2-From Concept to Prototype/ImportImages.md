@@ -89,12 +89,9 @@ Select the shapes you are using and open your files. When you select the files k
 
 &nbsp;   
 
-&nbsp;   
-
-&nbsp;  
-
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-08.png" alt="no image"/>  
 
+&nbsp;  
 
 Once selected you simply drag them into the boxes and let go. Just like that they are clipped and placed proportionally into each box.
 
