@@ -30,4 +30,19 @@ I can use the text tool to draw the area where I want the text to go. Once I sel
 <img style="padding: 0px 35px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-04.png
 " alt="no image"/>  
 
-If I import text without first selecting where I want that text to go it will simply appear on the pasteboard. From here you can use the Selection tool to move the text to the location you prefer and format the text if desired.
+If I import text without first selecting where I want that text to go it will simply appear on the pasteboard. From here you can use the Selection tool to move the text to the location you prefer and format the text if desired.  
+
+You can also import text by dragging an existing plain text file from the desktop to the pasteboard or to a specific artboard.  
+
+<img style="padding: 0px 35px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-05.png
+" alt="no image"/>  
+
+The last option is a basic copy and paste function.
+Open the text file and select all the text you want to copy. Use Command + C or you can right click and select copy.
+
+<img style="padding: 0px 35px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-06.png
+" alt="no image"/>
+
+
+<img style="padding: 0px 35px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-07.png
+" alt="no image"/>
