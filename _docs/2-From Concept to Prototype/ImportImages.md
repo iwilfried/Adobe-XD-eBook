@@ -75,7 +75,9 @@ This will crop the image to fit within the circle shape.
 
 &nbsp;   
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-06.png
+&nbsp;  
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-07.png
 " alt="no image"/>  
 
 **Importing Multiple Files:** In Adobe XD you can import more than one image at a time. This is a wonderful, timesaving option.
