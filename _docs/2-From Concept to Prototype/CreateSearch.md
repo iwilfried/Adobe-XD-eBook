@@ -22,6 +22,7 @@ Make the same adjustments to the border: Make it white with a Stroke of 3. Now y
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CreateSearch-04.png" alt="no image"/>Using the Selection tool, select both shapes by dragging the cursor over them.
 
+&nbsp;   
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CreateSearch-05.png" alt="no image"/>Now to group them you can type Command + G, right click and select Group or you can use the “Add” Boolean Operation.
 
