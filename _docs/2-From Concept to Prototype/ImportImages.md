@@ -63,7 +63,11 @@ You can adjust the proportion of the shape until you have the exact shape you ar
 
 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-06.png
-" alt="no image"/>Object > Mask with Shape 
+" alt="no image"/>Object >  
+
+&nbsp;   
+
+Mask with Shape 
 This will crop the image to fit within the circle shape.  
 
 &nbsp;   
