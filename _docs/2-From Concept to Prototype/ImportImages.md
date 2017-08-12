@@ -48,3 +48,6 @@ You can also copy and paste images from web browsers into Adobe XD.
 First import the file to your artboard. Then draw or place the desired shape over the image.
 
 
+  &nbsp;   
+
+  
