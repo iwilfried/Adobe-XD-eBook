@@ -17,7 +17,11 @@ In Adobe XD you can add text by either importing it from an existing plain text 
 &nbsp;   
 
 <img style="padding: 0px 35px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-03.png
-" alt="no image"/>I can use the text tool to draw the area where I want the text to go. Once I select File > Import > Text File, the text will appear within the text box that I drew.  
+" alt="no image"/>  
+
+&nbsp;   
+
+I can use the text tool to draw the area where I want the text to go. Once I select File > Import > Text File, the text will appear within the text box that I drew.  
 
 
 
