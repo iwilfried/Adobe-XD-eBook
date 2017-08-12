@@ -22,5 +22,12 @@ Drag and Drop: First, draw the shape or select the area where the image will be 
 &nbsp;   
 
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-02.png
-" alt="no image"/>
+" alt="no image"/>  
+
+Find the image in your files and drag it directly into the space in Adobe XD.
+
+The image is immediately clipped and scaled into place.   
+
+
+
 
