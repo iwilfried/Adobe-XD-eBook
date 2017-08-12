@@ -22,9 +22,13 @@ Now I could change each photograph and name to reflect actual students.
 
 &nbsp;   
 
-Editing Elements in a Grid:  Another great feature to the Repeat Grid function is that if you need to change an element you can do it once and it is reflected throughout the rest of the grid.
+**Editing Elements in a Grid:**  Another great feature to the Repeat Grid function is that if you need to change an element you can do it once and it is reflected throughout the rest of the grid.
 
 In the example below I needed to change the font, so I simply selected one text box in the grid, changed the font and it updated throughout.  
+
+<img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-RepeatGrid-03.png
+" alt="no image"/>  
+
 
 
 &nbsp;   
