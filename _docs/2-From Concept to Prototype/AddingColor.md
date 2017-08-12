@@ -13,7 +13,7 @@ We will begin by changing the background color of our
 “Full Name” placeholder.  
 
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddColor-01.png
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddColor-02.png
 " alt="no image"/>
 
 **Color Picker:** After selecting the rectangle and clicking “Fill” in the Property Inspector, the color picker menu opens.  
