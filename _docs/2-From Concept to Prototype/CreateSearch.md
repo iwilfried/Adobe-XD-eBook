@@ -26,11 +26,11 @@ Make the same adjustments to the border: Make it white with a Stroke of 3. Now y
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CreateSearch-05.png" alt="no image"/>Now to group them you can type Command + G, right click and select Group or you can use the “Add” Boolean Operation.
 
-<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CreateSearch-05.png" alt="no image"/>Now that the icon is grouped I can size it down by clicking and dragging one of the corner handles or I can hold down Shift to maintain its proportions while resizing.  
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CreateSearch-06.png" alt="no image"/>Now that the icon is grouped I can size it down by clicking and dragging one of the corner handles or I can hold down Shift to maintain its proportions while resizing.  
 
 Once I have the size I want I will place it on my prototype in the header.
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CreateSearch-05.png" alt="no image"/>Another helpful tip is to change the name of the icon layers. Look in your Layers panel and find the object. It will either say “Group” or “Union” depending on how you chose to combine them.
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-CreateSearch-07.png" alt="no image"/>Another helpful tip is to change the name of the icon layers. Look in your Layers panel and find the object. It will either say “Group” or “Union” depending on how you chose to combine them.
  
 Double click the name and change it to “Search Icon.”
 
