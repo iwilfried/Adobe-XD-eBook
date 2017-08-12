@@ -78,8 +78,6 @@ This will crop the image to fit within the circle shape.
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportImage-07.png" alt="no image"/>  
 
-&nbsp;   
-
 **Importing Multiple Files:** In Adobe XD you can import more than one image at a time. This is a wonderful, timesaving option.
 
 In this example we have an artboard with 4 equal squares. We created these squares using the Repeat Grid function. (Details in another section)
