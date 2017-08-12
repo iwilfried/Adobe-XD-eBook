@@ -40,10 +40,10 @@ You can also import text by dragging an existing plain text file from the deskto
 The last option is a basic copy and paste function.
 Open the text file and select all the text you want to copy. Use Command + C or you can right click and select copy.  
 
-&nbsp;   
-
 <img style="padding: 0px 35px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-06.png
-" alt="no image"/>
+" alt="no image"/>  
+
+
 
 <img style="padding: 0px 35px; float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-AddText-07.png
 " alt="no image"/>Using the Text tool draw a text box and paste the copied text by using Command + V or by right clicking and selecting “Paste.”
