@@ -39,6 +39,8 @@ I will create another artboard and place the image file just like we did in the 
 
 Next, select the Rectangle tool and draw a rectangle the exact shape of your image.
 
+&nbsp; 
+
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-BackBlur-04.png
 " alt="no image"/>  
 
