@@ -38,5 +38,15 @@ Now a ghost button is an invisible button with a stroke around it and it's real 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SignIn-06.png
 " alt="no image"/>  
 
+&nbsp;  
+
+Now the other thing you might want to do is make sure that these two items are aligned with each other. So I'm going to just click the horizontal and vertical alignment to make sure that they're aligned. And then I'm going to take both items here and I'm going to group them and by doing that, I can now move them as one unit.
+And there we go, I've got it perfectly aligned with the center of the screen. Okay, let's turn our attention to the username here. So what I'm going to do is I'm just going to get rid of this box and then I'm going to select the line tool right here, and I'm just going to hold down the Shift key as I drag to constrain the motion. And I'm going to look for that guide, there it is, there's the smart guide, so in the width here, and then all I have to do is just change that to white and it looks pretty good.  
+
+
+
+
+
+
 
 &nbsp;   
