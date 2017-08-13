@@ -17,7 +17,7 @@ We will look at Object Blur first.
 
 &nbsp;   
 
-Object Blur: In this example we are creating the title page for our online student portal. First, we create a new artboard. Next, we drag and drop the image file onto the artboard. We have chosen a stock image of a university library from freepik.com for our cover image.  
+**Object Blur:** In this example we are creating the title page for our online student portal. First, we create a new artboard. Next, we drag and drop the image file onto the artboard. We have chosen a stock image of a university library from freepik.com for our cover image.  
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-BackBlur-02.png
 " alt="no image"/>  
@@ -29,14 +29,20 @@ Now, I can adjust the level of blur using the slider below.
 
  &nbsp;  
 
-**Object Blur:** In this example we are creating the title page for our online student portal. First, we create a new artboard. Next, we drag and drop the image file onto the artboard. We have chosen a stock image of a university library from freepik.com for our cover image.  
+**Background Blur:** This same effect can be achieved using the Background Blur option but with a few additional steps.
+
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-BackBlur-03.png
 " alt="no image"/>  
 
-After placing the image, I select it and choose Object Blur from the drop down menu.
+I will create another artboard and place the image file just like we did in the first example.
 
-Now, I can adjust the level of blur using the slider below.  
+Next, select the Rectangle tool and draw a rectangle the exact shape of your image.
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-BackBlur-03.png
+" alt="no image"/>  
+
+With the rectangle selected and the box next to Background Blur checked we can now adjust the Blur Amount, Brightness and Opacity to achieve the same look as we did using Object Blur
 
 
 
