@@ -27,7 +27,7 @@ Now that we have the background image in place and properly blurred, we can now 
 &nbsp;   
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SignIn-05.png
-" alt="no image"/>
+" alt="no image"/>  
 
 Now a ghost button is an invisible button with a stroke around it and it's real easy to do. So what you do is you just select that background right there, that strip, and you turn off the fill but you just give it a white border. And if you take a look at it, there it is, there's your ghost button.   
 
