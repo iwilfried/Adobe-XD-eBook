@@ -27,8 +27,17 @@ After placing the image, I select it and choose Object Blur from the drop down m
 
 Now, I can adjust the level of blur using the slider below.  
 
- 
+ &nbsp;  
+
 **Object Blur:** In this example we are creating the title page for our online student portal. First, we create a new artboard. Next, we drag and drop the image file onto the artboard. We have chosen a stock image of a university library from freepik.com for our cover image.  
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-BackBlur-03.png
+" alt="no image"/>  
+
+After placing the image, I select it and choose Object Blur from the drop down menu.
+
+Now, I can adjust the level of blur using the slider below.  
+
 
 
 
