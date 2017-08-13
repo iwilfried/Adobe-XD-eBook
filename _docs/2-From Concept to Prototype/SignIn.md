@@ -49,7 +49,22 @@ And there we go, I've got it perfectly aligned with the center of the screen. Ok
 
 Okay, and we're going to do the same thing with the password. Now here's a really interesting little technique. Let's just get rid of the box.And you just click on the line. Click, hold down your Option Alt key to make a copy. Hold down the Shift key to come down straight and there we go, we got the username and password done. Now we're going to create the little icon for the username which will be an email address.So we're going to make ourselves an envelope.  
 
-<!--  -->
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SignIn-08.png
+" alt="no image"/>  
+
+
+&nbsp;   
+
+
+&nbsp;   
+
+So we're going to select the rectangle tool and we're just going to draw a rectangle, doesn't matter how big it is right now. And we're not going to give it a border so we're going to turn off the border on it and then we'll add a stroke there. Okay, there's a line there, and we'll go to the other opposite corner and add another line. And then we'll just select all the lines and the box and we're going to group them, Command or Control + G.
+And then we can just take the icon and shrink it down in size and then we can just bring it down and place it right about there and make sure that it's lined up, good. Okay, so the password needs a lock. So what I'm going to do here is I'm going to go up to the File menu, select Import, and go find that Lock.svg image in our Chapter Two download folder and select it, Import, and it appears on the screen.  
+
+
+
+
 
 
 
