@@ -42,12 +42,17 @@ Next, select the Rectangle tool and draw a rectangle the exact shape of your ima
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-BackBlur-04.png
 " alt="no image"/>  
 
+&nbsp;   
+
 With the rectangle selected and the box next to Background Blur checked we can now adjust the Blur Amount, Brightness and Opacity to achieve the same look as we did using Object Blur
 
 
-
-
+&nbsp;   
 
 
 &nbsp;   
+
+
+&nbsp;   
+
 
