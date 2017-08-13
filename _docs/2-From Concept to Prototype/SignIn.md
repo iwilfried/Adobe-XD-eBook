@@ -14,7 +14,7 @@ order: 12
 " alt="no image"/> 
 
 &nbsp;   
- 
+ ow that we have the background image in place and properly blurred, we can now turn our attentio
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SignIn-03.png
 " alt="no image"/>  
 
