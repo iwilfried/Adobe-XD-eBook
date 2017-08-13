@@ -1,5 +1,5 @@
 ---
-title: Background Bur
+title: Background Blur
 category: 2-From Concept to Prototype
 order: 11
 ---  
@@ -15,11 +15,24 @@ Let’s look closer at the blur effect options in Adobe XD.
 
 We will look at Object Blur first.  
 
+&nbsp;   
+
+Object Blur: In this example we are creating the title page for our online student portal. First, we create a new artboard. Next, we drag and drop the image file onto the artboard. We have chosen a stock image of a university library from freepik.com for our cover image.  
+
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-BackBlur-01.png
+" alt="no image"/>  
 
 &nbsp;   
 
+After placing the image, I select it and choose Object Blur from the drop down menu.
 
-&nbsp;   
+Now, I can adjust the level of blur using the slider below.  
+
+ 
+**Object Blur:** In this example we are creating the title page for our online student portal. First, we create a new artboard. Next, we drag and drop the image file onto the artboard. We have chosen a stock image of a university library from freepik.com for our cover image.  
+
+
+
 
 
 &nbsp;   
