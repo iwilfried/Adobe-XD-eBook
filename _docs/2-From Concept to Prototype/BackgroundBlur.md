@@ -50,6 +50,14 @@ With the rectangle selected and the box next to Background Blur checked we can n
 
 &nbsp;   
 
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-BackBlur-04.png
+" alt="no image"/>There are other ways to use the Background Blur feature. You do not have to blur the entire artboard.
+
+Let’s go back to our student profiles artboard. For the sake of our example, let’s say we need to blur one of the student’s profile images. We can do that with Background Blur. Simply select the image, tick the box next to Background Blur and adjust the Blur Amount, Brightness, and Opacity until you reach the desired effect  
+
+  
+
+
 
 &nbsp;   
 
