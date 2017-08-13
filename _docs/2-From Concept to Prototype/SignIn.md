@@ -42,6 +42,13 @@ Now the other thing you might want to do is make sure that these two items are a
 And there we go, I've got it perfectly aligned with the center of the screen. Okay, let's turn our attention to the username here. So what I'm going to do is I'm just going to get rid of this box and then I'm going to select the line tool right here, and I'm just going to hold down the Shift key as I drag to constrain the motion. And I'm going to look for that guide, there it is, there's the smart guide, so in the width here, and then all I have to do is just change that to white and it looks pretty good.  
 
 
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SignIn-06.png
+" alt="no image"/>  
+
+&nbsp;  
+
+Okay, and we're going to do the same thing with the password. Now here's a really interesting little technique. Let's just get rid of the box.And you just click on the line. Click, hold down your Option Alt key to make a copy. Hold down the Shift key to come down straight and there we go, we got the username and password done. Now we're going to create the little icon for the username which will be an email address.So we're going to make ourselves an envelope.  
+
 
 
 
