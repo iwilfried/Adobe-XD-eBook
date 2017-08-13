@@ -62,6 +62,17 @@ Okay, and we're going to do the same thing with the password. Now here's a reall
 So we're going to select the rectangle tool and we're just going to draw a rectangle, doesn't matter how big it is right now. And we're not going to give it a border so we're going to turn off the border on it and then we'll add a stroke there. Okay, there's a line there, and we'll go to the other opposite corner and add another line. And then we'll just select all the lines and the box and we're going to group them, Command or Control + G.
 And then we can just take the icon and shrink it down in size and then we can just bring it down and place it right about there and make sure that it's lined up, good. Okay, so the password needs a lock. So what I'm going to do here is I'm going to go up to the File menu, select Import, and go find that Lock.svg image in our Chapter Two download folder and select it, Import, and it appears on the screen.  
 
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SignIn-09.png
+" alt="no image"/>  
+
+
+&nbsp;   
+
+
+&nbsp;   
+
+And then I can select it. Sometimes you grab what you don't want. And just move it into position, you notice I've got my smart guides there, so now what I want to do is just move it into place. So I'm going to select it and using the down arrow, I'm just going to try and line it up roughly with the baseline of the word Password. And we now have the lock icon in place. So there you go, there's creating the page that we use for sign in and we've created a logo here just using the rectangle tool and a couple of lines and we made a ghost button just by basically taking a rectangle with a rounded corners and did not giving it a fill and a simple stroke.  
+
 
 
 
