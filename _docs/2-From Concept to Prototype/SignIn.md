@@ -1,5 +1,5 @@
 ---
-title: Creating a Sign-in Screen
+title: Sign-in Screen
 category: 2-From Concept to Prototype
 order: 12
 ---  
