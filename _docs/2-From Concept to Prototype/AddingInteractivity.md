@@ -75,7 +75,21 @@ Ease in starts slow but accelerates and Ease out does the opposite—Starts quic
 Ease In-Out is a combination of both. The transition starts slow, accelerates and then slows down again.
 
 <img style="padding: 0px 15px; float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-08.png
-" alt="no image"/>**Duration:**  The total time it takes to complete one cycle or transition. 
+" alt="no image"/>  
+
+&nbsp; 
+
+**Duration:** The total time it takes to complete one cycle or transition.  
+
+
+&nbsp; 
+
+
+&nbsp; 
+
+
+&nbsp; 
+
 
 Now we can continue making connections. I know that when someone clicks on “Appetizers” I want them to navigate to the “Appetizer” screen so I make that connection. Next, I do the same with “Entrees.” You can see below how each interaction looks in the Prototype mode. You can press Command + A to see all interactions in the prototype.  
 
