@@ -22,6 +22,8 @@ If I want to change the Home Screen the process is also very simple.
 
 If you click that gray home symbol the new screen becomes the Home screen.  
 
+&nbsp; 
+
 <img style="padding: 0px 15px; float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-04.png
 " alt="no image"/>**Creating Interactions:** Next, we will start connecting screens and selecting the transition style.
 
@@ -71,15 +73,6 @@ As you can imagine, a prototype with hundreds of artboards can become pretty com
  
 
 
-
-
-
-
-
-
-
-<img style="padding: 0px 15px; float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-06.png
-" alt="no image"/>
 
 
 
