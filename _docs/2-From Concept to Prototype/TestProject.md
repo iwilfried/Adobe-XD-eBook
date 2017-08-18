@@ -11,4 +11,9 @@ order: 14
 " alt="no image"/>  
 
 <img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Test-Project-02.png
-" alt="no image"/>
+" alt="no image"/>Once the “Preview” button has been selected, the Preview window appears right above the Adobe XD interface.
+
+You are still able to see your artboards while previewing the prototype.  
+
+
+
