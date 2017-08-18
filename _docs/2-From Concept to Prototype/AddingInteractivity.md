@@ -39,6 +39,7 @@ You are also given options for the type of transition and the duration. We will 
 
 Now when someone clicks the Get Started button they are connected to the Table of Contents
 
+&nbsp; 
 
 <img style="padding: 0px 15px; float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-06.png
 " alt="no image"/>  
@@ -65,14 +66,12 @@ You can choose from Dissolve, Slide (in multiple directions), or Push (in multip
 &nbsp; 
 
 
-&nbsp; 
-
 <img style="padding: 0px 15px; float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-10.png
 " alt="no image"/>**Easing:** Easing indicates the speed at which the screen transitions from one to another.
-
 Ease in starts slow but accelerates and Ease out does the opposite—Starts quickly but slows down.
+Ease In-Out is a combination of both. The transition starts slow, accelerates and then slows down again.  
 
-Ease In-Out is a combination of both. The transition starts slow, accelerates and then slows down again.
+&nbsp; 
 
 <img style="padding: 0px 15px; float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-08.png
 " alt="no image"/>  
