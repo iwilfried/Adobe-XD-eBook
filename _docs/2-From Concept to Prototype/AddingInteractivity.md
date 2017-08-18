@@ -41,12 +41,23 @@ Now when someone clicks the Get Started button they are connected to the Table o
 
 
 <img style="padding: 0px 15px; float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-06.png
-" alt="no image"/>**Target:** The first drop down in “Target.” This will list all the artboards in your design. This is extremely helpful when you have two hundred artboards and dragging the connecting handle is not feasible.
+" alt="no image"/>  
+
+**Target:** The first drop down in “Target.” This will list all the artboards in your design. This is extremely helpful when you have two hundred artboards and dragging the connecting handle is not feasible.
 If I was connecting a back button I could select the “Previous Artboard” option. This does what it says—it goes back to the previous artboard.  
 
 <img style="padding: 0px 15px; float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-07.png
 " alt="no image"/>**Transition:** Adobe XD gives you numerous transition options. 
 You can choose from Dissolve, Slide (in multiple directions), or Push (in multiple directions)  
+
+
+&nbsp; 
+
+
+&nbsp; 
+
+
+&nbsp; 
 
 
 <img style="padding: 0px 15px; float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-08.png
