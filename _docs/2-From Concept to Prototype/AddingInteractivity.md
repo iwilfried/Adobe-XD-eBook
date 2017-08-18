@@ -48,6 +48,9 @@ Now when someone clicks the Get Started button they are connected to the Table o
 **Target:** The first drop down in “Target.” This will list all the artboards in your design. This is extremely helpful when you have two hundred artboards and dragging the connecting handle is not feasible.
 If I was connecting a back button I could select the “Previous Artboard” option. This does what it says—it goes back to the previous artboard.  
 
+&nbsp; 
+
+
 <img style="padding: 0px 15px; float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-07.png
 " alt="no image"/>**Transition:** Adobe XD gives you numerous transition options. 
 You can choose from Dissolve, Slide (in multiple directions), or Push (in multiple directions)  
@@ -64,14 +67,14 @@ You can choose from Dissolve, Slide (in multiple directions), or Push (in multip
 
 &nbsp; 
 
-<img style="padding: 0px 15px; float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-08.png
+<img style="padding: 0px 15px; float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-10.png
 " alt="no image"/>**Easing:** Easing indicates the speed at which the screen transitions from one to another.
 
 Ease in starts slow but accelerates and Ease out does the opposite—Starts quickly but slows down.
 
 Ease In-Out is a combination of both. The transition starts slow, accelerates and then slows down again.
 
-<img style="padding: 0px 15px; float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-09.png
+<img style="padding: 0px 15px; float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Add-Inter-08.png
 " alt="no image"/>**Duration:**  The total time it takes to complete one cycle or transition. 
 
 Now we can continue making connections. I know that when someone clicks on “Appetizers” I want them to navigate to the “Appetizer” screen so I make that connection. Next, I do the same with “Entrees.” You can see below how each interaction looks in the Prototype mode. You can press Command + A to see all interactions in the prototype.  
