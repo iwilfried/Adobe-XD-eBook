@@ -59,7 +59,6 @@ This allows you to record yourself navigating through the prototype. There is ev
 
 &nbsp;   
 
-&nbsp;   
 
 <img style="padding: 0px 15px;float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Test-Project-06.png
 " alt="no image"/>  
