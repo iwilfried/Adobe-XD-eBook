@@ -35,7 +35,12 @@ The next line has a box and the words “Allow Comments.” This is very importa
 
 When you have finished you can click “Create Link.”
 
+&nbsp;   
 
+<img style="padding: 0px 15px;float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-05.png
+" alt="no image"/>**Copy Link:** This is the next box you will see. The link is is auto populated and you can copy and paste the link into an email or other form of electronic communication.
+
+Now your team members or stakeholders can view and comment on your design. 
 
 
 
