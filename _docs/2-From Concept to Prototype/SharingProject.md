@@ -38,11 +38,22 @@ When you have finished you can click “Create Link.”
 &nbsp;   
 
 <img style="padding: 0px 15px;float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-05.png
-" alt="no image"/>**Copy Link:** This is the next box you will see. The link is is auto populated and you can copy and paste the link into an email or other form of electronic communication.
+" alt="no image"/>  
+
+&nbsp;   
+
+**Copy Link:** This is the next box you will see. The link is is auto populated and you can copy and paste the link into an email or other form of electronic communication.
 
 Now your team members or stakeholders can view and comment on your design. 
 
+&nbsp;   
 
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-06.png
+" alt="no image"/>
+
+In this example, I named the prototype file and added an icon image. Now, I am ready to share my link. 
+ 
+**Update Link:** During the iteration process there will probably be multiple changes or adjustments made. If so, you can easily update the link to the current version of your design by clicking the “Update Link” button.
 
 &nbsp;   
 
