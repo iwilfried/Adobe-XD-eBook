@@ -24,7 +24,18 @@ Share Online: Adobe XD provides multiple choices for sharing your design or prot
 
 Below the title there is a box with a dashed line. This box will be the icon for your file. You can drag and drop an image file directly to this space. It will be cropped and placed for you. The recommended image size to display on web or mobile is 120 X 120.
 
-Next, you will see the Home Button icon next to the words “Start at.”  Make sure the correct artboard is selected as your start screen.  
+Next, you will see the Home Button icon next to the words “Start at.”  Make sure the correct artboard is selected as your start screen.   
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-03.png
+" alt="no image"/>The next line has a box and the words “Allow Comments.” This is very important! If you want comments from the people you send this file to, make sure the box is checked.  
+
+When you have finished you can click “Create Link.”
+
+
+
+
 
 &nbsp;   
 
