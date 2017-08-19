@@ -29,6 +29,20 @@ As you can see in this example, if I change the transition from Dissolve to Push
 
 If I like it I can keep it and move on, if I don’t I can simply change it back and it updates immediately.  
 
+&nbsp;   
+
+
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Test-Project-02.png
+" alt="no image"/> 
+
+If you want to view the interactions without the artboards visible you can drag the window out to a full screen.
+
+It automatically creates a dark background so the preview stands out.  
+
+
+
+
+
 
 
 
