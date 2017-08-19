@@ -64,19 +64,13 @@ In this example, I named the prototype file and added an icon image. Now, I am r
 <img style="padding: 0px 15px;float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-07.png
 " alt="no image"/>  
 
-&nbsp;   
 
 **New Link:** If you don’t want to update the current link and you prefer to create an entirely new link you can select that option as well and a new URl is created.
 
 &nbsp;   
 
-&nbsp;   
-
-
 <img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-08.png
 " alt="no image"/>  
-
-&nbsp;   
 
 **Manage Links:** If you click on “Manage Links” you will be redirected to your Creative Cloud account. You can see all of your assets and manage or organize them from this screen. (See below)
 
