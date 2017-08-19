@@ -15,5 +15,14 @@ order: 14
 
 You are still able to see your artboards while previewing the prototype.  
 
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Test-Project-02.png
+" alt="no image"/>As you watch the interactions in preview mode you can make changes to the artboards and view them instantly.
+
+As you can see in this example, if I change the transition from Dissolve to Push Left I can immediately click the “Get Started” button to see that modification.
+
+If I like it I can keep it and move on, if I don’t I can simply change it back and it updates immediately.  
+
+
+
 
 
