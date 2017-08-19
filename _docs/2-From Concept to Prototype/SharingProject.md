@@ -75,9 +75,25 @@ In this example, I named the prototype file and added an icon image. Now, I am r
 **Manage Links:** If you click on “Manage Links” you will be redirected to your Creative Cloud account. You can see all of your assets and manage or organize them from this screen. (See below)
 
 
+&nbsp;   
+
+
+<img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-09.png
+" alt="no image"/>
+
+&nbsp;   
+
+
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-10.png
+" alt="no image"/>**Embed Design:** Next, we will learn how to embed a file into another website or blog. 
+
+After selecting the “Share Online” feature you choose “Embed” instead of “Link.” 
+
+The code populates below and you can copy that code into another website or blog that supports inline frames.
 
 
 
 &nbsp;   
+
 
 &nbsp;   
