@@ -18,7 +18,9 @@ You are still able to see your artboards while previewing the prototype.
 
 &nbsp;   
 
+&nbsp;   
 
+&nbsp;   
 
 <img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Test-Project-02.png
 " alt="no image"/>As you watch the interactions in preview mode you can make changes to the artboards and view them instantly.
