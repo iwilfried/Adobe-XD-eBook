@@ -28,8 +28,10 @@ Next, you will see the Home Button icon next to the words “Start at.”  Make 
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-03.png
-" alt="no image"/>The next line has a box and the words “Allow Comments.” This is very important! If you want comments from the people you send this file to, make sure the box is checked.  
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-04.png
+" alt="no image"/>  
+
+The next line has a box and the words “Allow Comments.” This is very important! If you want comments from the people you send this file to, make sure the box is checked.  
 
 When you have finished you can click “Create Link.”
 
