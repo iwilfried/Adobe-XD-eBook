@@ -1,7 +1,7 @@
 ---
-title: Test a XD project
+title: Sharing Your XD Project
 category: 2-From Concept to Prototype
-order: 14
+order: 15
 ---  
 
 Adobe XD has a wonderful sharing feature built in. Let’s look at how to share your prototype preview.
