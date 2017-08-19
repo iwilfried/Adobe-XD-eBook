@@ -10,15 +10,15 @@ order: 14
 <img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Test-Project-01.png
 " alt="no image"/>  
 
-&nbsp;   
-
-&nbsp; 
-
 
 <img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Test-Project-02.png
 " alt="no image"/>Once the “Preview” button has been selected, the Preview window appears right above the Adobe XD interface.
 
 You are still able to see your artboards while previewing the prototype.  
+
+&nbsp;   
+
+
 
 <img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Test-Project-02.png
 " alt="no image"/>As you watch the interactions in preview mode you can make changes to the artboards and view them instantly.
