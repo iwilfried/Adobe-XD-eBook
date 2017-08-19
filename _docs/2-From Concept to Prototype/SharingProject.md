@@ -9,17 +9,17 @@ Adobe XD has a wonderful sharing feature built in. Let’s look at how to share 
 Share Online: Adobe XD provides multiple choices for sharing your design or prototype with others. We will look first at sharing online through creating a link.
 
 
-<img style="padding: 0px 15px;float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Test-Project-01.png
+<img style="padding: 0px 15px;float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-01.png
 " alt="no image"/>Begin in Prototype mode
 
 &nbsp;  
 
-<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Test-Project-01.png
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-02.png
 " alt="no image"/>Next select the “Share Online” button  
 
 &nbsp;  
 
-<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Test-Project-01.png
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Share-Project-03.png
 " alt="no image"/>After clicking the “Share Online” symbol a menu appears. At the top you are asked to give this file a title.
 
 Below the title there is a box with a dashed line. This box will be the icon for your file. You can drag and drop an image file directly to this space. It will be cropped and placed for you.
