@@ -68,6 +68,21 @@ The content is larger than the text box so I will need to use a smaller font siz
 
 In this example I switched form 20 point to 15 point text. It looks much better. I can also change the alignment to center, or right or leave it left.
 
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-08.png" alt="no image"/>Let’s look again at our original example. There are multiple elements here that I imported.
+At the top is a status bar that I copied and pasted from a UI element.
+I will show you quickly how that is done.  
+
+
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-09.png" alt="no image"/>From the File menu select “Open UI Kit” and then choose from Apple, Google or Microsoft.
+Next you will see elements that you can use in your design.
+Zoom in a bit so you can see all that is available.
+
+
+<img style="padding: 0px 15px;float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-10.png" alt="no image"/>I could choose the Search bar, I could choose the music, messages, Safari or photo icons, there are many possibilities.
+For this example I will select the Status bar at the top of the Search screen.
+
+
+
 
 
 &nbsp;   
