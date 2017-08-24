@@ -66,12 +66,19 @@ Then, I return to my Adobe XD file and select the text box. Paste the content by
 
 The content is larger than the text box so I will need to use a smaller font size.
 
-In this example I switched form 20 point to 15 point text. It looks much better. I can also change the alignment to center, or right or leave it left.
+In this example I switched form 20 point to 15 point text. It looks much better. I can also change the alignment to center, or right or leave it left.  
+
+&nbsp;   
+
+&nbsp;   
 
 <img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-08.png" alt="no image"/>Let’s look again at our original example. There are multiple elements here that I imported.
 At the top is a status bar that I copied and pasted from a UI element.
 I will show you quickly how that is done.  
 
+&nbsp;   
+
+&nbsp;   
 
 <img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-09.png" alt="no image"/>From the File menu select “Open UI Kit” and then choose from Apple, Google or Microsoft.
 Next you will see elements that you can use in your design.
