@@ -39,7 +39,11 @@ The next step is to drag and drop the SVG file directly into Adobe XD
 
 &nbsp;   
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Sketch-06.png" alt="no image"/>The image appears huge when placed on the artboard but can easily be resized to fit.
+&nbsp;   
+
+&nbsp;   
+
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Sketch-06.png" alt="no image"/>The image appears huge when placed on the artboard but can easily be resized to fit.
 You also have the option to copy and paste directly from Sketch into Adobe XD. The pasted content remains completely editable.
 
 
