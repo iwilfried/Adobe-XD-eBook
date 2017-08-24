@@ -45,10 +45,19 @@ You select the file and click Import.
 I need to use the handles at the corner to resize the image. Hold the Shift key or Control key to keep the proportions.
 <img style="padding: 0px 55px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-05.png" alt="no image"/>
 
-&nbsp;   
-
 Now the image is much more manageable and I can easily size it to fit inside the white rectangle in my design.
 
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-06.png" alt="no image"/>
+
+&nbsp;   
+
+&nbsp;   
+
+Next, for the listing content we will use a different approach to importing. 
+
+I have drawn the rectangle where I want the text to appear. I can either drag and drop the text file from my files or copy and paste it from another source.
 
 &nbsp;   
 
