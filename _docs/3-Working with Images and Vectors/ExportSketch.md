@@ -17,7 +17,17 @@ There are a couple of ways I can do this. First, I need to make the image export
 <img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Sketch-02.png" alt="no image"/>Another option is to select the image and click the + sign next to the “Make Exportable” button at the bottom of the right column.
 
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Sketch-03.png" alt="no image"/>  
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Sketch-03.png" alt="no image"/>In the right column, you will find the Export menu with options for size, prefix/suffix, and format.
+
+Select SVG from the format drop down for this export.
+Then click the “Export” button. It will have the file name populated for you. In this example my file name is “Home1.”  
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+  
 
 
 
