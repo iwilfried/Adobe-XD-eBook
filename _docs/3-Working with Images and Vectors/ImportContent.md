@@ -47,17 +47,22 @@ I need to use the handles at the corner to resize the image. Hold the Shift key 
 
 Now the image is much more manageable and I can easily size it to fit inside the white rectangle in my design.
 
-&nbsp;   
 
 <img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-06.png" alt="no image"/>
-
-&nbsp;   
 
 &nbsp;   
 
 Next, for the listing content we will use a different approach to importing. 
 
 I have drawn the rectangle where I want the text to appear. I can either drag and drop the text file from my files or copy and paste it from another source.
+
+
+<img style="padding: 0px 15px;float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-07.png" alt="no image"/>I simply went to my source website and copied this Lorem ipsum text (Command + C or Control + C). 
+
+Then, I return to my Adobe XD file and select the text box. Paste the content by using Command + V (Control + V for Windows users)
+
+The content is larger than the text box so I will need to use a smaller font size.
+
 
 &nbsp;   
 
