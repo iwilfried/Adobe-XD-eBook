@@ -14,10 +14,12 @@ There are a couple of ways I can do this. First, I need to make the image export
 
 
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-03.png" alt="no image"/>
+<img style="padding: 0px 15px; float: right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Sketch-02.png" alt="no image"/>Another option is to select the image and click the + sign next to the “Make Exportable” button at the bottom of the right column.
 
 
-<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-03.png" alt="no image"/>
+<img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Sketch-03.png" alt="no image"/>  
+
+
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Artboards-03.png" alt="no image"/>
 
