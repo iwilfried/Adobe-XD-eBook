@@ -89,6 +89,10 @@ Zoom in a bit so you can see all that is available.
 For this example I will select the Status bar at the top of the Search screen.
 
 
+&nbsp;   
+
+&nbsp;   
+
 <img style="padding: 0px 15px;float:right" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-11.png" alt="no image"/>Next, I return to Adobe XD and place my cursor where I want the Status bar to go and paste it. (Command + V or Control + V for Windows users)
 I can adjust the placement if necessary. The alignment keys are helpful here.
  <img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-12.png" alt="no image"/>
