@@ -66,6 +66,9 @@ Then, I return to my Adobe XD file and select the text box. Paste the content by
 
 The content is larger than the text box so I will need to use a smaller font size.
 
+In this example I switched form 20 point to 15 point text. It looks much better. I can also change the alignment to center, or right or leave it left.
+
+
 
 &nbsp;   
 
