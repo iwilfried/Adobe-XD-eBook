@@ -37,6 +37,17 @@ Once you select Import from the drop down a window will open with your personal 
 
 You select the file and click Import.
 
+&nbsp;   
+
+
+<img style="padding: 0px 15px;float:left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-04.png" alt="no image"/>The imported image appears and it is huge—much larger than we need.
+
+I need to use the handles at the corner to resize the image. Hold the Shift key or Control key to keep the proportions.
+<img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ImportContent-05.png" alt="no image"/>
+
+
+
+
 
 &nbsp;   
 
