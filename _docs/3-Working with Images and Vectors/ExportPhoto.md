@@ -54,4 +54,37 @@ If I know I am working with an iPhone 6/7 I know I want the image to be 375 X 66
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Photo-06.png" alt="no image"/>
 &nbsp;   
 Here is the vertical image I want to use in my design. I resize the image in Photoshop to 357 X 667.
-Now I can copy and paste it directly onto my artboard. 
+Now I can copy and paste it directly onto my artboard.   
+
+ &nbsp;   
+
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Photo-07.png" alt="no image"/>  Before I do so, I am going to add another layer with the price. 
+ 
+Now I will select “Copy Merged” to paste both layers.  
+
+&nbsp;   
+
+<img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Photo-08.png" alt="no image"/>
+
+ &nbsp;   
+ 
+Another option for transferring assets from Photoshop into Adobe XD is to use the “Import” option in Adobe XD’s File menu.
+
+
+ &nbsp;   
+
+<img style="padding: 0px 15px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Photo-09.png" alt="no image"/>  
+
+ 
+ &nbsp;   
+
+After you select Import, you can select the file you want to bring into Adobe XD and click the Import key in the bottom right corner.
+
+ 
+ &nbsp;   
+
+  
+ &nbsp;   
+
+  
+ &nbsp;   
