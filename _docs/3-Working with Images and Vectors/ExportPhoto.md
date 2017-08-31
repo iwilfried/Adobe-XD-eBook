@@ -15,10 +15,12 @@ Notice I have the option to “Copy” or “Copy Merged.” If I only want to c
 
 
 
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Photo-02.png" alt="no image"/>
+&nbsp;   
+Once you click back into Adobe XD you can choose to “Paste” the image.  
 
 &nbsp;   
-
-
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Photo-03.png" alt="no image"/>
 &nbsp;   
-
+The image will appear on the pasteboard. My file size is large so I will need to resize the image to fit the artboard 
 &nbsp;   
