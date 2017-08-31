@@ -22,9 +22,12 @@ Once you click back into Adobe XD you can choose to “Paste” the image.
 &nbsp;   
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Photo-03.png" alt="no image"/>
 &nbsp;   
-The image will appear on the pasteboard. My file size is large so I will need to resize the image to fit the artboard 
+The image will appear on the pasteboard. My file size is large so I will need to resize the image to fit the artboard   
+
 &nbsp;   
+
 &nbsp;   
+
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Photo-04.png" alt="no image"/>
 &nbsp;   
 Using the handles on the corners of the image I can resize it to fit perfectly inside the artboard.  
