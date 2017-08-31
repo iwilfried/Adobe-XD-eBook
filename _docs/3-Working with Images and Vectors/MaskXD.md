@@ -60,11 +60,7 @@ Now let’s look at another masking option.
 
 Here I have placed a second image. This time, however, instead of using one of the predefined shape tools we are going to use the pen tool to draw the shape we want to use for the mask.
 
-
 &nbsp;   
-
-&nbsp;   
-
 
 
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Mask-07.png" alt="no image"/>  
