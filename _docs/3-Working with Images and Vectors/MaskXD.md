@@ -19,3 +19,7 @@ Begin with your image. Using a shape tool, draw around the image. Keep in mind t
 
 In this example, I have used the ellipse tool to draw an oval shape for my mask.
 
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Mask-03.png" alt="no image"/>  
+
+In the Object Menu, select “Mask with Shape.” 
+
