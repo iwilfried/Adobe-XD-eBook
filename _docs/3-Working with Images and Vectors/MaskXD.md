@@ -64,3 +64,29 @@ Here I have placed a second image. This time, however, instead of using one of t
 &nbsp;   
 
 &nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Mask-07.png" alt="no image"/>  
+
+Select the pen tool (P) from the left menu.  
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Mask-07.png" alt="no image"/>  
+
+Now begin drawing the shape you want to use for your mask.
+
+This is just for illustrative purposes but you can see the outline here.
+
+Then you follow the same steps as before.
+
+&nbsp;   
+
+&nbsp;   
