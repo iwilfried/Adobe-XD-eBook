@@ -80,3 +80,14 @@ Then you follow the same steps as before.
 &nbsp;   
 
 &nbsp;   
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Mask-09.png" alt="no image"/>  
+
+Object Menu > Mask with Shape or you can use 
+the shortcut CMD + Shift +M (Mac) & CTRL + Shift + M (Win).
+
+
+
+Here is a rough mask using the pen tool. The options are endless. You can really add a lot to your designs using masking.
+
+
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Mask-10.png" alt="no image"/>
