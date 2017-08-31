@@ -36,6 +36,8 @@ Using the handles on the corners of the image I can resize it to fit perfectly i
  &nbsp;   
 
 
+ &nbsp;   
+
 What if we want the image to fill the entire screen?
  
 If we go back to the Start Screen we can see that the artboard options also list the pixel sizes.
