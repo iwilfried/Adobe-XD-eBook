@@ -27,13 +27,18 @@ The image will appear on the pasteboard. My file size is large so I will need to
 &nbsp;   
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Photo-04.png" alt="no image"/>
 &nbsp;   
-Using the handles on the corners of the image I can resize it to fit perfectly inside the artboard.
- 
+Using the handles on the corners of the image I can resize it to fit perfectly inside the artboard.  
+
+ &nbsp;   
+
+ &nbsp;   
+
+
 What if we want the image to fill the entire screen?
  
 If we go back to the Start Screen we can see that the artboard options also list the pixel sizes.
 
-&nbsp;   
+
 
 Each artboard type has a drop down menu with additional options and size information.
 
