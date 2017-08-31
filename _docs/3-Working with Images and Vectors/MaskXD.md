@@ -10,12 +10,12 @@ Masking is another design option that has endless possibilities and can be incre
 
 Begin with your image. Using a shape tool, draw around the image. Keep in mind that the white area represents what will be left of the image once you mask using the shape.
 
+&nbsp;   
 
-<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Export-Photo-02.png" alt="no image"/>  
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Mask-02.png" alt="no image"/>  
 
 &nbsp;   
 
-&nbsp;   
 
 In this example, I have used the ellipse tool to draw an oval shape for my mask.
 
