@@ -32,6 +32,10 @@ In the Object Menu, select “Mask with Shape.”
 
 &nbsp;   
 
+&nbsp;   
+
+&nbsp;   
+
 
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Mask-04.png" alt="no image"/>Here is the image masked into the oval shape I drew.
 
