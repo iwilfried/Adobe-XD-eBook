@@ -65,9 +65,7 @@ Here I have placed a second image. This time, however, instead of using one of t
 
 &nbsp;   
 
-&nbsp;   
 
-&nbsp;   
 
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Mask-07.png" alt="no image"/>  
 
