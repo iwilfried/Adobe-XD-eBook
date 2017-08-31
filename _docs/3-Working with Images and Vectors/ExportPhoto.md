@@ -4,9 +4,8 @@ category: 3-Working with Images and Vectors
 order: 3
 ---
 
-Knowing how to export images from Photoshop into Adobe Experience Design is important for all UI designers. Let’s look at the steps involved with this type of transfer.
+Knowing how to export images from Photoshop into Adobe Experience Design is important for all UI designers. Let’s look at the steps involved with this type of transfer.  
 
-&nbsp;   
 
 The standard copy and paste functions are available from Photoshop to Adobe XD. Let’s look at an example.
 
@@ -35,11 +34,6 @@ Using the handles on the corners of the image I can resize it to fit perfectly i
  &nbsp;   
 
  &nbsp;   
-
-  &nbsp;   
-
- &nbsp;   
-
 
 
 What if we want the image to fill the entire screen?
