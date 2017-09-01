@@ -55,6 +55,10 @@ As you adjust the width here it will adjust the gap space between every element 
 This simple step ensures you have the spacing exactly how you want it. If your grid extends below the artboard it will become a scrolling screen.
  
 &nbsp;   
+ 
+&nbsp;   
+
+&nbsp;   
 
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-07.png" alt="no image"/>  
 
