@@ -88,11 +88,12 @@ Now I will do the same thing for the employee emails. Drag and rop and they auto
 <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-10.png" alt="no image"/>  
 
 &nbsp;   
-This step is not just possible with text files. You can also drag and drop image files into a repeat grid. Again, keep in mind the images need to be in separate files and in the order you want them placed.
+
+This step is not just possible with text files. You can also drag and drop image files into a repeat grid. Again, keep in mind the images need to be in separate files and in the order you want them placed.  
 
 &nbsp;   
 
-For example, let’s say I wanted to add another shape, or text box. As I draw the rectangle in my first entry you can see the exact shape automatically appears in each section of the grid below.
+
 
 &nbsp;   
 
