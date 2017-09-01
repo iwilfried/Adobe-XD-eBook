@@ -74,7 +74,30 @@ When I let go of the mouse the name automatically populate—in order— into th
 
 <img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-08.png" alt="no image"/>
 
+&nbsp;   
 
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-09.png" alt="no image"/>  
+
+Here all the headshots are copied into the appropriate square within my grid.
+ 
+If I select one of the images in the grid I have the standard design handles in each corner to manipulate the shape.
+ 
+When you make changes to something within the grid, the changes are mirrored on all remaining parts of the grid design.
+
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-10.png" alt="no image"/>  
+
+&nbsp;   
+
+&nbsp;   
+
+For example, let’s say I wanted to add another shape, or text box. As I draw the rectangle in my first entry you can see the exact shape automatically appears in each section of the grid below.
+
+&nbsp;   
+
+&nbsp;   
 
 &nbsp;   
 
