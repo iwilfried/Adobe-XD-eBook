@@ -111,6 +111,10 @@ For example, let’s say I wanted to add another shape, or text box. As I draw t
 &nbsp;   
  
 &nbsp;   
+ 
+&nbsp;   
+ 
+&nbsp;   
 <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-15.png" alt="no image"/> 
 If at any time you need to make changes to an individual section you can simply select “Ungroup Grid” and each section becomes its own object.
   
