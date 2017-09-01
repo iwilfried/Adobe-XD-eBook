@@ -80,17 +80,15 @@ Now I will do the same thing for the employee emails. Drag and rop and they auto
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-09.png" alt="no image"/>  
+<img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-09.png" alt="no image"/>  
 
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-10.png" alt="no image"/>  
+
+&nbsp;   
 This step is not just possible with text files. You can also drag and drop image files into a repeat grid. Again, keep in mind the images need to be in separate files and in the order you want them placed.
-
-
-
-&nbsp;   
-
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-10.png" alt="no image"/>  
-
-&nbsp;   
 
 &nbsp;   
 
