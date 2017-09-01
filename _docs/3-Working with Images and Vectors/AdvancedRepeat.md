@@ -117,7 +117,6 @@ For example, let’s say I wanted to add another shape, or text box. As I draw t
 <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-15.png" alt="no image"/> 
 If at any time you need to make changes to an individual section you can simply select “Ungroup Grid” and each section becomes its own object.
   
-&nbsp;   
 
  <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-16.png" alt="no image"/> 
 
@@ -129,3 +128,31 @@ You always have the option of resetting the repeat grid.
  
 You must select all elements again and click Repeat Grid.
  
+&nbsp;   
+
+&nbsp;   
+
+Appearance changes can also be made within the grid and are visible immediately throughout. Here are two examples of changes made from the Property Inspector.  
+ 
+&nbsp;   
+
+<img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-17.png" alt="no image"/>
+
+&nbsp;   
+
+Here are two more examples of appearance changes, this time using the design handles within the shape.  
+
+&nbsp;   
+
+<img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-18.png" alt="no image"/>  
+
+&nbsp;   
+
+
+&nbsp;   
+
+
+&nbsp;   
+
+
+&nbsp;   
