@@ -22,9 +22,6 @@ Next, select “Repeat Grid” from the Property Inspector menu on the right sid
 
 
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-03.png" alt="no image"/>
-&nbsp;   
-
-&nbsp;   
 
 You will know when Repeat Grid is active because the object will be surrounded by a green border with green handles.
  
