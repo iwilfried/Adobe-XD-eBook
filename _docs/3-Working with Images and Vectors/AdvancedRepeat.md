@@ -91,7 +91,7 @@ This step is not just possible with text files. You can also drag and drop image
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-13.png" alt="no image"/>  
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-13.png" alt="no image"/>  
 
 &nbsp;   
  
@@ -102,8 +102,23 @@ If I select one of the images in the grid I have the standard design handles in 
 When you make changes to something within the grid, the changes are mirrored on all remaining parts of the grid design
 
 &nbsp;   
-<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-14.png" alt="no image"/>  
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-14.png" alt="no image"/>  
 &nbsp;   
 
 &nbsp;   
-For example, let’s say I wanted to add another shape, or text box. As I draw the rectangle in my first entry you can see the exact shape automatically appears in each section of the grid below.
+For example, let’s say I wanted to add another shape, or text box. As I draw the rectangle in my first entry you can see the exact shape automatically appears in each section of the grid below.  
+ 
+&nbsp;   
+ 
+&nbsp;   
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-15.png" alt="no image"/> 
+If at any time you need to make changes to an individual section you can simply select “Ungroup Grid” and each section becomes its own object.
+  
+&nbsp;   
+
+&nbsp;   
+ 
+&nbsp;   
+&nbsp;   
+ 
+&nbsp;   
