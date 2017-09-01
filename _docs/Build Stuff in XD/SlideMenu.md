@@ -1,7 +1,7 @@
 ---
-title: Documents
-category: Media
-order: 3
+title: Create a slide-in menu
+category: Build Stuff in XD
+order: 1
 ---
 
 Share documents with your friends! Send work or school projects from your computer or phone.
