@@ -134,15 +134,12 @@ You must select all elements again and click Repeat Grid.
 
 Appearance changes can also be made within the grid and are visible immediately throughout. Here are two examples of changes made from the Property Inspector.  
  
-&nbsp;   
 
 <img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-17.png" alt="no image"/>
 
-&nbsp;   
 
 Here are two more examples of appearance changes, this time using the design handles within the shape.  
 
-&nbsp;   
 
 <img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-18.png" alt="no image"/>  
 
