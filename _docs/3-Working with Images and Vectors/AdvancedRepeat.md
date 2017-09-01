@@ -11,6 +11,8 @@ As stated in previous sections, the Repeat Grid feature in Adobe XD is a powerfu
 
 &nbsp;   
 
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-01.png" alt="no image"/>Let’s look at how easy masking in Adobe XD is.  
+
 
 &nbsp;   
 
