@@ -119,15 +119,10 @@ If at any time you need to make changes to an individual section you can simply 
   
 &nbsp;   
 
-&nbsp;   
- 
  <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Repeat-16.png" alt="no image"/> 
 
 &nbsp;   
 
-&nbsp;   
- 
-&nbsp;   
 It can be moved and edited independently.
  
 You always have the option of resetting the repeat grid.
