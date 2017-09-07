@@ -34,3 +34,13 @@ Next, I am going to round the edges by pulling in the handles.
 I’ll use a blue color as my fill for the On button.
 
 &nbsp;   
+
+ <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-04.png" alt="no image"/>  
+
+ Next, I will add a textbox with the word “On.”
+
+My font will be white so it shows against the blue background.
+
+&nbsp;   
+
+&nbsp;   
