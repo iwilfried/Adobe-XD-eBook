@@ -84,11 +84,20 @@ Now, I need to move the switch to the opposite side so I can imitate the sliding
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-09.png" alt="no image"/>Next, in the layers panel I want to select the Text (ON), the ellipse, and the rectangle to group them.
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-10.png" alt="no image"/>Next, in the layers panel I want to select the Text (ON), the ellipse, and the rectangle to group them.
  
 After grouping them I double click on “Group 1” and change the name to “ON Switch”
  
 Repeat this process for the OFF Switch.
-x
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-11.png" alt="no image"/>For the next steps I move into Prototype mode.
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
 
 &nbsp;   
