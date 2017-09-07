@@ -1,5 +1,5 @@
 ---
-title: Create a slide-in menu
+title: Create a simple On/Off Switch
 category: Build Stuff in XD
 order: 1
 ---
