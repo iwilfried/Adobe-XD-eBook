@@ -43,6 +43,28 @@ A color picker will appear.
 Move the color picker up to the color palette you imported earlier and select the first color.  
 
 &nbsp;   
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-06.png" alt="no image"/>
 
+&nbsp;   
+
+Click on Fill and then click on the + sign in the lower left corner.
+This will add a color swatch to the panel.
+You can repeat this process for the rest of the color palette.
+
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-07.png" alt="no image"/>  
+
+
+&nbsp;   
+
+&nbsp;   
+
+Continue adding each color from the palette until you have all the matching swatches.  
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
 
 &nbsp;   
