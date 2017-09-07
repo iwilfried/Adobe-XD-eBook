@@ -80,3 +80,24 @@ Finally, we will add a small flash. I used a small circle with a white fill as m
 Here is our final image for the camera icon. If I know I will use this icon in multiple places it would be a good idea to convert this image into a symbol  
 
 &nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-10.png" alt="no image"/>  
+
+ &nbsp;   
+
+Using the selection tool, select all layers of the camera image.
+
+ &nbsp;   
+ 
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-11.png" alt="no image"/>  
+
+By opening the symbol library and clicking the small + sign in the upper right corner the camera image becomes a symbol that can be used throughout your design.  
+
+
+ &nbsp;   
+ 
+ &nbsp;   
+ 
+ &nbsp;   
+ 
+ &nbsp;   
