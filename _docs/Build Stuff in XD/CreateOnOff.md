@@ -28,8 +28,7 @@ Next, I am going to round the edges by pulling in the handles.
 &nbsp;   
 
  <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-04.png" alt="no image"/>  
- &nbsp;  
- 
+
  Now I will add color to my button. I want the button to have color when it is in the “On” position and to be grayed out in the off position.
 
 I’ll use a blue color as my fill for the On button.
