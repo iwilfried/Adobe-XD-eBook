@@ -71,6 +71,8 @@ Once you are done with the shape of the viewfinder you can change the fill back 
 
 Finally, we will add a small flash. I used a small circle with a white fill as my camera flash.  
 
+&nbsp;   
+
 <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-09.png" alt="no image"/> 
 
 &nbsp;   
