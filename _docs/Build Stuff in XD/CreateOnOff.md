@@ -16,7 +16,11 @@ My rectangle is 48 pixels wide and 24 pixels high.
 
 &nbsp;   
 
+ <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-01.png" alt="no image"/>Using the Zoom tool (Z) I am going to zoom in on the rectangle.
 
+Next, I am going to round the edges by pulling in the handles.
+
+&nbsp;   
 
 
 
