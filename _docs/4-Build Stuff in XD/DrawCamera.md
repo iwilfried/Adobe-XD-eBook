@@ -32,3 +32,30 @@ Keep a black fill for this ellipse and slide it to the center of the white circl
 
 
 &nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-04.png" alt="no image"/>  
+
+Next, we will create the viewfinder. Begin with a rectangle. I like to leave the fill white at this point so I can seem the borders against the black .
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-05.png" alt="no image"/>Slightly pull in the edges. 
+  
+
+
+&nbsp;   
+
+
+&nbsp;   
+
+
+&nbsp;   
+
+
+&nbsp;   
+
+
+&nbsp;   
+
+
+&nbsp;   
