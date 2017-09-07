@@ -42,4 +42,26 @@ Now you’ll want to double click on the sides of the elongated section to creat
 
 &nbsp;   
 
+<img style="padding: 0px 15px;float:right;"  
+ src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-MapPin-05.png" alt="no image"/>
+
 &nbsp;   
+The next step is to add a hole in the pin. We create this by drawing another circle (remember to hold down Shift to control the proportion) The fill is white and there is no border.
+
+<img style="padding: 0px 15px;float:left;"  
+ src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-MapPin-06.png" alt="no image"/>  
+ 
+&nbsp;   
+
+That is all it takes! You now have a Map Pin icon to add to your designs.
+&nbsp;   
+
+
+&nbsp;   
+
+
+&nbsp;   
+
+
+&nbsp;   
+
