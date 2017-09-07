@@ -55,11 +55,8 @@ I’m going to switch the font to all capital letters.
 
 &nbsp;   
 
-&nbsp;   
-
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-07.png" alt="no image"/>  
 
-&nbsp;   
 
 Now I want to adjust the view and zoom out so I can see the entire artboard.
 
