@@ -46,3 +46,11 @@ My font will be white so it shows against the blue background.
 &nbsp;   
 
 &nbsp;   
+
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-06.png" alt="no image"/>I’m going to switch the font to all capital letters.  
+
+
+&nbsp;   
+
+&nbsp;   
+
