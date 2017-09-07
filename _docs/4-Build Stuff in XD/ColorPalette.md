@@ -56,7 +56,7 @@ You can repeat this process for the rest of the color palette.
 &nbsp;   
 
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-07.png" alt="no image"/>  
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-07.png" alt="no image"/>  
 
 
 &nbsp;   
