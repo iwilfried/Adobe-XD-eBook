@@ -13,12 +13,22 @@ In this example we are going to create a camera icon.
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-02.png" alt="no image"/>Next, draw a circle with white fill.
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-02.png" alt="no image"/>  
+
+Next, draw a circle with white fill.
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-03.png" alt="no image"/>  
 
 &nbsp;   
 
 &nbsp;   
 
-&nbsp;   
+Draw a second ellipse to go inside the first white one. 
+
+
+Keep a black fill for this ellipse and slide it to the center of the white circle to create the outer white border for the camera lens.
+
 
 &nbsp;   
