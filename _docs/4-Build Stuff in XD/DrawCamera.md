@@ -49,6 +49,8 @@ Slightly pull in the edges.
   
 <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-06.png" alt="no image"/>   
 
+&nbsp;   
+
 Then by double clicking the rectangle you can convert it to paths and adjust each side, using the pen tool, to resemble a tapered viewfinder on top of the camera
 
 &nbsp;   
@@ -59,14 +61,18 @@ Then by double clicking the rectangle you can convert it to paths and adjust eac
 
 Once you are done with the shape of the viewfinder you can change the fill back to black.
 
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-08.png" alt="no image"/> 
 
 &nbsp;   
 
+Finally, we will add a small flash. I used a small circle with a white fill as my camera flash.  
+
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-09.png" alt="no image"/> 
 
 &nbsp;   
 
-
-&nbsp;   
-
+Here is our final image for the camera icon. If I know I will use this icon in multiple places it would be a good idea to convert this image into a symbol  
 
 &nbsp;   
