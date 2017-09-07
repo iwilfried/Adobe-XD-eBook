@@ -43,14 +43,21 @@ Next, we will create the viewfinder. Begin with a rectangle. I like to leave the
 
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-05.png" alt="no image"/>  
 
+&nbsp;   
+
 Slightly pull in the edges. 
   
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-06.png" alt="no image"/>   
 
+Then by double clicking the rectangle you can convert it to paths and adjust each side, using the pen tool, to resemble a tapered viewfinder on top of the camera
 
 &nbsp;   
 
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-07.png" alt="no image"/>  
 
 &nbsp;   
+
+Once you are done with the shape of the viewfinder you can change the fill back to black.
 
 
 &nbsp;   
