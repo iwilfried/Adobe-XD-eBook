@@ -10,7 +10,8 @@ I’m going to show you how to create a simple On/Off switch and mimic the motio
 
   
 
- <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-01.png" alt="no image"/> Begin by drawing a rectangle on your artboard.
+ <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-01.png" alt="no image"/> Begin by drawing a rectangle on your artboard.  
+ 
 My rectangle is 48 pixels wide and 24 pixels high.
 
 
