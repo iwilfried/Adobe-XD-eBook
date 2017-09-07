@@ -43,6 +43,8 @@ A color picker will appear.
 Move the color picker up to the color palette you imported earlier and select the first color.  
 
 &nbsp;   
+
+
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-06.png" alt="no image"/>
 
 &nbsp;   
