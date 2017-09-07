@@ -74,3 +74,13 @@ I named the new copy of the artboard “OFF.” Now I need to edit the second bu
 &nbsp;   
 
 &nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-09.png" alt="no image"/>  
+First, I changed the fill on the rectangle to a light gray.
+Next, I changed the text from ON to OFF.
+ 
+Now, I need to move the switch to the opposite side so I can imitate the sliding motion.
+
+&nbsp;   
+
+&nbsp;   
