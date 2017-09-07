@@ -112,8 +112,10 @@ Repeat this process for the connection between the Off button back to the On but
 
 &nbsp;   
 
-<img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-13.png" alt="no image"/>  
+&nbsp;   
 
+
+<img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-13.png" alt="no image"/>  
 
 Now, in preview mode, when I click on the On button it immediately switches to Off and vice versa.
  
