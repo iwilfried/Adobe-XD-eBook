@@ -9,7 +9,16 @@ There are a lot of options when it comes to the drawing tools in Adobe XD. You c
 In this example we are going to create a camera icon.
 
  <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-01.png" alt="no image"/>  
- The first step is a simple rectangle with a black fill. We want the edges just slightly rounded so we will want to pull in the handles just a bit to smooth the edges.
+ The first step is a simple rectangle with a black fill. We want the edges just slightly rounded so we will want to pull in the handles just a bit to smooth the edges.  
 
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Camera-02.png" alt="no image"/>Next, draw a circle with white fill.
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
 
 &nbsp;   
