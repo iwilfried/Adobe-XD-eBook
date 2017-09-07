@@ -96,7 +96,13 @@ Repeat this process for the OFF Switch.
 
 &nbsp;   
 
+I’m going to simulate the movement of the button using the transition settings in Prototype mode.
+ 
+Select the On button and drag a wire to the Off button. In the menu that pops up, be sure your target is correct and that the transition selected is “None.” This will give the appearance of the button moving when toggled.
+
 &nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-12.png" alt="no image"/>
 
 &nbsp;   
 
