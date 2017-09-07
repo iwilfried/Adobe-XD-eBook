@@ -1,6 +1,6 @@
 ---
 title: Create a simple On/Off Switch
-category: Build Stuff in XD
+category: 4-Build Stuff in XD
 order: 1
 ---
 
