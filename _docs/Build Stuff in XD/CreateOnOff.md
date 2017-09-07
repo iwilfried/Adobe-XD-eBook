@@ -102,7 +102,13 @@ Select the On button and drag a wire to the Off button. In the menu that pops up
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-12.png" alt="no image"/>
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-12.png" alt="no image"/>  
+
+&nbsp;   
+
+Repeat this process for the connection between the Off button back to the On button.  
+
+&nbsp;   
 
 &nbsp;   
 
