@@ -11,7 +11,7 @@ I’m going to show you how to create a simple On/Off switch and mimic the motio
   
 
  <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-01.png" alt="no image"/> Begin by drawing a rectangle on your artboard.  
- 
+
 My rectangle is 48 pixels wide and 24 pixels high.
 
 
@@ -23,5 +23,5 @@ Next, I am going to round the edges by pulling in the handles.
 
 &nbsp;   
 
-
+ <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-03.png" alt="no image"/>Using the Ellipse tool and while holding the Shift key I am going to draw a circle just inside the border of my rectangle.
 
