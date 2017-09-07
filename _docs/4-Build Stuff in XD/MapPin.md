@@ -23,9 +23,22 @@ Select the path at the bottom of the circle.
 
 &nbsp;   
 
-&nbsp;   
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-MapPin-03.png" alt="no image"/>  
 
 &nbsp;   
+
+Select the bottom path and while holding the Shift key drag the bottom of the circle out to create the pin.  
+
+
+<img style="padding: 0px 15px;float:left;"  
+ src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-MapPin-04.png" alt="no image"/>  
+
+&nbsp;   
+
+Once you have reached the length you prefer you can let go of the shift key.
+
+Now you’ll want to double click on the sides of the elongated section to create a point.
+
 
 &nbsp;   
 
