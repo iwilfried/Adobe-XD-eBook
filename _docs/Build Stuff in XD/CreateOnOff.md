@@ -57,10 +57,19 @@ I’m going to switch the font to all capital letters.
 
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-07.png" alt="no image"/>  
 
+&nbsp;   
 
 Now I want to adjust the view and zoom out so I can see the entire artboard.
 
 In the View menu I selected “Zoom to Fit All” so I could see the entire artboard. Next, I want to duplicate the artboard so I can work on the Off button.  
+
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-SwitchOnOff-08.png" alt="no image"/>
+
+&nbsp;   
+
+I name the artboard “ON” and then duplicate it by using  Command + D. 
+
+I named the new copy of the artboard “OFF.” Now I need to edit the second button. 
 
 &nbsp;   
 
