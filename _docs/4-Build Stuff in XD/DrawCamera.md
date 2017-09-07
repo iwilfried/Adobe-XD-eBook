@@ -51,6 +51,8 @@ Slightly pull in the edges.
 
 &nbsp;   
 
+&nbsp;   
+
 Then by double clicking the rectangle you can convert it to paths and adjust each side, using the pen tool, to resemble a tapered viewfinder on top of the camera
 
 &nbsp;   
