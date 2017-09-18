@@ -7,8 +7,9 @@ order: 5
 In this section, we are going to create a grid layout in Adobe XD. Adobe did not add rulers or grids to Experience Design, much to the dismay of most designers. Because of this missing piece you will need a work around. Let’s look at one way to accomplish this.
 
 
- <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-01.png" alt="no image"/>  
- Let’s look at a quick way to add a custom color palette in Adobe XD.
+ <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-01.png" alt="no image"/>  
+ 
+Begin by selecting the Web artboard from the Start Screen.
 
 &nbsp;   
 
