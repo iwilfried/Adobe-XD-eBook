@@ -136,8 +136,12 @@ With these shapes selected click on the Repeat Grid function.
 
 &nbsp;   
   
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-14.png" alt="no image"/>
 &nbsp;   
-  
+
+A green border appears around the shapes. Pull the green handle to the right to duplicate the series of lines.
+Adobe XD automatically includes a padding or gutter in between each set of lines. It is shown in this image as the white space between the gray and black lines.
+
 &nbsp;   
   
 &nbsp;   
