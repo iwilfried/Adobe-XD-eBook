@@ -57,7 +57,8 @@ This step is optional but I know I am going to be moving shapes around and I don
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-06.png" alt="no image"/>
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-06.png" alt="no image"/>  
+
  &nbsp;   
  
 The next step is to draw another rectangle the same height but much thinner. The width only needs to be 15 pixels.
@@ -75,7 +76,9 @@ Now we have our base rectangle and two slightly darker gray borders.
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-08.png" alt="no image"/>
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-08.png" alt="no image"/>  
+
+&nbsp;   
 
 The next line is also 1080 pixels high but 67.5 pixels wide. 
 Change the fill to black with no border.
