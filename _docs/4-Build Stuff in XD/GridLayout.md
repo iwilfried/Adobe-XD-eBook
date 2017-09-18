@@ -76,7 +76,12 @@ Now we have our base rectangle and two slightly darker gray borders.
 
 &nbsp;   
 
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-08.png" alt="no image"/>
 
+The next line is also 1080 pixels high but 67.5 pixels wide. 
+Change the fill to black with no border.
+
+This black line needs to be directly adjacentt to the left border line we just created. Make sure there isn’t any space between these lines.
 &nbsp;   
 
 &nbsp;   
