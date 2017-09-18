@@ -62,21 +62,18 @@ This step is optional but I know I am going to be moving shapes around and I don
 The next step is to draw another rectangle the same height but much thinner. The width only needs to be 15 pixels.
 This is the first of two borders for our grid. Use the fill to give it a gray fill. Let’s duplicate this line by using Command + D and drag the lines to the left and right border of the large rectangle.
  
-
-
 &nbsp;   
 
 &nbsp;   
 
-
-<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-07.png" alt="no image"/>  
-
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-07.png" alt="no image"/>  
 
 &nbsp;   
 
+Now we have our base rectangle and two slightly darker gray borders.
+
 &nbsp;   
 
-Continue adding each color from the palette until you have all the matching swatches.  
 
 &nbsp;   
 
