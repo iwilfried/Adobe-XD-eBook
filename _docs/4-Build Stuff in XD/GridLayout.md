@@ -27,13 +27,12 @@ Next, using the Rectangle tool (R) draw a rectangle that is 1080 pixels high and
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-03.png" alt="no image"/>  
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-03.png" alt="no image"/>  
 
 &nbsp;   
 
-Once you import the color palette into Adobe XD you can drag it off the artboard.
-Next, you will want to save each color swatch to the appearance section of the Property Inspector.
-I’ll show you how this is done.  
+Remove the border and set the fill to a very light gray. Just enough to have it stand out against the background.
+
 
 
 &nbsp;   
