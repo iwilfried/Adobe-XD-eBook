@@ -94,3 +94,18 @@ This black line needs to be directly adjacentt to the left border line we just c
 With the black line selected, duplicate the shape by using Command + D or by using the Edit menu > Duplicate.
 Change the width of this third rectangle to 30 pixels.
 
+&nbsp;   
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-10.png" alt="no image"/>  
+
+Next, pick a different gray from the border lines and change the fill.
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
