@@ -179,6 +179,16 @@ I can achieve this by adjusting the opacity of the entire grid layout we just de
 
 &nbsp;   
 
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-19.png" alt="no image"/>  
+ 
+&nbsp;   
+With the rectangle selected I can adjust the opacity in the Property Inspector on the right side of the screen.
+I’ll use 5% for a light grid layout.
+
+&nbsp;   
+
+&nbsp;   
+
 &nbsp;   
 
 &nbsp;   
