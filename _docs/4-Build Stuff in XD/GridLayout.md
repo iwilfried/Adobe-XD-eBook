@@ -33,7 +33,10 @@ Next, using the Rectangle tool (R) draw a rectangle that is 1080 pixels high and
 
 Remove the border and set the fill to a very light gray. Just enough to have it stand out against the background.
 
+&nbsp;   
 
+
+&nbsp;   
 
 &nbsp;   
 
