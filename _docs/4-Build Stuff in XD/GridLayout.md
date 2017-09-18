@@ -84,6 +84,13 @@ The next line is also 1080 pixels high but 67.5 pixels wide.
 Change the fill to black with no border.
 
 This black line needs to be directly adjacentt to the left border line we just created. Make sure there isn’t any space between these lines.
-&nbsp;   
 
 &nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-09.png" alt="no image"/>  
+
+&nbsp;   
+
+With the black line selected, duplicate the shape by using Command + D or by using the Edit menu > Duplicate.
+Change the width of this third rectangle to 30 pixels.
+
