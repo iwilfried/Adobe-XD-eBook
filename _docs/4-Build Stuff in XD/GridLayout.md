@@ -127,12 +127,13 @@ Using the Selection tool (S) and holding down the Shift key you can select multi
 You want to select the black and gray lines we just created.
   
 &nbsp;   
-  
-&nbsp;   
+
   
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-13.png" alt="no image"/>  
 
 With these shapes selected click on the Repeat Grid function.
+  
+&nbsp;   
 
 &nbsp;   
   
