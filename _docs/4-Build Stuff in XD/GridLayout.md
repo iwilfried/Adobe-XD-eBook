@@ -37,10 +37,11 @@ Remove the border and set the fill to a very light gray. Just enough to have it 
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-04.png" alt="no image"/>  
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-04.png" alt="no image"/>  
 
-Start by selecting the artboard and clicking on the dropper next to the fill.
-A color picker will appear.
+I am going to lock this rectangle in place for the ease of design. 
+Use the Object menu > Lock and you will notice a small gray padlock symbol appears on the screen signifying the image is indeed locked.
+
 
 &nbsp;   
 
