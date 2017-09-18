@@ -152,3 +152,20 @@ Adobe XD automatically includes a padding or gutter in between each set of lines
 If you hover the selection tool over the white padding it turns pink. Now I can adjust the size of the padding by pulling to the left or the right.
 
 &nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-16.png" alt="no image"/> 
+
+I do not want any padding between my lines so I pulled the padding until the value in pink read 0. Now I am left with just the black and gray lines.
+Next, I will return to the green handle from the Repeat Grid function and pull the lines until they meet the border on the right side.
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
