@@ -153,6 +153,8 @@ If you hover the selection tool over the white padding it turns pink. Now I can 
 
 &nbsp;   
 
+&nbsp;   
+
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-16.png" alt="no image"/> 
 
 I do not want any padding between my lines so I pulled the padding until the value in pink read 0. Now I am left with just the black and gray lines.
