@@ -163,7 +163,6 @@ Next, I will return to the green handle from the Repeat Grid function and pull t
 
 &nbsp;   
 
-&nbsp;   
 
 <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-17.png" alt="no image"/>  
 With the design now filling the entire initial rectangle, I will make some small appearance changes.
@@ -172,6 +171,11 @@ I highlight one of the smaller vertical lines and when I change it’s fill colo
 
 
 &nbsp;   
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-18.png" alt="no image"/>  
+
+Now we have a complete grid to use in our design work.
+It works best for me when the grids are very light and I can design on top of them as rulers.
+I can achieve this by adjusting the opacity of the entire grid layout we just designed.
 
 &nbsp;   
 
