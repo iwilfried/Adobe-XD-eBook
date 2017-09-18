@@ -37,9 +37,9 @@ Remove the border and set the fill to a very light gray. Just enough to have it 
 
 &nbsp;   
 
-&nbsp;   
-
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-04.png" alt="no image"/>  
+
+&nbsp;   
 
 I am going to lock this rectangle in place for the ease of design. 
 Use the Object menu > Lock and you will notice a small gray padlock symbol appears on the screen signifying the image is indeed locked.
@@ -47,9 +47,10 @@ Use the Object menu > Lock and you will notice a small gray padlock symbol appea
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-05.png" alt="no image"/>  
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-05.png" alt="no image"/>  
 
-Move the color picker up to the color palette you imported earlier and select the first color.  
+This step is optional but I know I am going to be moving shapes around and I don’t want to select this one by accident.
+
 
 &nbsp;   
 
