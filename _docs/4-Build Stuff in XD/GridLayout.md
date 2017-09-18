@@ -61,7 +61,7 @@ This step is optional but I know I am going to be moving shapes around and I don
  
 &nbsp;   
  
-&nbsp;   
+
 The next step is to draw another rectangle the same height but much thinner. The width only needs to be 15 pixels.
 This is the first of two borders for our grid. Use the fill to give it a gray fill. Let’s duplicate this line by using Command + D and drag the lines to the left and right border of the large rectangle.
  
