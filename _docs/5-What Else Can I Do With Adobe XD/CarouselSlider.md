@@ -25,7 +25,11 @@ Next, select the Rectangle tool ® and draw a rectangle that is 970 X 450 pixels
 
 &nbsp;   
 
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-03.png" alt="no image"/>  
+
 &nbsp;   
+
+For visibility purposes I’ll give the rectangle a yellow fill. This is optional.
 
 &nbsp;   
 
