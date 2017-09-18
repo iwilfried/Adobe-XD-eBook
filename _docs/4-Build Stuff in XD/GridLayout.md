@@ -39,10 +39,6 @@ Remove the border and set the fill to a very light gray. Just enough to have it 
 
 &nbsp;   
 
-&nbsp;   
-
-&nbsp;   
-
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-04.png" alt="no image"/>  
 
 I am going to lock this rectangle in place for the ease of design. 
