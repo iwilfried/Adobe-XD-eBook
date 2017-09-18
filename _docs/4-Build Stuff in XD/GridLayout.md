@@ -49,19 +49,22 @@ Use the Object menu > Lock and you will notice a small gray padlock symbol appea
 
 <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-05.png" alt="no image"/>  
 
+&nbsp;   
+
 This step is optional but I know I am going to be moving shapes around and I don’t want to select this one by accident.
 
 
 &nbsp;   
 
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-06.png" alt="no image"/>
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-06.png" alt="no image"/>
 
 &nbsp;   
 
-Click on Fill and then click on the + sign in the lower left corner.
-This will add a color swatch to the panel.
-You can repeat this process for the rest of the color palette.
+The next step is to draw another rectangle the same height but much thinner. The width only needs to be 15 pixels.
+This is the first of two borders for our grid. Use the fill to give it a gray fill. Let’s duplicate this line by using Command + D and drag the lines to the left and right border of the large rectangle.
+ 
+
 
 &nbsp;   
 
