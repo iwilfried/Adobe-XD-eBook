@@ -130,8 +130,9 @@ You want to select the black and gray lines we just created.
   
 &nbsp;   
   
-<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-13.png" alt="no image"/>  
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-13.png" alt="no image"/>  
 
+With these shapes selected click on the Repeat Grid function.
 
 &nbsp;   
   
