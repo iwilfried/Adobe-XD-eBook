@@ -155,7 +155,6 @@ If you hover the selection tool over the white padding it turns pink. Now I can 
 
 &nbsp;   
 
-&nbsp;   
 
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-16.png" alt="no image"/> 
 
@@ -165,6 +164,12 @@ Next, I will return to the green handle from the Repeat Grid function and pull t
 &nbsp;   
 
 &nbsp;   
+
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-17.png" alt="no image"/>  
+With the design now filling the entire initial rectangle, I will make some small appearance changes.
+Instead of gray I want to change the fill color to white.
+I highlight one of the smaller vertical lines and when I change it’s fill color to white the change is updated in all the corresponding lines within the grid.
+
 
 &nbsp;   
 
