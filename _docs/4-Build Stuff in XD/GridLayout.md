@@ -1,10 +1,10 @@
 ---
-title: Create a Custom Color Palette
+title: Adding Grid Layouts
 category: 4-Build Stuff in XD
-order: 4
+order: 5
 ---
 
-Working with color palettes is important for consistency and uniformity in your designs. Below is a screenshot of the color palette I want to use for my app design.
+In this section, we are going to create a grid layout in Adobe XD. Adobe did not add rulers or grids to Experience Design, much to the dismay of most designers. Because of this missing piece you will need a work around. Let’s look at one way to accomplish this.
 
 
  <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-01.png" alt="no image"/>  
