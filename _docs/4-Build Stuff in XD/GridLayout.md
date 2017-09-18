@@ -9,15 +9,17 @@ In this section, we are going to create a grid layout in Adobe XD. Adobe did not
 
  <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-01.png" alt="no image"/>  
  
+&nbsp;   
+
 Begin by selecting the Web artboard from the Start Screen.
 
 &nbsp;   
 
-The first thing you need to do is take a screenshot of the color palette so you can import it into Adobe XD.  
+
 
 &nbsp;   
 
-<img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-ColorPalette-02.png" alt="no image"/>  
+<img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-02.png" alt="no image"/>  
 
 &nbsp;   
 
