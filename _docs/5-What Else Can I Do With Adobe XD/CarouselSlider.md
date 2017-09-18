@@ -16,3 +16,23 @@ Let’s begin by selecting the Web setting at the start screen.
 &nbsp;   
 
 &nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-01.png" alt="no image"/>  
+
+Next, select the Rectangle tool ® and draw a rectangle that is 970 X 450 pixels.
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
