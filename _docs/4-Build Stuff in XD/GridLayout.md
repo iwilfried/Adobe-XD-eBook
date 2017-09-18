@@ -144,5 +144,11 @@ A green border appears around the shapes. Pull the green handle to the right to 
 Adobe XD automatically includes a padding or gutter in between each set of lines. It is shown in this image as the white space between the gray and black lines.
 
 &nbsp;   
-  
+
+ <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-15.png" alt="no image"/>  
+
+&nbsp;   
+
+If you hover the selection tool over the white padding it turns pink. Now I can adjust the size of the padding by pulling to the left or the right.
+
 &nbsp;   
