@@ -15,11 +15,13 @@ Begin by selecting the Web artboard from the Start Screen.
 
 &nbsp;   
 
-
-
 &nbsp;   
 
-<img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-02.png" alt="no image"/>  
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-02.png" alt="no image"/>  
+
+Next, using the Rectangle tool (R) draw a rectangle that is 1080 pixels high and 1170 pixels wide.
+
+
 
 &nbsp;   
 
