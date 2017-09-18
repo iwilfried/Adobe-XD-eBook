@@ -35,6 +35,9 @@ Remove the border and set the fill to a very light gray. Just enough to have it 
 
 &nbsp;   
 
+&nbsp;   
+
+&nbsp;   
 
 &nbsp;   
 
