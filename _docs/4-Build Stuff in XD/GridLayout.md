@@ -119,6 +119,21 @@ Push this third line up against the black line. Now all three lines are next to 
 
 &nbsp;   
 
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-12.png" alt="no image"/>  
+
 &nbsp;   
 
+Using the Selection tool (S) and holding down the Shift key you can select multiple shapes.
+You want to select the black and gray lines we just created.
+  
+&nbsp;   
+  
+&nbsp;   
+  
+&nbsp;   
+  
+&nbsp;   
+  
+&nbsp;   
+  
 &nbsp;   
