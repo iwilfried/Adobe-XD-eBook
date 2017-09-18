@@ -179,6 +179,8 @@ I can achieve this by adjusting the opacity of the entire grid layout we just de
 
 &nbsp;   
 
+&nbsp;   
+
 <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-19.png" alt="no image"/>  
  
 &nbsp;   
