@@ -100,9 +100,22 @@ Change the width of this third rectangle to 30 pixels.
 
 <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-10.png" alt="no image"/>  
 
+&nbsp;   
+
 Next, pick a different gray from the border lines and change the fill.
 
 &nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-GridLayout-11.png" alt="no image"/> 
+
+&nbsp;   
+
+Push this third line up against the black line. Now all three lines are next to each other without any gaps between them.  
+
 
 &nbsp;   
 
