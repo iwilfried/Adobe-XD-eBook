@@ -55,8 +55,6 @@ Using the Object Menu I will select Lock to lock the image in place as I continu
 
 &nbsp;   
 
-&nbsp;   
-
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-06.png" alt="no image"/>  
 
 &nbsp;   
@@ -64,6 +62,39 @@ Using the Object Menu I will select Lock to lock the image in place as I continu
 Once locked, you will see a small pad lock image in the corner of the rectangle.
 
 &nbsp;   
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-07.png" alt="no image"/>  
+
+&nbsp;   
+
+Next, we will begin to draw the navigation symbols for the slider. The first thing we will do is select the Line Tool (L).  
+
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-07.png" alt="no image"/>  
+
+I draw a short, straight line for one side of the navigation arrow.
+
+I want the border white so it shows up against my image.
+
+I can either re-draw the other angle to complete the arrow or what I did was use Command + D to duplicate the line.
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
+
+&nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
 
 &nbsp;   
 
