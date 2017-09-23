@@ -74,7 +74,11 @@ Next, we will begin to draw the navigation symbols for the slider. The first thi
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-07.png" alt="no image"/>  
+&nbsp;   
+
+&nbsp;   
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-08.png" alt="no image"/>  
 
 I draw a short, straight line for one side of the navigation arrow.
 
