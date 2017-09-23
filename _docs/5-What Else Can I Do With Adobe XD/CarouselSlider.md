@@ -76,9 +76,9 @@ Next, we will begin to draw the navigation symbols for the slider. The first thi
 
 &nbsp;   
 
-&nbsp;   
-
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-08.png" alt="no image"/>  
+
+&nbsp;   
 
 I draw a short, straight line for one side of the navigation arrow.
 
@@ -87,6 +87,8 @@ I want the border white so it shows up against my image.
 I can either re-draw the other angle to complete the arrow or what I did was use Command + D to duplicate the line.
 
 &nbsp;   
+
+In the first image you can see the duplicated line. Next, drag the left edge down and the right edge up to create an arrow.
 
 &nbsp;   
 
