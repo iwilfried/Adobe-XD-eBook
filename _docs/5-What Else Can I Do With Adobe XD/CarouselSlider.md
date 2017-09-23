@@ -92,6 +92,8 @@ In the first image you can see the duplicated line. Next, drag the left edge dow
 
 &nbsp;   
 
+<img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-09.png" alt="no image"/>  
+
 &nbsp;   
 
 
