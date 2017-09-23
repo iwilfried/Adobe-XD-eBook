@@ -39,15 +39,17 @@ For visibility purposes I’ll give the rectangle a yellow fill. This is optiona
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-04.png" alt="no image"/>
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-04.png" alt="no image"/><img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-04.png" alt="no image"/>
 
 Now I am going to select the first image I want in my carousel slider. 
 
 Cut and paste the image into the rectangle.
 
 &nbsp;   
-
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-05.png" alt="no image"/>
 &nbsp;   
+Using the Object Menu I will select Lock to lock the image in place as I continue designing.  
+
 
 &nbsp;   
 
