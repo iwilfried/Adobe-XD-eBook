@@ -105,14 +105,14 @@ Now I need to rotate the arrow and move it to the left side of the image.
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-11.png" alt="no image"/>  If you hover the cursor near the edge of the arrow you will get a rounded double edged arrow indicating you can rotate that image.  
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-11.png" alt="no image"/>  If you hover the cursor near the edge of the arrow you will get a rounded double edged arrow indicating you can rotate that image.  
 
 Rotate the image 90° and slide it to the left edge of the image. This is essentially acting as the back button.
 
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-12.png" alt="no image"/>  
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-12.png" alt="no image"/>  
 Next, we will create the three navigation circles that are in the center at the bottom of our slider.
 
 
