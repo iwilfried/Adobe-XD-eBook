@@ -38,8 +38,7 @@ For visibility purposes I’ll give the rectangle a yellow fill. This is optiona
 &nbsp;   
 
 &nbsp;   
-
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-04.png" alt="no image"/><img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-04.png" alt="no image"/>
+<image"/><img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-slider-04.png" alt="no image"/>
 
 Now I am going to select the first image I want in my carousel slider. 
 
