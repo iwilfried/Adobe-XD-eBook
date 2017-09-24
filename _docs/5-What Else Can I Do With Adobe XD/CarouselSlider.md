@@ -170,7 +170,11 @@ Link the corresponding circles in the bottom navigation to the image.
 
 For example, the first circle links to the purple flowers, the second links to the Wolf and the third to the daisies. This way if a user clicks directly on a navigation circle instead of the arrows they immediately go to the page they clicked.
 
-Then we will connect the arrows to the next or previous image.
+Then we will connect the arrows to the next or previous image.  
+
+<img style="padding: 0px 0px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-21.png" alt="no image"/>
+
+
 
 &nbsp;   
 
