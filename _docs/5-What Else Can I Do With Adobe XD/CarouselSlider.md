@@ -142,7 +142,9 @@ The wolf is the second image so I will add a fill to the middle circle.
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-18.png" alt="no image"/>  
 
 And finally, the daisies are the third image so we fill the third circle.  
+
 &nbsp;   
+
 Now we are ready to add interactions between the images to create our slider.  
 
 &nbsp;   
@@ -155,6 +157,8 @@ Now we are ready to add interactions between the images to create our slider.
 &nbsp;   
 
 <img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-20.png" alt="no image"/>  
+
+&nbsp;   
 
 Now we will begin linking the screen with wires.  
 
