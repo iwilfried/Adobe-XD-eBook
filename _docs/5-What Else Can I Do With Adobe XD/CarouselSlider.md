@@ -112,16 +112,12 @@ Rotate the image 90° and slide it to the left edge of the image. This is essent
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-12.png" alt="no image"/>  
-Next, we will create the three navigation circles that are in the center at the bottom of our slider.
-
-
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-12.png" alt="no image"/>Next, we will create the three navigation circles that are in the center at the bottom of our slider.
 Hold down the Shift key to draw a perfect circle. Remove the fill.
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-13.png" alt="no image"/>  
-Holding down the Option or ALT key drag out an additional circle for each image in your slider. I have 3 images so I have 3 navigation circles.  
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-13.png" alt="no image"/>Holding down the Option or ALT key drag out an additional circle for each image in your slider. I have 3 images so I have 3 navigation circles.  
 
 &nbsp;   
 
