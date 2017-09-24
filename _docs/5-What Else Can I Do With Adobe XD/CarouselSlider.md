@@ -174,8 +174,15 @@ Then we will connect the arrows to the next or previous image.
 
 <img style="padding: 0px 0px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-21.png" alt="no image"/>
 
+&nbsp;   
 
+<img style="padding: 0px 0px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-22.png" alt="no image"/>  
 
 &nbsp;   
 
 &nbsp;   
+
+&nbsp;   
+
+&nbsp;   
+
