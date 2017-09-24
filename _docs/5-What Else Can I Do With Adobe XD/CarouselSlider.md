@@ -120,6 +120,8 @@ Hold down the Shift key to draw a perfect circle. Remove the fill.
 
 &nbsp;   
 
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-13.png" alt="no image"/>  
+Holding down the Option or ALT key drag out an additional circle for each image in your slider. I have 3 images so I have 3 navigation circles.  
 
 &nbsp;   
 
