@@ -132,11 +132,20 @@ Next, open an artboard for every image in your slider.
 
 Now we need to copy and paste the arrows and the circle navigation buttons from the first slide to the other two slides.  
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-16.png" alt="no image"/>The only change we will make is to add a white fill the the corresponding circle. For example, the purple flowers image is my first image so I add a white fill to the first circle.
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-16.png" alt="no image"/>The only change we will make is to add a white fill the the corresponding circle. For example, the purple flowers image is my first image so I add a white fill to the first circle.  
+
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-17.png" alt="no image"/>  
+The wolf is the second image so I will add a fill to the middle circle.  
 
 &nbsp;   
 
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-18.png" alt="no image"/>  
+
+And finally, the daisies are the third image so we fill the third circle.  
+
 &nbsp;   
+
+Now we are ready to add interactions between the images to create our slider.
 
 &nbsp;   
 
