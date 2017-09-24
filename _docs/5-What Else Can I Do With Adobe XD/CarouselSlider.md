@@ -143,10 +143,11 @@ The wolf is the second image so I will add a fill to the middle circle.
 
 And finally, the daisies are the third image so we fill the third circle.  
 
+&nbsp;   
 
 Now we are ready to add interactions between the images to create our slider.  
 
-<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-19.png" alt="no image"/>Switch to Prototype Mode
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-19.png" alt="no image"/>
 
 
 &nbsp;   
