@@ -150,7 +150,11 @@ Now we are ready to add interactions between the images to create our slider.
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-20.png" alt="no image"/>Now we will begin linking the screen with wires.
+&nbsp;   
+
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-20.png" alt="no image"/>Now we will begin linking the screen with wires.  
+
+&nbsp;   
 
 Link the corresponding circles in the bottom navigation to the image.  
 
