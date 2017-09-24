@@ -122,6 +122,8 @@ Hold down the Shift key to draw a perfect circle. Remove the fill.
 &nbsp;   
 
 &nbsp;   
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-14.png" alt="no image"/>Just like we did before, select all the circles and group them.
+We now have all the elements we need to create our slider, but we need all of our images.
 
 &nbsp;   
 
