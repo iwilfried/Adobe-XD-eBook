@@ -128,8 +128,6 @@ We now have all the elements we need to create our slider, but we need all of ou
 
 <img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-15.png" alt="no image"/>  
 
-&nbsp;     
-
 Next, open an artboard for every image in your slider. 
 
 Now we need to copy and paste the arrows and the circle navigation buttons from the first slide to the other two slides.
