@@ -134,6 +134,9 @@ Now we need to copy and paste the arrows and the circle navigation buttons from 
 
 &nbsp;   
 
+<img style="padding: 0px 15px;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-15.png" alt="no image"/>  
+The only change we will make is to add a white fill the the corresponding circle. For example, the purple flowers image is my first image so I add a white fill to the first circle.
+
 &nbsp;   
 
 &nbsp;   
