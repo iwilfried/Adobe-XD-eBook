@@ -145,6 +145,8 @@ And finally, the daisies are the third image so we fill the third circle.
 &nbsp;   
 Now we are ready to add interactions between the images to create our slider.  
 
+&nbsp;   
+
 <img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-19.png" alt="no image"/>
 
 
@@ -152,7 +154,9 @@ Now we are ready to add interactions between the images to create our slider.
 
 &nbsp;   
 
-<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-20.png" alt="no image"/>Now we will begin linking the screen with wires.  
+<img style="padding: 0px 15px;float:right;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-20.png" alt="no image"/>  
+
+Now we will begin linking the screen with wires.  
 
 &nbsp;   
 
