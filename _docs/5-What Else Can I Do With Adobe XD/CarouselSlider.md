@@ -176,9 +176,11 @@ Then we will connect the arrows to the next or previous image.
 
 &nbsp;   
 
-<img style="padding: 0px 0px" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-22.png" alt="no image"/>  
+<img style="padding: 0px 15px;float:left;" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Slider-22.png" alt="no image"/>  
 
 &nbsp;   
+
+After you’ve completed connecting the wires you can use the preview mode to check out how it flows and make adjustments if needed.
 
 &nbsp;   
 
