@@ -13,8 +13,10 @@ Keep in mind, there have been multiple updates to Adobe XD so the layout of your
 ![Start Screen](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Start-01.png)
 ![Start Screen](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Details-01.png)   
 
-> You can use resources at the startscreen 
->
+> It is recommended to explore the basics with the tutorial; play around and see with given examples how this Adobe XD 'Experience Design works.  
+
+
+&nbsp;   
 
 **Explore the basics:** On the bottom left of the start screen is a button that links you to a beginning tutorial that walks you through how to use the application. 
 
