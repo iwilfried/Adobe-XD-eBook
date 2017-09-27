@@ -19,21 +19,7 @@ On the right side of the interface you will look at all the Appearance tools and
 
 &nbsp; 
 
-  <div style="background-color: white; box-sizing: inherit; font-family: Verdana, sans-serif; font-size: 15px;">
-        <br /></div>
-        <div class="w3-example" style="background-color: #f1f1f1; box-shadow: rgba(0, 0, 0, 0.156863) 0px 2px 4px 0px, 
-        rgba(0, 0, 0, 0.117647) 0px 2px 10px 0px !important; box-sizing: inherit; font-family: Verdana, sans-serif; font-size: 15px; 
-        margin: 20px 0px; padding: 0.01em 16px;">
-   
-    <h3 style="box-sizing: inherit; font-family: &quot;Segoe UI&quot;, Arial, sans-serif; font-size: 24px; font-weight: 400; margin: 10px 0px;">
-        Example</h3>
-        <div class="w3-code notranslate jsHigh" style="background-color: white; border-left: 4px solid rgb(76, 175, 80); 
-        box-sizing: inherit; font-family: Consolas, &quot;courier new&quot;; font-size: 16px; line-height: 1.4; margin: 20px 0px; 
-        padding: 8px 12px; width: auto; word-wrap: break-word;">
-        <span style="box-sizing: inherit;"><span style="box-sizing: inherit; color: mediumblue;">var</span>&nbsp;person =&nbsp;
-        <span style="box-sizing: inherit; color: brown;">"John Doe"</span>;</span></div>
-        
-        </div>
+
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Interface-02.png" alt="no image" />On the left side you’ll see a column of tools. The selection tool, rectangle tool, an ellipse tool, line tool, pen tool and text tool. Each tool has a shortcut. If you forget what the keyboard shortcut is hover your mouse over the tool symbol and it will be displayed.
 
