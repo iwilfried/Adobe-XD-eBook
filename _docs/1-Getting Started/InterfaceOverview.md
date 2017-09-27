@@ -8,7 +8,16 @@ It’s time to get started. Let’s get familiar with the Adobe XD interface. Fr
 
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Interface-01.png)
 
-Once you’ve selected a preset, a window opens immediately. Here is your blank slate, or your interface. It’s clean and surprisingly straightforward.
+Once you’ve selected a preset, a window opens immediately. Here is your blank slate, or your interface. It’s clean and surprisingly straightforward.  
+&nbsp; 
+
+#### Quick Read  
+>Begin by looking at the tools along the left vertical toolbar.  
+Go over the function and shortcut for the Selection (S), Rectangle (R), Ellipse (E), Line (L), Pen (P), Text (T), Artboard (A), Zoom (Z), Symbol Library (Shift-Command + Y), and Layers (Command-Y) Tools.  
+On the right side of the interface you will look at all the Appearance tools and Preview functions as well as Boolean operations and the amazing Repeat Grid function. We will also discuss how to share the prototype with other team members and stakeholders.
+    
+
+&nbsp; 
 
 <img style="padding: 0px 15px; float: left" src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Interface-02.png" alt="no image" />On the left side you’ll see a column of tools. The selection tool, rectangle tool, an ellipse tool, line tool, pen tool and text tool. Each tool has a shortcut. If you forget what the keyboard shortcut is hover your mouse over the tool symbol and it will be displayed.
 
