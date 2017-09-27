@@ -11,6 +11,8 @@ Keep in mind, there have been multiple updates to Adobe XD so the layout of your
 ![Start Screen](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Start-01.png)
 ![Start Screen](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Details-01.png)   
 
+&nbsp; 
+
 #### Quick Read  
 >Explore Adobe XD’s Start Screen. Learn how to begin your design from scratch, choose your artboard size with individual presets or custom settings, and browse countless UI kit elements for iOS, Google or Microsoft.  
  If you are returning to your project, find out how to open recent work from the right panel and continue the design and prototype process. Keep up on all Adobe XD updates with the resource links at the bottom of the Start Screen.    
@@ -25,4 +27,8 @@ Keep in mind, there have been multiple updates to Adobe XD so the layout of your
 
 If you’ve been with Adobe XD from the start then you know it has gone through numerous transitions to become the UI/UX design tool it is today. That’s where “*Provide Feedback*” comes into play. A good portion of XD’s updates were a direct result of user feedback. If you have feature requests or bug issues report it — Adobe wants to hear from you. You’ll also find community and forum links on this page. 
 
-**Recent Files:** The column on the right lists shortcuts to your recent files.
+**Recent Files:** The column on the right lists shortcuts to your recent files.  
+
+&nbsp; 
+
+&nbsp; 
