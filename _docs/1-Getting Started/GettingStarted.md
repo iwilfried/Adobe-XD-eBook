@@ -11,7 +11,8 @@ Keep in mind, there have been multiple updates to Adobe XD so the layout of your
 ![Start Screen](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Start-01.png)
 ![Start Screen](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Details-01.png)   
 
-Alt-H2 Quick Read
+Alt-Quick Read
+=====
 >Explore Adobe XD’s Start Screen. Learn how to begin your design from scratch, choose your artboard size with individual presets or custom settings, and browse countless UI kit elements for iOS, Google or Microsoft. If you are returning to your project, find out how to open recent work from the right panel and continue the design and prototype process. Keep up on all Adobe XD updates with the resource links at the bottom of the Start Screen.    
 
 &nbsp;   
