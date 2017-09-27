@@ -15,7 +15,6 @@ Keep in mind, there have been multiple updates to Adobe XD so the layout of your
 >Explore Adobe XD’s Start Screen. Learn how to begin your design from scratch, choose your artboard size with individual presets or custom settings, and browse countless UI kit elements for iOS, Google or Microsoft. If you are returning to your project, find out how to open recent work from the right panel and continue the design and prototype process. Keep up on all Adobe XD updates with the resource links at the bottom of the Start Screen.    
 
 
-
 **Explore the basics:** On the bottom left of the start screen is a button that links you to a beginning tutorial that walks you through how to use the application. 
 
 **UI Kits:** The UI kit is a collection of design elements and components to greatly reduce design time. With an easy drag and drop approach designers can create functional prototypes in no time. Currently, there are user interfaces for iOS, Google Material design,Android, and Microsoft Windows.
