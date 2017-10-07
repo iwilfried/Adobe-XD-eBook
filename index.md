@@ -24,18 +24,17 @@ Here are a few more reasons to seriously consider Adobe XD 'Experience Design':
 
 * **Adobe XD is a true UI/UX design tool.** Within One design session you will be sold and Wonder how you ever got by using a photo editing tool for UI/UX design. The interface is simple and streamlined, exactly what designers asked for.
 
-&nbsp;   
+
 
 * **Adobe XD is available for Windows.** The simple fact that Adobe XD will be available on all platforms, and Sketch is Mac Only, gives Adobe XD a huge boost.
 
-&nbsp;   
+
 
 * **Adobe XD is fast, really fast.** In Adobe's Words XD was developed so "designers could design at the speed of thought." Did they do it? I dare say they did!
 
-&nbsp;   
+
 
 * **The "repeat grid" feature.** One of the most powerful elements in XD is the "repeat grid" feature. Repeat objects seamlessly vertically or horizontally with One click on a button.
 
-&nbsp;   
 
 * **Prototype, share and collaborate.** In addition to design, Adobe XD offers a one-of-a-kind prototype feature you are sure to love. Create a prototype complete with interactions and transitions inside the app. Share your ideas in real time with the rest of your team.
