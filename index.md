@@ -4,13 +4,23 @@ title: Welcome
 
 Adobe XD is a complete tool set developed with UI/UX designers in mind. With the power of Adobe XD, designers have the ability to create, prototype, and share website and mobile app designs.
 
-The interface is clean and simple yet efficient. So, even if you aren't an actual UI/UX designer, the learning Curve is minimal and with a bit of direction from us you'll be developing your Own designs in no time.
+The interface is clean and simple yet efficient. So, even if you aren't an actual UI/UX designer, the learning Curve is minimal and with a bit of direction from us you'll be developing your Own designs in no time.  
 
-### Why Adobe XD?  
+
+Why Adobe XD? 
 
 Before 2010 the popular choice for designing Websites or mobile apps was Adobe Photoshop. Then in 2010 Sketch, from Bohemian Coding, was introduced and quickly became the leading Photoshop alternative. Sketch has a smaller price tag and is dedicated to UI/UX designers; however, Sketch software is only available on Mac.
 
-Finally, in 2016, Adobe developed Abode XD, an app totally dedicated to interface designers. What began as a Mac Only, preview version with minimal features, has grown into an equally impressive-if not superior-software available for Mac, Windows 10, IOS and Android.  
+Finally, in 2016, Adobe developed Abode XD, an app totally dedicated to interface designers. What began as a Mac Only, preview version with minimal features, has grown into an equally impressive-if not superior-software available for Mac, Windows 10, IOS and Android.   
+
+
+<<<<<<< HEAD
+### Why Adobe XD?  
+
+Before 2010 the popular choice for designing Websites or mobile apps was Adobe Photoshop. Then in 2010 Sketch, from Bohemian Coding, was introduced and quickly became the leading Photoshop alternative. Sketch has a smaller price tag and is dedicated to UI/UX designers; however, Sketch software is only available on Mac.
+=======
+>>>>>>> 26c758be44dc37b61a2ad8c272d054b1baaf0768
+
 
 &nbsp;   
 
@@ -18,6 +28,7 @@ Finally, in 2016, Adobe developed Abode XD, an app totally dedicated to interfac
 <img src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Welcome-01.png" alt="no image"/>  
 [Dann Petty](https://dribbble.com/shots/3066583-Adobe-Xd-Onshore-App-Design)  
 
+<<<<<<< HEAD
 &nbsp;   
 
 ### Not Completely convinced?  
@@ -26,6 +37,11 @@ Here are a few more reasons to seriously consider Adobe XD 'Experience Design':
 
 
 &nbsp;   
+=======
+ 
+Not Completely convinced? Here are a few more reasons to seriously consider Adobe XD 'Experience Design':  
+
+>>>>>>> 26c758be44dc37b61a2ad8c272d054b1baaf0768
 
 **Adobe XD is a true UI/UX design tool.** Within One design session you will be sold and Wonder how you ever got by using a photo editing tool for UI/UX design. The interface is simple and streamlined, exactly what designers asked for.
 
