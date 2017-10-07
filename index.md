@@ -12,14 +12,10 @@ Before 2010 the popular choice for designing Websites or mobile apps was Adobe P
 
 Finally, in 2016, Adobe developed Abode XD, an app totally dedicated to interface designers. What began as a Mac Only, preview version with minimal features, has grown into an equally impressive-if not superior-software available for Mac, Windows 10, IOS and Android.   
 
-### Why Adobe XD?  
-
-Before 2010 the popular choice for designing Websites or mobile apps was Adobe Photoshop. Then in 2010 Sketch, from Bohemian Coding, was introduced and quickly became the leading Photoshop alternative. Sketch has a smaller price tag and is dedicated to UI/UX designers; however, Sketch software is only available on Mac.
-
 &nbsp;   
 
 <img src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Welcome-01.png" alt="no image"/>  
-[Dann Petty](https://dribbble.com/shots/3066583-Adobe-Xd-Onshore-App-Design)  
+![Dann Petty](https://dribbble.com/shots/3066583-Adobe-Xd-Onshore-App-Design)  
 
 &nbsp;   
 
