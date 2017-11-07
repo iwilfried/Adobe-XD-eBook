@@ -5,8 +5,7 @@ title: Welcome
 
 Adobe XD is a complete tool set developed with UI/UX designers in mind. With the power of Adobe XD, designers have the ability to create, prototype, and share website and mobile app designs.
 
-The interface is clean and simple yet efficient. So, even if you aren't an actual UI/UX designer, the learning Curve is minimal and with a bit of direction from us you'll be developing your Own designs in no time.  
-
+The interface is clean and simple yet efficient. So, even if you aren't an actual UI/UX designer, the learning Curve is minimal and with a bit of direction from us you'll be developing your Own designs in no time.
 ### Why Adobe XD? 
 
 Before 2010 the popular choice for designing Websites or mobile apps was Adobe Photoshop. Then in 2010 Sketch, from Bohemian Coding, was introduced and quickly became the leading Photoshop alternative. Sketch has a smaller price tag and is dedicated to UI/UX designers; however, Sketch software is only available on Mac.
