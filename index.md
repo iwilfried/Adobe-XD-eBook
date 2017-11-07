@@ -1,7 +1,7 @@
 ---
 title: Welcome  
 ---
-<img src="https://iwilfried.github.io/Adobe-XD-eBook/images/xd-01.png" alt="no image"/>  
+<img src="https://iwilfried.github.io/Adobe-XD-eBook/images/logo-06.png" alt="no image"/>  
 
 Adobe XD is a complete tool set developed with UI/UX designers in mind. With the power of Adobe XD, designers have the ability to create, prototype, and share website and mobile app designs.
 
