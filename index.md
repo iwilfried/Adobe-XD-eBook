@@ -14,8 +14,7 @@ Finally, in 2016, Adobe developed Abode XD, an app totally dedicated to interfac
 &nbsp;   
 
 <img src="https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Welcome-01.png" alt="no image"/>  
-![Dann Petty](https://dribbble.com/shots/3066583-Adobe-Xd-Onshore-App-Design)  
-
+![Dann Petty - Adobe-Xd-Onshore-App-Design](https://dribble.com/shots/3066583-Adobe-Xd-Onshore-App-Design)
 &nbsp;   
 
 #### Not Completely convinced?  
