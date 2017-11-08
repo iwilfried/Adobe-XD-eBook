@@ -18,7 +18,7 @@ Keep in mind, there have been multiple updates to Adobe XD so the layout of your
 
 &nbsp; 
 
-**Explore the basics:** On the bottom left of the start screen is a button that links you to a beginning tutorial that walks you through how to use the application. 
+**Explore the basics:** On the top left of the start screen is a button that links you to a beginning tutorial that walks you through how to use the application. 
 
 **UI Kits:** The UI kit is a collection of design elements and components to greatly reduce design time. With an easy drag and drop approach designers can create functional prototypes in no time. Currently, there are user interfaces for iOS, Google Material design,Android, and Microsoft Windows.
 
