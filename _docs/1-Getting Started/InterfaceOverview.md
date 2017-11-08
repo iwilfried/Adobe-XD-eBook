@@ -8,12 +8,12 @@ It’s time to get started. Let’s get familiar with the **Adobe XD CC** interf
 
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Interface-01.png)
 
-Once you’ve selected a preset, a window opens immediately. Here is your blank slate, or your interface. It’s clean and surprisingly straightforward.  
+Once you’ve selected a preset, a window opens immediately. Here is your blank slate, or your interface. It’s clean and surprisingly straightforward. Click on the name of the artboard (here: iPhone 6/7 - 1) and you get a blue border with handles, means the artboard is active. 
 &nbsp; 
 
 #### Quick Read  
 >Begin by looking at the tools along the left vertical toolbar.  
-Go over the function and shortcut for the Selection (S), Rectangle (R), Ellipse (E), Line (L), Pen (P), Text (T), Artboard (A), Zoom (Z), Symbol Library (Shift-Command + Y), and Layers (Command-Y) Tools.  
+Go over the function and shortcut for the Selection (S), Rectangle (R),Ellipse (E), Line (L), Pen (P), Text (T), Artboard (A), Zoom (Z), Symbol Library (Shift-Command + Y), and Layers (Command-Y) Tools.  
 On the right side of the interface you will look at all the Appearance tools and Preview functions as well as Boolean operations and the amazing Repeat Grid function. We will also discuss how to share the prototype with other team members and stakeholders.
     
 
