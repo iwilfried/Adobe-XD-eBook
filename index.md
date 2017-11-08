@@ -3,7 +3,7 @@ title: Welcome
 ---
 <img src="https://iwilfried.github.io/Adobe-XD-eBook/images/logo-06.png" alt="no image"/>  
 
-Adobe XD CC is a complete tool set developed with UI/UX designers in mind. With the power of Adobe XD, designers have the ability to create, prototype, and share website and mobile app designs.
+**Adobe XD CC** is a complete tool set developed with UI/UX designers in mind. With the power of Adobe XD, designers have the ability to create, prototype, and share website and mobile app designs.
 
 The interface is clean and simple yet efficient. So, even if you aren't an actual UI/UX designer, the learning Curve is minimal and with a bit of direction from us you'll be developing your Own designs in no time.
 ## Why Adobe XD? 
