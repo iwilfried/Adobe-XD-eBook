@@ -15,6 +15,7 @@ Keep in mind, there have been multiple updates to Adobe XD so the layout of your
 
 #### Quick Read  
 >Explore Adobe XD’s Start Screen. Learn how to begin your design from scratch, choose your artboard size with individual presets or custom settings, and browse countless UI kit elements for iOS, Google or Microsoft.     
+&nbsp; 
 
 **Explore the basics:** On the bottom left of the start screen is a button that links you to a beginning tutorial that walks you through how to use the application. 
 
