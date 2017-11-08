@@ -6,7 +6,7 @@ order: 1
 
 **Start Screen:** Consider the start screen as Adobe XD’s “homebase.” It’s the first screen you see after launching the program and the last screen you see after closing a file.  
 From the start screen you can access design presets for both Apple and Android phones and tablets, as well as web and custom sizes.  
-Keep in mind, there have been multiple updates to Adobe XD so the layout of your Start Screen may vary slightly from the image below.
+Keep in mind, there have been multiple updates to Adobe XD so the layout of your start screen may vary slightly from the image below.
 
 ![Start Screen](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Start-01.png)  
 
