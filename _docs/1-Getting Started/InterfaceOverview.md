@@ -4,7 +4,7 @@ category: 1-Getting Started
 order: 2
 ---
 
-It’s time to get started. Let’s get familiar with the Adobe XD interface. From the Start Screen, choose a file preset. My examples will be based on the iPhone 6/7.
+It’s time to get started. Let’s get familiar with the **Adobe XD CC** interface. From the Start Screen, choose a file preset. My examples will be based on the iPhone 6/7.
 
 ![](https://iwilfried.github.io/Adobe-XD-eBook/images/XD-Interface-01.png)
 
